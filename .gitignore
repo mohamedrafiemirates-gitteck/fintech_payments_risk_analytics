@@ -16,3 +16,4 @@ __pycache__/
 # Supabase local temp
 .supabase/
 
+supabase/.temp/
