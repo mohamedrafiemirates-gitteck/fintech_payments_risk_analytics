@@ -1,0 +1,401 @@
+merchant_id,merchant_name,merchant_category,emirate,onboarding_date,merchant_status
+MER00001,Emirates Retail 1,Services,Ras Al Khaimah,2026-09-08,Active
+MER00002,Al Noor Fuel 2,Healthcare,Dubai,2026-08-10,Active
+MER00003,Global Fuel 3,Healthcare,Abu Dhabi,2025-02-21,Active
+MER00004,Prime Restaurant 4,Electronics,Abu Dhabi,2025-02-04,Active
+MER00005,Metro Retail 5,Travel,Abu Dhabi,2026-11-09,Active
+MER00006,Metro Travel 6,Fuel,Dubai,2026-05-08,Inactive
+MER00007,Metro Grocery 7,Restaurant,Ajman,2025-01-15,Active
+MER00008,City Restaurant 8,Restaurant,Umm Al Quwain,2025-07-17,Active
+MER00009,Al Noor Retail 9,Grocery,Sharjah,2026-11-03,Active
+MER00010,Prime Services 10,Travel,Dubai,2026-09-23,Active
+MER00011,Al Noor Retail 11,Electronics,Fujairah,2026-09-20,Active
+MER00012,Emirates Retail 12,Fuel,Sharjah,2026-10-11,Active
+MER00013,Global Fuel 13,Grocery,Ras Al Khaimah,2026-03-20,Suspended
+MER00014,Metro Services 14,Services,Abu Dhabi,2025-08-13,Inactive
+MER00015,City Services 15,Healthcare,Ajman,2026-06-11,Active
+MER00016,City Retail 16,Electronics,Sharjah,2025-03-26,Inactive
+MER00017,Global Services 17,Grocery,Ras Al Khaimah,2025-10-27,Active
+MER00018,Al Noor Retail 18,Grocery,Umm Al Quwain,2026-01-21,Active
+MER00019,Global Restaurant 19,Electronics,Fujairah,2025-12-24,Active
+MER00020,Global Electronics 20,Travel,Dubai,2025-05-21,Active
+MER00021,Prime Fuel 21,Fuel,Sharjah,2025-04-24,Active
+MER00022,Metro Restaurant 22,Services,Sharjah,2026-07-07,Active
+MER00023,City Grocery 23,Fuel,Ajman,2025-04-17,Active
+MER00024,Al Noor Electronics 24,Healthcare,Sharjah,2026-03-11,Active
+MER00025,Al Noor Healthcare 25,Travel,Ras Al Khaimah,2025-02-27,Active
+MER00026,Emirates Grocery 26,Services,Abu Dhabi,2026-07-09,Active
+MER00027,Emirates Services 27,Healthcare,Ajman,2025-05-06,Active
+MER00028,Prime Healthcare 28,Travel,Ajman,2024-04-10,Active
+MER00029,Prime Retail 29,Travel,Abu Dhabi,2024-11-02,Active
+MER00030,Metro Retail 30,Electronics,Ras Al Khaimah,2024-03-12,Active
+MER00031,Global Retail 31,Travel,Abu Dhabi,2025-04-26,Inactive
+MER00032,Metro Electronics 32,Services,Ras Al Khaimah,2025-08-06,Active
+MER00033,Emirates Grocery 33,Travel,Abu Dhabi,2025-09-10,Active
+MER00034,City Healthcare 34,Healthcare,Fujairah,2024-12-27,Active
+MER00035,Prime Restaurant 35,Fuel,Umm Al Quwain,2026-01-17,Active
+MER00036,Al Noor Fuel 36,Travel,Ras Al Khaimah,2025-07-26,Active
+MER00037,Al Noor Services 37,Services,Sharjah,2025-09-10,Active
+MER00038,City Services 38,Fuel,Sharjah,2024-11-19,Active
+MER00039,Global Services 39,Retail,Abu Dhabi,2025-05-24,Active
+MER00040,Metro Grocery 40,Fuel,Abu Dhabi,2025-05-12,Active
+MER00041,Global Travel 41,Restaurant,Fujairah,2024-12-16,Active
+MER00042,Emirates Services 42,Fuel,Ras Al Khaimah,2025-01-23,Active
+MER00043,Emirates Fuel 43,Travel,Dubai,2025-08-28,Active
+MER00044,City Fuel 44,Healthcare,Umm Al Quwain,2026-03-16,Active
+MER00045,Al Noor Travel 45,Services,Abu Dhabi,2024-04-13,Active
+MER00046,Al Noor Grocery 46,Services,Sharjah,2025-01-01,Active
+MER00047,Prime Services 47,Retail,Sharjah,2026-09-04,Active
+MER00048,Al Noor Healthcare 48,Healthcare,Ras Al Khaimah,2025-09-29,Active
+MER00049,Emirates Fuel 49,Retail,Abu Dhabi,2026-04-02,Active
+MER00050,Metro Restaurant 50,Retail,Ajman,2025-05-29,Active
+MER00051,Metro Restaurant 51,Healthcare,Umm Al Quwain,2026-01-21,Active
+MER00052,Metro Travel 52,Electronics,Umm Al Quwain,2024-12-15,Active
+MER00053,Emirates Travel 53,Retail,Fujairah,2026-12-26,Active
+MER00054,Metro Healthcare 54,Fuel,Fujairah,2025-12-16,Active
+MER00055,Prime Electronics 55,Services,Sharjah,2025-12-04,Active
+MER00056,Metro Electronics 56,Healthcare,Abu Dhabi,2024-07-29,Inactive
+MER00057,Al Noor Grocery 57,Travel,Dubai,2025-05-21,Active
+MER00058,Al Noor Grocery 58,Restaurant,Ajman,2025-02-16,Active
+MER00059,Emirates Healthcare 59,Restaurant,Umm Al Quwain,2024-12-27,Active
+MER00060,Emirates Travel 60,Retail,Sharjah,2024-07-13,Active
+MER00061,Prime Travel 61,Electronics,Ras Al Khaimah,2025-04-24,Suspended
+MER00062,Prime Healthcare 62,Fuel,Ras Al Khaimah,2025-07-09,Active
+MER00063,City Services 63,Retail,Sharjah,2026-09-25,Active
+MER00064,Global Retail 64,Restaurant,Fujairah,2024-09-16,Active
+MER00065,Al Noor Travel 65,Travel,Ajman,2025-11-20,Active
+MER00066,Global Fuel 66,Fuel,Sharjah,2025-03-23,Active
+MER00067,Prime Grocery 67,Services,Sharjah,2025-09-05,Active
+MER00068,City Electronics 68,Healthcare,Dubai,2024-03-17,Active
+MER00069,Global Restaurant 69,Services,Umm Al Quwain,2024-07-03,Active
+MER00070,Global Fuel 70,Restaurant,Umm Al Quwain,2024-05-31,Active
+MER00071,Al Noor Grocery 71,Grocery,Umm Al Quwain,2024-10-14,Active
+MER00072,Global Healthcare 72,Services,Umm Al Quwain,2024-10-24,Active
+MER00073,Prime Grocery 73,Grocery,Umm Al Quwain,2024-06-30,Active
+MER00074,Metro Electronics 74,Services,Fujairah,2026-05-17,Active
+MER00075,Metro Retail 75,Retail,Dubai,2025-04-25,Active
+MER00076,City Grocery 76,Healthcare,Dubai,2026-12-22,Active
+MER00077,City Electronics 77,Grocery,Sharjah,2025-06-26,Active
+MER00078,Metro Grocery 78,Retail,Sharjah,2024-10-24,Active
+MER00079,Emirates Healthcare 79,Grocery,Ajman,2024-06-13,Active
+MER00080,City Retail 80,Restaurant,Fujairah,2026-08-22,Active
+MER00081,Global Grocery 81,Fuel,Fujairah,2025-04-21,Active
+MER00082,Emirates Grocery 82,Retail,Fujairah,2026-08-18,Active
+MER00083,Emirates Fuel 83,Fuel,Ras Al Khaimah,2025-02-04,Active
+MER00084,Al Noor Retail 84,Restaurant,Sharjah,2024-06-23,Active
+MER00085,Global Grocery 85,Restaurant,Umm Al Quwain,2025-09-04,Active
+MER00086,Global Restaurant 86,Electronics,Fujairah,2026-04-26,Active
+MER00087,Emirates Retail 87,Travel,Ras Al Khaimah,2024-01-14,Active
+MER00088,Al Noor Restaurant 88,Retail,Umm Al Quwain,2024-05-06,Active
+MER00089,Al Noor Restaurant 89,Restaurant,Ajman,2026-06-06,Active
+MER00090,Emirates Retail 90,Fuel,Ajman,2024-10-18,Active
+MER00091,Prime Fuel 91,Electronics,Ras Al Khaimah,2024-06-28,Active
+MER00092,Global Retail 92,Services,Sharjah,2026-11-04,Active
+MER00093,Prime Fuel 93,Grocery,Sharjah,2026-08-27,Suspended
+MER00094,Global Healthcare 94,Travel,Ajman,2025-10-25,Active
+MER00095,Prime Grocery 95,Services,Sharjah,2024-01-13,Inactive
+MER00096,Metro Electronics 96,Services,Abu Dhabi,2024-11-14,Active
+MER00097,City Restaurant 97,Travel,Fujairah,2024-08-01,Active
+MER00098,Emirates Healthcare 98,Fuel,Abu Dhabi,2025-11-05,Active
+MER00099,City Retail 99,Fuel,Ras Al Khaimah,2026-08-27,Active
+MER00100,Global Grocery 100,Healthcare,Ajman,2025-03-12,Active
+MER00101,Al Noor Travel 101,Restaurant,Abu Dhabi,2024-03-09,Inactive
+MER00102,Metro Grocery 102,Services,Ras Al Khaimah,2026-01-26,Active
+MER00103,Global Retail 103,Restaurant,Abu Dhabi,2025-11-15,Active
+MER00104,Global Restaurant 104,Electronics,Dubai,2026-12-29,Suspended
+MER00105,City Grocery 105,Healthcare,Ras Al Khaimah,2026-12-19,Active
+MER00106,Emirates Travel 106,Electronics,Abu Dhabi,2024-08-19,Active
+MER00107,Emirates Retail 107,Fuel,Ras Al Khaimah,2026-03-06,Inactive
+MER00108,Prime Retail 108,Fuel,Abu Dhabi,2026-10-30,Active
+MER00109,Emirates Healthcare 109,Grocery,Sharjah,2025-01-11,Active
+MER00110,Prime Healthcare 110,Fuel,Sharjah,2026-11-14,Active
+MER00111,Global Grocery 111,Fuel,Ras Al Khaimah,2026-11-19,Active
+MER00112,Al Noor Travel 112,Grocery,Fujairah,2024-05-04,Active
+MER00113,Emirates Grocery 113,Retail,Ras Al Khaimah,2026-08-10,Active
+MER00114,Emirates Travel 114,Electronics,Fujairah,2026-03-16,Inactive
+MER00115,Prime Services 115,Retail,Fujairah,2025-08-21,Active
+MER00116,Global Electronics 116,Electronics,Umm Al Quwain,2026-06-19,Active
+MER00117,Metro Restaurant 117,Retail,Ras Al Khaimah,2024-01-22,Active
+MER00118,Global Healthcare 118,Travel,Umm Al Quwain,2025-02-17,Active
+MER00119,Prime Restaurant 119,Fuel,Ajman,2026-05-09,Active
+MER00120,Emirates Restaurant 120,Travel,Dubai,2024-09-21,Active
+MER00121,Emirates Restaurant 121,Electronics,Umm Al Quwain,2026-02-16,Active
+MER00122,Prime Retail 122,Retail,Dubai,2025-06-01,Active
+MER00123,Global Grocery 123,Restaurant,Ras Al Khaimah,2025-12-30,Active
+MER00124,Emirates Services 124,Grocery,Ajman,2025-12-11,Suspended
+MER00125,Emirates Grocery 125,Grocery,Ajman,2025-02-05,Active
+MER00126,Global Electronics 126,Grocery,Ras Al Khaimah,2026-08-08,Active
+MER00127,Emirates Electronics 127,Retail,Umm Al Quwain,2026-11-03,Active
+MER00128,Global Electronics 128,Healthcare,Ajman,2026-06-24,Active
+MER00129,Prime Travel 129,Fuel,Fujairah,2024-09-06,Active
+MER00130,Prime Travel 130,Retail,Sharjah,2024-02-25,Active
+MER00131,Global Fuel 131,Restaurant,Ras Al Khaimah,2025-08-30,Active
+MER00132,Global Healthcare 132,Services,Umm Al Quwain,2024-08-20,Active
+MER00133,Al Noor Healthcare 133,Electronics,Ajman,2026-01-15,Active
+MER00134,Prime Fuel 134,Services,Sharjah,2025-08-20,Active
+MER00135,Metro Retail 135,Travel,Fujairah,2024-08-05,Active
+MER00136,Global Travel 136,Retail,Sharjah,2025-07-28,Active
+MER00137,Metro Electronics 137,Travel,Ras Al Khaimah,2024-04-29,Active
+MER00138,Emirates Healthcare 138,Electronics,Abu Dhabi,2025-04-20,Active
+MER00139,Prime Grocery 139,Grocery,Ajman,2025-04-26,Active
+MER00140,Al Noor Healthcare 140,Services,Abu Dhabi,2026-12-03,Active
+MER00141,Prime Restaurant 141,Travel,Umm Al Quwain,2025-11-02,Active
+MER00142,Prime Electronics 142,Electronics,Dubai,2024-08-14,Active
+MER00143,City Restaurant 143,Grocery,Dubai,2025-11-15,Active
+MER00144,City Retail 144,Healthcare,Abu Dhabi,2025-01-24,Inactive
+MER00145,Global Retail 145,Retail,Ajman,2025-12-07,Active
+MER00146,Metro Electronics 146,Grocery,Abu Dhabi,2026-10-21,Active
+MER00147,Al Noor Services 147,Restaurant,Sharjah,2026-12-29,Active
+MER00148,Global Electronics 148,Electronics,Umm Al Quwain,2026-02-12,Active
+MER00149,Emirates Electronics 149,Retail,Dubai,2024-08-09,Suspended
+MER00150,Emirates Restaurant 150,Retail,Ajman,2025-07-26,Active
+MER00151,City Grocery 151,Electronics,Abu Dhabi,2026-09-27,Active
+MER00152,Metro Grocery 152,Grocery,Ras Al Khaimah,2026-06-20,Active
+MER00153,Metro Grocery 153,Electronics,Umm Al Quwain,2024-06-25,Active
+MER00154,Al Noor Healthcare 154,Services,Abu Dhabi,2025-05-09,Active
+MER00155,Global Healthcare 155,Restaurant,Sharjah,2026-11-29,Active
+MER00156,Global Services 156,Healthcare,Ajman,2024-10-11,Active
+MER00157,Emirates Restaurant 157,Healthcare,Ras Al Khaimah,2025-12-07,Active
+MER00158,Metro Fuel 158,Fuel,Ras Al Khaimah,2024-03-26,Active
+MER00159,Metro Electronics 159,Travel,Abu Dhabi,2025-11-14,Active
+MER00160,Global Healthcare 160,Services,Umm Al Quwain,2026-09-21,Active
+MER00161,Global Healthcare 161,Retail,Abu Dhabi,2025-01-10,Active
+MER00162,Al Noor Travel 162,Services,Abu Dhabi,2025-11-16,Active
+MER00163,Global Retail 163,Travel,Fujairah,2025-03-27,Active
+MER00164,City Retail 164,Travel,Abu Dhabi,2024-03-03,Active
+MER00165,Prime Grocery 165,Healthcare,Ras Al Khaimah,2026-09-17,Active
+MER00166,Global Travel 166,Restaurant,Ras Al Khaimah,2026-06-08,Active
+MER00167,Emirates Grocery 167,Services,Ras Al Khaimah,2024-06-09,Inactive
+MER00168,Global Restaurant 168,Retail,Dubai,2026-01-15,Active
+MER00169,Global Fuel 169,Grocery,Dubai,2024-05-24,Active
+MER00170,Global Services 170,Travel,Abu Dhabi,2025-01-13,Active
+MER00171,Al Noor Fuel 171,Grocery,Ajman,2025-11-12,Active
+MER00172,Metro Grocery 172,Grocery,Fujairah,2026-08-29,Active
+MER00173,Prime Travel 173,Grocery,Abu Dhabi,2026-03-13,Active
+MER00174,Al Noor Healthcare 174,Fuel,Fujairah,2024-07-28,Inactive
+MER00175,City Healthcare 175,Restaurant,Umm Al Quwain,2026-05-10,Active
+MER00176,Emirates Retail 176,Retail,Ajman,2024-09-23,Active
+MER00177,Metro Travel 177,Fuel,Umm Al Quwain,2026-01-28,Active
+MER00178,City Travel 178,Travel,Ras Al Khaimah,2025-10-17,Active
+MER00179,City Grocery 179,Travel,Dubai,2025-11-21,Active
+MER00180,Prime Fuel 180,Retail,Fujairah,2025-09-16,Active
+MER00181,Global Retail 181,Services,Umm Al Quwain,2026-07-19,Active
+MER00182,Emirates Fuel 182,Retail,Ras Al Khaimah,2025-08-18,Active
+MER00183,Al Noor Restaurant 183,Travel,Dubai,2026-07-22,Active
+MER00184,City Healthcare 184,Healthcare,Ajman,2024-06-19,Inactive
+MER00185,Prime Electronics 185,Retail,Umm Al Quwain,2024-02-26,Active
+MER00186,Emirates Healthcare 186,Healthcare,Ras Al Khaimah,2025-07-29,Active
+MER00187,Prime Grocery 187,Healthcare,Umm Al Quwain,2024-03-15,Active
+MER00188,Metro Restaurant 188,Healthcare,Sharjah,2025-05-16,Active
+MER00189,Al Noor Grocery 189,Fuel,Ras Al Khaimah,2025-06-01,Active
+MER00190,Emirates Retail 190,Grocery,Sharjah,2024-05-08,Active
+MER00191,Global Healthcare 191,Services,Sharjah,2024-09-24,Inactive
+MER00192,Prime Electronics 192,Fuel,Sharjah,2025-09-08,Active
+MER00193,Prime Electronics 193,Services,Dubai,2024-08-26,Active
+MER00194,Emirates Retail 194,Healthcare,Abu Dhabi,2025-07-04,Active
+MER00195,Al Noor Grocery 195,Travel,Ajman,2026-05-15,Active
+MER00196,Emirates Restaurant 196,Travel,Ras Al Khaimah,2024-11-16,Active
+MER00197,Al Noor Services 197,Travel,Abu Dhabi,2024-05-22,Active
+MER00198,Metro Grocery 198,Services,Sharjah,2024-01-16,Active
+MER00199,Prime Retail 199,Restaurant,Sharjah,2026-12-05,Active
+MER00200,City Services 200,Healthcare,Abu Dhabi,2025-12-01,Active
+MER00201,City Fuel 201,Restaurant,Dubai,2025-05-31,Active
+MER00202,Metro Fuel 202,Services,Fujairah,2025-06-22,Active
+MER00203,City Retail 203,Retail,Abu Dhabi,2025-03-11,Active
+MER00204,Global Healthcare 204,Services,Ras Al Khaimah,2026-03-29,Suspended
+MER00205,City Grocery 205,Travel,Dubai,2024-01-16,Active
+MER00206,Emirates Electronics 206,Fuel,Ajman,2026-07-16,Active
+MER00207,City Electronics 207,Services,Dubai,2025-01-15,Active
+MER00208,City Retail 208,Electronics,Abu Dhabi,2025-12-25,Active
+MER00209,Metro Retail 209,Healthcare,Dubai,2024-08-01,Active
+MER00210,Metro Fuel 210,Travel,Fujairah,2026-03-10,Active
+MER00211,Emirates Electronics 211,Healthcare,Sharjah,2025-02-04,Inactive
+MER00212,Al Noor Healthcare 212,Travel,Fujairah,2024-01-19,Active
+MER00213,Prime Restaurant 213,Fuel,Ajman,2025-07-13,Active
+MER00214,Emirates Restaurant 214,Travel,Umm Al Quwain,2026-06-21,Active
+MER00215,Al Noor Travel 215,Services,Dubai,2024-08-09,Active
+MER00216,Emirates Travel 216,Restaurant,Abu Dhabi,2025-05-17,Active
+MER00217,Metro Healthcare 217,Fuel,Dubai,2025-05-23,Inactive
+MER00218,Prime Travel 218,Electronics,Sharjah,2025-12-16,Active
+MER00219,Emirates Services 219,Travel,Dubai,2026-11-17,Active
+MER00220,Emirates Fuel 220,Retail,Dubai,2025-05-03,Active
+MER00221,Prime Services 221,Electronics,Fujairah,2026-05-31,Active
+MER00222,Global Grocery 222,Fuel,Sharjah,2024-11-16,Active
+MER00223,Metro Fuel 223,Restaurant,Fujairah,2026-11-22,Active
+MER00224,Al Noor Services 224,Travel,Sharjah,2026-09-15,Active
+MER00225,Prime Fuel 225,Fuel,Dubai,2025-01-25,Active
+MER00226,Emirates Electronics 226,Services,Sharjah,2026-04-17,Active
+MER00227,Al Noor Electronics 227,Fuel,Fujairah,2026-11-09,Active
+MER00228,Emirates Services 228,Fuel,Ajman,2026-08-12,Active
+MER00229,Prime Retail 229,Travel,Fujairah,2026-07-18,Active
+MER00230,Emirates Retail 230,Retail,Dubai,2024-08-20,Active
+MER00231,Al Noor Fuel 231,Retail,Abu Dhabi,2024-12-16,Active
+MER00232,Global Electronics 232,Retail,Ras Al Khaimah,2024-11-15,Active
+MER00233,City Grocery 233,Retail,Ras Al Khaimah,2026-09-06,Suspended
+MER00234,City Retail 234,Healthcare,Abu Dhabi,2025-11-20,Active
+MER00235,Prime Healthcare 235,Electronics,Ajman,2024-12-08,Active
+MER00236,Global Electronics 236,Retail,Dubai,2025-03-06,Active
+MER00237,City Electronics 237,Electronics,Ras Al Khaimah,2026-02-07,Inactive
+MER00238,Al Noor Restaurant 238,Retail,Sharjah,2024-11-11,Active
+MER00239,Prime Travel 239,Grocery,Ajman,2025-01-09,Active
+MER00240,City Grocery 240,Retail,Umm Al Quwain,2025-12-29,Active
+MER00241,Emirates Grocery 241,Electronics,Sharjah,2025-12-26,Active
+MER00242,Al Noor Travel 242,Grocery,Sharjah,2025-03-17,Suspended
+MER00243,Global Electronics 243,Electronics,Ras Al Khaimah,2025-02-01,Active
+MER00244,Prime Restaurant 244,Travel,Sharjah,2026-04-17,Active
+MER00245,Metro Services 245,Retail,Umm Al Quwain,2024-03-10,Active
+MER00246,Al Noor Healthcare 246,Services,Umm Al Quwain,2024-12-12,Active
+MER00247,Al Noor Services 247,Services,Ajman,2025-05-04,Active
+MER00248,Metro Electronics 248,Restaurant,Ajman,2024-03-23,Active
+MER00249,Metro Retail 249,Fuel,Umm Al Quwain,2026-04-14,Active
+MER00250,Metro Services 250,Services,Dubai,2025-08-27,Active
+MER00251,City Grocery 251,Retail,Dubai,2024-10-20,Active
+MER00252,Emirates Healthcare 252,Restaurant,Ras Al Khaimah,2026-09-13,Active
+MER00253,Global Grocery 253,Grocery,Ajman,2025-07-29,Active
+MER00254,Metro Services 254,Electronics,Fujairah,2026-11-09,Inactive
+MER00255,City Restaurant 255,Fuel,Sharjah,2026-03-19,Inactive
+MER00256,City Restaurant 256,Electronics,Dubai,2026-07-03,Active
+MER00257,Global Healthcare 257,Travel,Ajman,2025-12-28,Active
+MER00258,Emirates Electronics 258,Grocery,Umm Al Quwain,2024-12-30,Active
+MER00259,Global Grocery 259,Electronics,Dubai,2025-04-03,Active
+MER00260,City Retail 260,Healthcare,Ras Al Khaimah,2024-11-18,Active
+MER00261,City Services 261,Restaurant,Fujairah,2024-10-09,Active
+MER00262,Metro Travel 262,Fuel,Abu Dhabi,2025-09-09,Active
+MER00263,Emirates Electronics 263,Restaurant,Umm Al Quwain,2025-02-04,Active
+MER00264,Emirates Travel 264,Restaurant,Ajman,2024-07-29,Active
+MER00265,City Restaurant 265,Electronics,Sharjah,2024-01-07,Active
+MER00266,Prime Grocery 266,Fuel,Umm Al Quwain,2025-06-13,Active
+MER00267,Global Restaurant 267,Healthcare,Fujairah,2025-06-11,Active
+MER00268,Prime Healthcare 268,Grocery,Fujairah,2026-04-03,Active
+MER00269,Emirates Restaurant 269,Services,Umm Al Quwain,2026-11-11,Active
+MER00270,City Services 270,Electronics,Umm Al Quwain,2024-02-09,Active
+MER00271,Global Retail 271,Grocery,Abu Dhabi,2025-10-15,Active
+MER00272,City Services 272,Retail,Umm Al Quwain,2025-02-16,Active
+MER00273,Emirates Fuel 273,Restaurant,Fujairah,2024-12-01,Active
+MER00274,Prime Retail 274,Fuel,Fujairah,2025-11-27,Inactive
+MER00275,Prime Grocery 275,Services,Umm Al Quwain,2026-01-20,Active
+MER00276,Emirates Travel 276,Grocery,Ajman,2024-03-11,Active
+MER00277,Prime Restaurant 277,Retail,Abu Dhabi,2024-10-12,Active
+MER00278,Al Noor Restaurant 278,Healthcare,Ajman,2024-05-24,Active
+MER00279,City Healthcare 279,Electronics,Dubai,2025-09-15,Active
+MER00280,Metro Services 280,Healthcare,Umm Al Quwain,2026-02-02,Inactive
+MER00281,City Retail 281,Fuel,Fujairah,2024-02-06,Active
+MER00282,Al Noor Restaurant 282,Fuel,Dubai,2025-10-07,Active
+MER00283,Metro Retail 283,Travel,Abu Dhabi,2024-08-19,Active
+MER00284,Emirates Retail 284,Fuel,Sharjah,2026-02-12,Active
+MER00285,Metro Restaurant 285,Electronics,Ras Al Khaimah,2025-10-28,Active
+MER00286,Global Retail 286,Fuel,Fujairah,2025-03-08,Active
+MER00287,Prime Restaurant 287,Restaurant,Abu Dhabi,2025-07-30,Active
+MER00288,Al Noor Retail 288,Grocery,Umm Al Quwain,2024-08-09,Active
+MER00289,City Travel 289,Grocery,Dubai,2026-09-04,Active
+MER00290,Metro Restaurant 290,Retail,Ajman,2026-08-17,Active
+MER00291,Prime Healthcare 291,Fuel,Dubai,2026-09-11,Active
+MER00292,Al Noor Travel 292,Healthcare,Fujairah,2024-12-08,Active
+MER00293,Emirates Healthcare 293,Grocery,Sharjah,2024-10-06,Active
+MER00294,Metro Healthcare 294,Fuel,Abu Dhabi,2024-11-04,Active
+MER00295,Global Retail 295,Retail,Abu Dhabi,2026-03-20,Active
+MER00296,Al Noor Travel 296,Services,Fujairah,2025-02-27,Active
+MER00297,Al Noor Services 297,Services,Ras Al Khaimah,2025-02-21,Active
+MER00298,City Electronics 298,Retail,Dubai,2026-03-16,Active
+MER00299,Emirates Healthcare 299,Healthcare,Ras Al Khaimah,2026-10-04,Active
+MER00300,Prime Grocery 300,Fuel,Ajman,2025-06-02,Inactive
+MER00301,Global Services 301,Electronics,Sharjah,2024-06-04,Active
+MER00302,Emirates Restaurant 302,Restaurant,Fujairah,2024-10-26,Active
+MER00303,City Electronics 303,Retail,Fujairah,2026-09-16,Active
+MER00304,Global Electronics 304,Healthcare,Dubai,2026-09-18,Active
+MER00305,Global Fuel 305,Restaurant,Ajman,2025-11-10,Active
+MER00306,Emirates Retail 306,Retail,Fujairah,2026-09-05,Active
+MER00307,Global Electronics 307,Healthcare,Abu Dhabi,2026-07-05,Active
+MER00308,Metro Healthcare 308,Retail,Fujairah,2026-11-01,Active
+MER00309,Metro Grocery 309,Restaurant,Ajman,2025-12-13,Active
+MER00310,Metro Services 310,Services,Ras Al Khaimah,2025-08-18,Active
+MER00311,Emirates Grocery 311,Grocery,Ajman,2026-08-02,Active
+MER00312,Metro Electronics 312,Retail,Sharjah,2025-07-29,Active
+MER00313,Metro Grocery 313,Electronics,Fujairah,2025-01-09,Active
+MER00314,Emirates Healthcare 314,Travel,Fujairah,2026-01-01,Active
+MER00315,Metro Travel 315,Restaurant,Sharjah,2025-10-02,Active
+MER00316,Global Electronics 316,Grocery,Abu Dhabi,2024-12-20,Active
+MER00317,Global Electronics 317,Retail,Umm Al Quwain,2024-08-13,Active
+MER00318,Global Restaurant 318,Fuel,Dubai,2025-09-04,Active
+MER00319,Al Noor Fuel 319,Services,Ras Al Khaimah,2024-06-08,Active
+MER00320,Prime Restaurant 320,Restaurant,Ras Al Khaimah,2024-04-18,Active
+MER00321,Al Noor Fuel 321,Restaurant,Sharjah,2024-08-24,Active
+MER00322,City Healthcare 322,Retail,Fujairah,2024-07-29,Active
+MER00323,Global Travel 323,Retail,Fujairah,2025-09-12,Active
+MER00324,City Electronics 324,Fuel,Ras Al Khaimah,2025-11-13,Active
+MER00325,Al Noor Retail 325,Grocery,Ajman,2024-12-10,Active
+MER00326,City Retail 326,Fuel,Umm Al Quwain,2026-09-28,Active
+MER00327,Emirates Travel 327,Healthcare,Abu Dhabi,2025-01-27,Active
+MER00328,Emirates Fuel 328,Restaurant,Abu Dhabi,2026-07-13,Active
+MER00329,Metro Services 329,Restaurant,Dubai,2024-09-05,Suspended
+MER00330,Emirates Services 330,Fuel,Sharjah,2026-03-09,Active
+MER00331,Emirates Electronics 331,Electronics,Ras Al Khaimah,2025-06-21,Active
+MER00332,Metro Restaurant 332,Healthcare,Dubai,2026-08-28,Suspended
+MER00333,Emirates Travel 333,Healthcare,Ras Al Khaimah,2024-01-22,Active
+MER00334,Metro Electronics 334,Electronics,Ras Al Khaimah,2024-06-20,Active
+MER00335,Global Healthcare 335,Fuel,Dubai,2026-07-06,Active
+MER00336,Emirates Restaurant 336,Fuel,Abu Dhabi,2024-08-22,Active
+MER00337,Prime Services 337,Restaurant,Fujairah,2026-04-06,Active
+MER00338,Metro Travel 338,Healthcare,Abu Dhabi,2025-04-03,Active
+MER00339,Global Restaurant 339,Restaurant,Dubai,2024-05-16,Active
+MER00340,Metro Fuel 340,Restaurant,Fujairah,2026-12-13,Active
+MER00341,Global Healthcare 341,Restaurant,Fujairah,2026-06-27,Active
+MER00342,Prime Restaurant 342,Restaurant,Umm Al Quwain,2025-02-06,Suspended
+MER00343,City Healthcare 343,Fuel,Abu Dhabi,2024-02-03,Active
+MER00344,Prime Fuel 344,Retail,Umm Al Quwain,2025-01-31,Active
+MER00345,Global Services 345,Retail,Sharjah,2026-03-22,Active
+MER00346,Global Fuel 346,Fuel,Abu Dhabi,2025-09-28,Inactive
+MER00347,City Travel 347,Healthcare,Dubai,2024-12-09,Suspended
+MER00348,Emirates Restaurant 348,Grocery,Sharjah,2024-07-03,Active
+MER00349,Global Fuel 349,Fuel,Sharjah,2025-02-25,Active
+MER00350,Emirates Travel 350,Fuel,Ajman,2026-03-02,Active
+MER00351,Prime Retail 351,Fuel,Fujairah,2024-09-25,Active
+MER00352,City Electronics 352,Retail,Umm Al Quwain,2026-12-19,Active
+MER00353,Al Noor Retail 353,Electronics,Fujairah,2024-08-12,Active
+MER00354,City Services 354,Grocery,Sharjah,2026-06-06,Active
+MER00355,Al Noor Retail 355,Grocery,Dubai,2025-04-02,Active
+MER00356,Global Retail 356,Healthcare,Fujairah,2024-10-18,Active
+MER00357,Global Services 357,Services,Umm Al Quwain,2026-07-13,Active
+MER00358,Metro Travel 358,Restaurant,Umm Al Quwain,2026-03-03,Active
+MER00359,City Restaurant 359,Electronics,Ras Al Khaimah,2026-03-08,Active
+MER00360,Al Noor Restaurant 360,Electronics,Abu Dhabi,2025-11-17,Active
+MER00361,Prime Services 361,Healthcare,Dubai,2026-05-01,Inactive
+MER00362,Emirates Healthcare 362,Retail,Abu Dhabi,2025-09-28,Active
+MER00363,Al Noor Travel 363,Healthcare,Ras Al Khaimah,2024-01-18,Active
+MER00364,City Restaurant 364,Travel,Dubai,2025-11-18,Inactive
+MER00365,Global Healthcare 365,Electronics,Dubai,2025-07-19,Active
+MER00366,Al Noor Electronics 366,Electronics,Dubai,2026-01-28,Active
+MER00367,Prime Travel 367,Fuel,Sharjah,2025-01-06,Active
+MER00368,Global Grocery 368,Travel,Fujairah,2026-10-15,Inactive
+MER00369,Emirates Services 369,Electronics,Ras Al Khaimah,2024-06-09,Active
+MER00370,Al Noor Retail 370,Grocery,Dubai,2024-09-24,Active
+MER00371,Al Noor Grocery 371,Healthcare,Sharjah,2025-03-31,Active
+MER00372,Emirates Services 372,Restaurant,Fujairah,2026-10-18,Active
+MER00373,Emirates Fuel 373,Travel,Umm Al Quwain,2026-03-25,Active
+MER00374,Global Retail 374,Travel,Ajman,2026-11-13,Active
+MER00375,Prime Services 375,Travel,Sharjah,2025-01-03,Active
+MER00376,Global Restaurant 376,Retail,Fujairah,2025-07-27,Active
+MER00377,Emirates Grocery 377,Grocery,Ajman,2024-01-08,Active
+MER00378,Al Noor Fuel 378,Grocery,Ras Al Khaimah,2026-08-11,Active
+MER00379,City Services 379,Services,Sharjah,2025-06-15,Suspended
+MER00380,Emirates Travel 380,Grocery,Umm Al Quwain,2026-08-13,Active
+MER00381,Metro Grocery 381,Services,Abu Dhabi,2026-01-19,Active
+MER00382,City Services 382,Travel,Dubai,2024-09-30,Active
+MER00383,City Services 383,Travel,Ras Al Khaimah,2025-12-02,Active
+MER00384,Prime Travel 384,Fuel,Sharjah,2025-01-16,Inactive
+MER00385,Prime Travel 385,Retail,Umm Al Quwain,2024-01-24,Active
+MER00386,Emirates Fuel 386,Services,Sharjah,2024-12-26,Active
+MER00387,Global Grocery 387,Electronics,Fujairah,2026-09-06,Active
+MER00388,Al Noor Healthcare 388,Healthcare,Sharjah,2024-11-14,Active
+MER00389,Al Noor Services 389,Restaurant,Sharjah,2025-01-20,Active
+MER00390,City Services 390,Fuel,Umm Al Quwain,2025-03-24,Active
+MER00391,Al Noor Restaurant 391,Healthcare,Abu Dhabi,2026-12-20,Active
+MER00392,Metro Fuel 392,Healthcare,Sharjah,2025-07-12,Active
+MER00393,Metro Fuel 393,Healthcare,Ajman,2025-06-26,Suspended
+MER00394,Al Noor Restaurant 394,Restaurant,Abu Dhabi,2026-06-12,Active
+MER00395,Al Noor Restaurant 395,Services,Abu Dhabi,2024-10-07,Active
+MER00396,Emirates Healthcare 396,Retail,Dubai,2025-08-18,Active
+MER00397,Prime Grocery 397,Retail,Umm Al Quwain,2025-12-13,Active
+MER00398,Al Noor Healthcare 398,Healthcare,Abu Dhabi,2026-08-20,Inactive
+MER00399,Global Restaurant 399,Grocery,Fujairah,2024-11-08,Active
+MER00400,Prime Healthcare 400,Restaurant,Ajman,2024-11-21,Active

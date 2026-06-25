@@ -1,0 +1,1001 @@
+employment_id,customer_id,employment_status,employer_name,job_title,industry,monthly_income,salary_transfer_bank,length_of_employment_months,source_of_funds,source_of_wealth,monthly_liabilities
+EMP000001,CUST00001,Employed,Global Services,Technician,Real Estate,26911.01,Mashreq,107,Salary,Employment Income,3924.89
+EMP000002,CUST00002,Employed,Metro Trading,Business Owner,Logistics,30699.4,Mashreq,80,Salary,Employment Income,4882.75
+EMP000003,CUST00003,Employed,Metro LLC,Sales Executive,Education,16755.1,FAB,101,Salary,Employment Income,6302.92
+EMP000004,CUST00004,Employed,Metro Group,Teacher,Retail,36519.95,FAB,87,Salary,Employment Income,13630.5
+EMP000005,CUST00005,Employed,Emirates Holdings,Nurse,Banking,30797.37,ADCB,163,Salary,Employment Income,6206.96
+EMP000006,CUST00006,Self-Employed,Self-Employed,Business Owner,Government,54817.28,Dubai Islamic Bank,212,Business Income,Business Ownership,14732.92
+EMP000007,CUST00007,Self-Employed,Self-Employed,Business Owner,Technology,44116.44,Mashreq,176,Business Income,Business Ownership,24184.63
+EMP000008,CUST00008,Employed,Gulf Holdings,Engineer,Construction,43308.21,Dubai Islamic Bank,40,Salary,Employment Income,6374.85
+EMP000009,CUST00009,Self-Employed,Self-Employed,Business Owner,Construction,46699.11,FAB,104,Business Income,Business Ownership,16441.97
+EMP000010,CUST00010,Employed,Emirates LLC,Teacher,Healthcare,41035.95,Mashreq,145,Salary,Employment Income,14748.94
+EMP000011,CUST00011,Employed,Global Trading,Teacher,Government,19859.05,Mashreq,128,Salary,Employment Income,8300.43
+EMP000012,CUST00012,Employed,Al Noor LLC,Business Owner,Healthcare,44563.71,Emirates NBD,70,Salary,Employment Income,16260.83
+EMP000013,CUST00013,Employed,Al Noor LLC,Manager,Hospitality,19786.73,Mashreq,131,Salary,Employment Income,4039.45
+EMP000014,CUST00014,Employed,Al Noor Group,Sales Executive,Construction,6218.58,Mashreq,166,Salary,Employment Income,2173.05
+EMP000015,CUST00015,Employed,Al Noor Holdings,Nurse,Healthcare,14706.67,Mashreq,60,Salary,Employment Income,1709.56
+EMP000016,CUST00016,Employed,Al Noor LLC,Driver,Healthcare,20854.56,FAB,67,Salary,Employment Income,2524.0
+EMP000017,CUST00017,Employed,Global Holdings,Manager,Logistics,10187.95,FAB,119,Salary,Employment Income,3424.61
+EMP000018,CUST00018,Student,,Student,Education,1686.44,,0,Family Support,Family Support,84.17
+EMP000019,CUST00019,Employed,Metro Holdings,Driver,Banking,27551.99,FAB,107,Salary,Employment Income,5500.11
+EMP000020,CUST00020,Employed,Metro Group,Accountant,Government,13175.72,Emirates NBD,163,Salary,Employment Income,2045.46
+EMP000021,CUST00021,Employed,Emirates Holdings,Business Owner,Logistics,11610.82,Mashreq,108,Salary,Employment Income,3879.02
+EMP000022,CUST00022,Employed,Global Holdings,Accountant,Education,39022.55,ADCB,56,Salary,Employment Income,5142.47
+EMP000023,CUST00023,Employed,Global Holdings,Software Developer,Retail,20490.68,ADIB,128,Salary,Employment Income,1378.76
+EMP000024,CUST00024,Employed,Gulf Holdings,Nurse,Hospitality,9203.3,Mashreq,170,Salary,Employment Income,3326.1
+EMP000025,CUST00025,Student,,Student,Education,3901.89,,0,Family Support,Family Support,598.26
+EMP000026,CUST00026,Employed,Al Noor Services,Technician,Banking,28542.52,ADIB,49,Salary,Employment Income,5438.46
+EMP000027,CUST00027,Employed,Gulf Group,Teacher,Hospitality,7922.98,Dubai Islamic Bank,52,Salary,Employment Income,537.96
+EMP000028,CUST00028,Student,,Student,Education,1031.2,,0,Family Support,Family Support,99.82
+EMP000029,CUST00029,Self-Employed,Self-Employed,Business Owner,Hospitality,53746.76,Emirates NBD,62,Business Income,Business Ownership,6345.71
+EMP000030,CUST00030,Employed,Emirates Services,Sales Executive,Technology,28408.88,Dubai Islamic Bank,153,Salary,Employment Income,6599.66
+EMP000031,CUST00031,Employed,Prime Trading,Nurse,Logistics,42370.36,ADCB,42,Salary,Employment Income,2859.61
+EMP000032,CUST00032,Employed,Prime Group,Teacher,Retail,28993.15,ADCB,108,Salary,Employment Income,6378.32
+EMP000033,CUST00033,Employed,Emirates Services,Teacher,Technology,39091.64,Emirates NBD,108,Salary,Employment Income,17091.21
+EMP000034,CUST00034,Employed,Emirates Group,Technician,Hospitality,4909.0,FAB,89,Salary,Employment Income,539.58
+EMP000035,CUST00035,Employed,Gulf Services,Manager,Logistics,9692.68,ADIB,17,Salary,Employment Income,1042.83
+EMP000036,CUST00036,Self-Employed,Self-Employed,Business Owner,Banking,14102.28,FAB,237,Business Income,Business Ownership,6159.13
+EMP000037,CUST00037,Self-Employed,Self-Employed,Business Owner,Technology,50166.64,Dubai Islamic Bank,130,Business Income,Business Ownership,5957.35
+EMP000038,CUST00038,Employed,Gulf Trading,Engineer,Retail,17087.48,ADIB,136,Salary,Employment Income,1478.47
+EMP000039,CUST00039,Employed,Metro Services,Engineer,Healthcare,39649.52,FAB,51,Salary,Employment Income,11091.55
+EMP000040,CUST00040,Employed,Emirates Trading,Driver,Education,32546.73,Dubai Islamic Bank,75,Salary,Employment Income,11184.05
+EMP000041,CUST00041,Employed,Prime Group,Technician,Banking,43701.03,Mashreq,151,Salary,Employment Income,7373.24
+EMP000042,CUST00042,Employed,Metro Services,Accountant,Construction,8439.19,FAB,48,Salary,Employment Income,1758.54
+EMP000043,CUST00043,Employed,Al Noor Group,Sales Executive,Real Estate,34744.92,Emirates NBD,39,Salary,Employment Income,11754.12
+EMP000044,CUST00044,Employed,Global Trading,Driver,Education,39103.95,Dubai Islamic Bank,132,Salary,Employment Income,2467.88
+EMP000045,CUST00045,Employed,Emirates Services,Nurse,Technology,6046.05,FAB,66,Salary,Employment Income,844.68
+EMP000046,CUST00046,Employed,Gulf Group,Technician,Hospitality,35322.07,ADIB,80,Salary,Employment Income,4500.14
+EMP000047,CUST00047,Employed,Metro Holdings,Nurse,Retail,6170.34,Mashreq,70,Salary,Employment Income,884.3
+EMP000048,CUST00048,Student,,Student,Education,1165.02,,0,Family Support,Family Support,150.7
+EMP000049,CUST00049,Employed,Global Group,Technician,Banking,22959.31,Emirates NBD,50,Salary,Employment Income,4279.7
+EMP000050,CUST00050,Employed,Metro Services,Teacher,Real Estate,29518.36,ADIB,123,Salary,Employment Income,2568.51
+EMP000051,CUST00051,Employed,Al Noor LLC,Business Owner,Retail,38720.84,Mashreq,99,Salary,Employment Income,11308.5
+EMP000052,CUST00052,Employed,Gulf LLC,Teacher,Real Estate,18538.84,ADCB,10,Salary,Employment Income,6588.51
+EMP000053,CUST00053,Employed,Al Noor Group,Software Developer,Retail,6345.42,Mashreq,158,Salary,Employment Income,2269.32
+EMP000054,CUST00054,Employed,Gulf LLC,Software Developer,Healthcare,33416.45,Mashreq,76,Salary,Employment Income,10273.33
+EMP000055,CUST00055,Employed,Al Noor Group,Accountant,Technology,28688.48,FAB,164,Salary,Employment Income,4831.32
+EMP000056,CUST00056,Unemployed,,Unemployed,,1064.83,,0,Business Income,Employment Income,182.38
+EMP000057,CUST00057,Student,,Student,Education,2843.04,,0,Family Support,Family Support,12.2
+EMP000058,CUST00058,Employed,Prime Group,Accountant,Real Estate,42560.38,FAB,103,Salary,Employment Income,5191.12
+EMP000059,CUST00059,Employed,Global Group,Manager,Construction,26057.37,ADIB,49,Salary,Employment Income,5994.93
+EMP000060,CUST00060,Employed,Prime Trading,Engineer,Technology,37569.8,ADIB,19,Salary,Employment Income,3701.09
+EMP000061,CUST00061,Employed,Gulf Trading,Accountant,Real Estate,39290.38,ADCB,114,Salary,Employment Income,15141.53
+EMP000062,CUST00062,Employed,Al Noor Holdings,Accountant,Government,6788.13,Emirates NBD,170,Salary,Employment Income,1608.39
+EMP000063,CUST00063,Employed,Emirates LLC,Manager,Construction,12048.49,Dubai Islamic Bank,9,Salary,Employment Income,2263.79
+EMP000064,CUST00064,Self-Employed,Self-Employed,Business Owner,Government,49104.61,Mashreq,125,Business Income,Business Ownership,23102.55
+EMP000065,CUST00065,Student,,Student,Education,4924.47,,0,Family Support,Family Support,83.35
+EMP000066,CUST00066,Employed,Global LLC,Business Owner,Construction,23029.98,Emirates NBD,29,Salary,Employment Income,6339.4
+EMP000067,CUST00067,Employed,Global Holdings,Manager,Education,30897.56,Mashreq,10,Salary,Employment Income,13460.71
+EMP000068,CUST00068,Employed,Metro Group,Manager,Real Estate,30065.34,ADIB,31,Salary,Employment Income,13415.02
+EMP000069,CUST00069,Self-Employed,Self-Employed,Business Owner,Hospitality,16405.67,Emirates NBD,58,Business Income,Business Ownership,4360.26
+EMP000070,CUST00070,Employed,Metro LLC,Nurse,Government,42025.7,ADIB,159,Salary,Employment Income,5038.18
+EMP000071,CUST00071,Employed,Gulf LLC,Technician,Education,24335.55,ADIB,137,Salary,Employment Income,5266.85
+EMP000072,CUST00072,Employed,Gulf Holdings,Engineer,Retail,18887.35,Mashreq,130,Salary,Employment Income,2924.82
+EMP000073,CUST00073,Employed,Prime LLC,Software Developer,Healthcare,44195.48,FAB,160,Salary,Employment Income,18624.11
+EMP000074,CUST00074,Employed,Global Holdings,Nurse,Healthcare,42750.06,Dubai Islamic Bank,63,Salary,Employment Income,8513.14
+EMP000075,CUST00075,Employed,Gulf Services,Driver,Construction,28200.44,Emirates NBD,23,Salary,Employment Income,8309.36
+EMP000076,CUST00076,Employed,Al Noor LLC,Software Developer,Retail,19578.61,ADCB,100,Salary,Employment Income,7321.27
+EMP000077,CUST00077,Employed,Prime Holdings,Software Developer,Healthcare,7650.91,ADCB,97,Salary,Employment Income,1113.9
+EMP000078,CUST00078,Employed,Emirates Holdings,Technician,Government,29711.66,ADCB,13,Salary,Employment Income,5299.81
+EMP000079,CUST00079,Employed,Global LLC,Driver,Healthcare,9436.79,ADCB,87,Salary,Employment Income,3654.31
+EMP000080,CUST00080,Employed,Gulf Services,Software Developer,Education,32271.38,Dubai Islamic Bank,128,Salary,Employment Income,4886.93
+EMP000081,CUST00081,Employed,Metro Services,Manager,Real Estate,8663.19,ADIB,153,Salary,Employment Income,1115.71
+EMP000082,CUST00082,Self-Employed,Self-Employed,Business Owner,Healthcare,14699.89,Dubai Islamic Bank,48,Business Income,Business Ownership,6766.21
+EMP000083,CUST00083,Employed,Prime LLC,Business Owner,Technology,13062.16,FAB,5,Salary,Employment Income,4797.55
+EMP000084,CUST00084,Employed,Global LLC,Driver,Banking,15353.02,FAB,86,Salary,Employment Income,6696.6
+EMP000085,CUST00085,Employed,Prime Holdings,Sales Executive,Logistics,24292.89,FAB,55,Salary,Employment Income,1935.31
+EMP000086,CUST00086,Employed,Al Noor Group,Teacher,Hospitality,16351.99,ADCB,131,Salary,Employment Income,6867.79
+EMP000087,CUST00087,Employed,Prime Group,Accountant,Real Estate,32287.3,ADCB,120,Salary,Employment Income,3653.9
+EMP000088,CUST00088,Employed,Global Services,Manager,Real Estate,25138.34,ADIB,98,Salary,Employment Income,5788.93
+EMP000089,CUST00089,Employed,Metro Group,Teacher,Healthcare,21125.92,Dubai Islamic Bank,28,Salary,Employment Income,4495.06
+EMP000090,CUST00090,Employed,Prime Trading,Business Owner,Government,37898.13,FAB,86,Salary,Employment Income,2146.14
+EMP000091,CUST00091,Employed,Metro Group,Nurse,Retail,15163.32,Emirates NBD,20,Salary,Employment Income,853.04
+EMP000092,CUST00092,Employed,Global Holdings,Technician,Education,23958.17,Dubai Islamic Bank,52,Salary,Employment Income,4540.63
+EMP000093,CUST00093,Self-Employed,Self-Employed,Business Owner,Banking,16465.98,Emirates NBD,223,Business Income,Business Ownership,5533.51
+EMP000094,CUST00094,Employed,Global Holdings,Manager,Real Estate,26373.6,Dubai Islamic Bank,167,Salary,Employment Income,2517.35
+EMP000095,CUST00095,Unemployed,,Unemployed,,2287.98,,0,Business Income,Employment Income,307.71
+EMP000096,CUST00096,Unemployed,,Unemployed,,630.41,,0,Investment Income,Savings,19.05
+EMP000097,CUST00097,Employed,Emirates Group,Technician,Hospitality,24478.86,Mashreq,16,Salary,Employment Income,7520.16
+EMP000098,CUST00098,Student,,Student,Education,5185.58,,0,Family Support,Family Support,296.92
+EMP000099,CUST00099,Student,,Student,Education,4435.58,,0,Family Support,Family Support,340.96
+EMP000100,CUST00100,Employed,Al Noor Group,Manager,Construction,42573.11,Emirates NBD,48,Salary,Employment Income,18502.5
+EMP000101,CUST00101,Self-Employed,Self-Employed,Business Owner,Education,28526.0,Mashreq,165,Business Income,Business Ownership,11956.33
+EMP000102,CUST00102,Employed,Metro Group,Accountant,Logistics,31208.07,Emirates NBD,116,Salary,Employment Income,4632.78
+EMP000103,CUST00103,Employed,Prime Trading,Software Developer,Hospitality,15323.99,FAB,123,Salary,Employment Income,4966.08
+EMP000104,CUST00104,Self-Employed,Self-Employed,Business Owner,Banking,10190.09,ADCB,152,Business Income,Business Ownership,3428.66
+EMP000105,CUST00105,Unemployed,,Unemployed,,154.41,,0,Investment Income,Savings,18.12
+EMP000106,CUST00106,Employed,Global Trading,Engineer,Banking,7056.9,ADCB,45,Salary,Employment Income,1174.45
+EMP000107,CUST00107,Employed,Gulf LLC,Business Owner,Banking,17856.11,Dubai Islamic Bank,89,Salary,Employment Income,4007.79
+EMP000108,CUST00108,Employed,Global Group,Nurse,Retail,7521.65,ADCB,58,Salary,Employment Income,2404.25
+EMP000109,CUST00109,Employed,Gulf Services,Business Owner,Hospitality,18745.91,Dubai Islamic Bank,20,Salary,Employment Income,3402.3
+EMP000110,CUST00110,Employed,Al Noor Holdings,Sales Executive,Logistics,35119.73,ADIB,159,Salary,Employment Income,3145.38
+EMP000111,CUST00111,Employed,Emirates Holdings,Accountant,Hospitality,23411.2,ADCB,80,Salary,Employment Income,6720.41
+EMP000112,CUST00112,Employed,Gulf Trading,Nurse,Construction,37392.04,Dubai Islamic Bank,152,Salary,Employment Income,15487.61
+EMP000113,CUST00113,Employed,Gulf Group,Accountant,Retail,8629.02,ADCB,134,Salary,Employment Income,3750.09
+EMP000114,CUST00114,Employed,Metro Holdings,Teacher,Real Estate,20267.63,Emirates NBD,75,Salary,Employment Income,7942.65
+EMP000115,CUST00115,Employed,Gulf Services,Accountant,Retail,10307.29,Mashreq,80,Salary,Employment Income,4184.88
+EMP000116,CUST00116,Employed,Metro Group,Nurse,Technology,29390.47,Dubai Islamic Bank,131,Salary,Employment Income,7506.21
+EMP000117,CUST00117,Employed,Metro Group,Business Owner,Retail,20533.07,ADIB,141,Salary,Employment Income,2232.98
+EMP000118,CUST00118,Employed,Gulf Services,Manager,Logistics,36770.89,ADIB,86,Salary,Employment Income,15803.01
+EMP000119,CUST00119,Unemployed,,Unemployed,,2739.42,,0,Investment Income,Employment Income,570.22
+EMP000120,CUST00120,Employed,Al Noor Services,Engineer,Retail,44841.91,Dubai Islamic Bank,170,Salary,Employment Income,2698.34
+EMP000121,CUST00121,Employed,Metro Group,Engineer,Healthcare,11818.21,Emirates NBD,94,Salary,Employment Income,2494.31
+EMP000122,CUST00122,Student,,Student,Education,4837.51,,0,Family Support,Family Support,858.38
+EMP000123,CUST00123,Employed,Al Noor Trading,Engineer,Construction,11504.26,ADIB,67,Salary,Employment Income,2390.75
+EMP000124,CUST00124,Student,,Student,Education,3383.07,,0,Family Support,Family Support,55.26
+EMP000125,CUST00125,Employed,Gulf Services,Driver,Healthcare,35994.69,FAB,43,Salary,Employment Income,5280.3
+EMP000126,CUST00126,Employed,Prime LLC,Manager,Banking,36793.5,FAB,37,Salary,Employment Income,10950.92
+EMP000127,CUST00127,Self-Employed,Self-Employed,Business Owner,Real Estate,48064.21,Dubai Islamic Bank,132,Business Income,Business Ownership,18644.41
+EMP000128,CUST00128,Student,,Student,Education,3133.03,,0,Family Support,Family Support,247.6
+EMP000129,CUST00129,Employed,Metro LLC,Technician,Construction,6124.17,Emirates NBD,13,Salary,Employment Income,1405.67
+EMP000130,CUST00130,Employed,Global Trading,Accountant,Healthcare,36533.16,ADCB,12,Salary,Employment Income,14722.42
+EMP000131,CUST00131,Employed,Global Holdings,Technician,Construction,6994.75,FAB,121,Salary,Employment Income,2600.16
+EMP000132,CUST00132,Employed,Prime Group,Nurse,Retail,15336.88,Mashreq,173,Salary,Employment Income,6832.81
+EMP000133,CUST00133,Employed,Emirates LLC,Manager,Healthcare,12502.08,Dubai Islamic Bank,144,Salary,Employment Income,2220.68
+EMP000134,CUST00134,Employed,Gulf Holdings,Engineer,Government,26777.59,Dubai Islamic Bank,51,Salary,Employment Income,11062.74
+EMP000135,CUST00135,Employed,Global Services,Technician,Government,43780.1,ADIB,112,Salary,Employment Income,11224.74
+EMP000136,CUST00136,Employed,Gulf Group,Engineer,Healthcare,44335.75,FAB,119,Salary,Employment Income,15930.24
+EMP000137,CUST00137,Employed,Metro Group,Software Developer,Healthcare,25363.64,Emirates NBD,23,Salary,Employment Income,8628.38
+EMP000138,CUST00138,Employed,Global Trading,Teacher,Hospitality,28320.0,ADCB,82,Salary,Employment Income,9426.13
+EMP000139,CUST00139,Employed,Prime Trading,Technician,Logistics,18193.42,FAB,4,Salary,Employment Income,6172.77
+EMP000140,CUST00140,Employed,Al Noor Holdings,Nurse,Real Estate,35747.39,Dubai Islamic Bank,159,Salary,Employment Income,13117.41
+EMP000141,CUST00141,Employed,Prime LLC,Business Owner,Technology,36071.76,ADIB,109,Salary,Employment Income,3610.72
+EMP000142,CUST00142,Employed,Gulf Group,Software Developer,Hospitality,26420.2,Emirates NBD,159,Salary,Employment Income,9576.18
+EMP000143,CUST00143,Employed,Al Noor Group,Engineer,Construction,15458.42,FAB,152,Salary,Employment Income,2830.81
+EMP000144,CUST00144,Employed,Emirates Trading,Driver,Real Estate,37502.4,Emirates NBD,92,Salary,Employment Income,6287.58
+EMP000145,CUST00145,Employed,Global Group,Sales Executive,Retail,12534.93,Emirates NBD,155,Salary,Employment Income,2686.09
+EMP000146,CUST00146,Employed,Emirates LLC,Teacher,Technology,8397.44,FAB,157,Salary,Employment Income,452.85
+EMP000147,CUST00147,Student,,Student,Education,4669.87,,0,Family Support,Family Support,235.18
+EMP000148,CUST00148,Employed,Emirates Services,Teacher,Education,24361.73,ADCB,110,Salary,Employment Income,9658.67
+EMP000149,CUST00149,Employed,Prime Trading,Teacher,Construction,24595.46,ADCB,165,Salary,Employment Income,9351.55
+EMP000150,CUST00150,Employed,Prime Trading,Business Owner,Real Estate,25154.13,ADIB,148,Salary,Employment Income,8805.12
+EMP000151,CUST00151,Employed,Global LLC,Driver,Construction,39289.5,Emirates NBD,21,Salary,Employment Income,16158.32
+EMP000152,CUST00152,Employed,Metro LLC,Teacher,Logistics,17004.12,ADCB,21,Salary,Employment Income,1446.57
+EMP000153,CUST00153,Employed,Emirates Trading,Accountant,Government,43112.83,Dubai Islamic Bank,106,Salary,Employment Income,4948.9
+EMP000154,CUST00154,Employed,Global Group,Software Developer,Education,37472.86,ADIB,9,Salary,Employment Income,2274.62
+EMP000155,CUST00155,Self-Employed,Self-Employed,Business Owner,Government,40550.47,Emirates NBD,68,Business Income,Business Ownership,16919.4
+EMP000156,CUST00156,Employed,Global Trading,Accountant,Banking,43025.24,ADCB,20,Salary,Employment Income,10770.08
+EMP000157,CUST00157,Employed,Gulf Holdings,Sales Executive,Logistics,32963.3,Emirates NBD,37,Salary,Employment Income,8475.47
+EMP000158,CUST00158,Unemployed,,Unemployed,,188.04,,0,Family Support,Investments,36.19
+EMP000159,CUST00159,Employed,Gulf Group,Software Developer,Real Estate,11532.39,Dubai Islamic Bank,125,Salary,Employment Income,4552.43
+EMP000160,CUST00160,Student,,Student,Education,2048.12,,0,Family Support,Family Support,52.58
+EMP000161,CUST00161,Employed,Al Noor LLC,Nurse,Healthcare,11696.02,ADIB,55,Salary,Employment Income,2020.08
+EMP000162,CUST00162,Employed,Al Noor Trading,Accountant,Banking,5778.9,FAB,104,Salary,Employment Income,293.44
+EMP000163,CUST00163,Employed,Emirates Trading,Teacher,Hospitality,15984.13,FAB,88,Salary,Employment Income,6937.39
+EMP000164,CUST00164,Employed,Gulf LLC,Engineer,Construction,16441.92,ADIB,62,Salary,Employment Income,4747.08
+EMP000165,CUST00165,Employed,Global LLC,Engineer,Retail,34955.84,Mashreq,99,Salary,Employment Income,12862.5
+EMP000166,CUST00166,Employed,Metro Holdings,Software Developer,Government,25432.12,Mashreq,144,Salary,Employment Income,10490.48
+EMP000167,CUST00167,Self-Employed,Self-Employed,Business Owner,Logistics,37939.71,ADIB,118,Business Income,Business Ownership,19463.87
+EMP000168,CUST00168,Student,,Student,Education,2088.69,,0,Family Support,Family Support,200.67
+EMP000169,CUST00169,Employed,Emirates Holdings,Business Owner,Retail,9280.5,Dubai Islamic Bank,149,Salary,Employment Income,1292.61
+EMP000170,CUST00170,Employed,Emirates Trading,Nurse,Government,30070.3,Mashreq,60,Salary,Employment Income,1970.63
+EMP000171,CUST00171,Employed,Al Noor Group,Business Owner,Technology,28064.08,Dubai Islamic Bank,24,Salary,Employment Income,8645.99
+EMP000172,CUST00172,Self-Employed,Self-Employed,Business Owner,Healthcare,59182.85,FAB,35,Business Income,Business Ownership,20261.13
+EMP000173,CUST00173,Student,,Student,Education,1153.11,,0,Family Support,Family Support,221.82
+EMP000174,CUST00174,Employed,Al Noor Trading,Teacher,Retail,20512.33,FAB,127,Salary,Employment Income,7629.42
+EMP000175,CUST00175,Employed,Metro Trading,Business Owner,Hospitality,29412.47,ADCB,172,Salary,Employment Income,6074.24
+EMP000176,CUST00176,Employed,Al Noor Group,Software Developer,Healthcare,18829.58,ADCB,152,Salary,Employment Income,2317.55
+EMP000177,CUST00177,Employed,Al Noor Trading,Manager,Healthcare,27105.17,Dubai Islamic Bank,83,Salary,Employment Income,10543.26
+EMP000178,CUST00178,Student,,Student,Education,1042.17,,0,Family Support,Family Support,203.67
+EMP000179,CUST00179,Self-Employed,Self-Employed,Business Owner,Retail,67702.64,FAB,56,Business Income,Business Ownership,20743.17
+EMP000180,CUST00180,Employed,Global Group,Driver,Hospitality,11622.37,ADIB,89,Salary,Employment Income,4094.61
+EMP000181,CUST00181,Employed,Gulf LLC,Business Owner,Real Estate,14946.18,ADIB,108,Salary,Employment Income,3473.69
+EMP000182,CUST00182,Employed,Metro Holdings,Software Developer,Construction,24636.75,ADIB,37,Salary,Employment Income,10839.72
+EMP000183,CUST00183,Self-Employed,Self-Employed,Business Owner,Banking,55024.02,ADIB,15,Business Income,Business Ownership,16781.74
+EMP000184,CUST00184,Employed,Al Noor Trading,Software Developer,Education,31309.45,Mashreq,20,Salary,Employment Income,13928.53
+EMP000185,CUST00185,Self-Employed,Self-Employed,Business Owner,Retail,25587.85,ADIB,119,Business Income,Business Ownership,6785.32
+EMP000186,CUST00186,Employed,Al Noor Trading,Accountant,Education,32406.87,Dubai Islamic Bank,112,Salary,Employment Income,6920.23
+EMP000187,CUST00187,Employed,Al Noor Services,Manager,Construction,21155.98,FAB,79,Salary,Employment Income,8028.49
+EMP000188,CUST00188,Unemployed,,Unemployed,,177.88,,0,Investment Income,Investments,25.08
+EMP000189,CUST00189,Employed,Gulf Holdings,Technician,Logistics,4642.54,Emirates NBD,62,Salary,Employment Income,681.87
+EMP000190,CUST00190,Employed,Global Group,Nurse,Healthcare,35838.88,Emirates NBD,121,Salary,Employment Income,5293.75
+EMP000191,CUST00191,Employed,Prime Holdings,Software Developer,Real Estate,19424.53,Mashreq,171,Salary,Employment Income,7903.0
+EMP000192,CUST00192,Employed,Gulf Services,Accountant,Education,37245.87,ADCB,134,Salary,Employment Income,16501.59
+EMP000193,CUST00193,Self-Employed,Self-Employed,Business Owner,Real Estate,34865.56,ADIB,134,Business Income,Business Ownership,18132.69
+EMP000194,CUST00194,Employed,Metro Services,Nurse,Logistics,14705.99,Emirates NBD,75,Salary,Employment Income,5765.18
+EMP000195,CUST00195,Employed,Global Services,Accountant,Retail,42092.74,Dubai Islamic Bank,112,Salary,Employment Income,15032.22
+EMP000196,CUST00196,Employed,Gulf Group,Driver,Technology,9571.87,FAB,27,Salary,Employment Income,2431.66
+EMP000197,CUST00197,Employed,Metro Trading,Technician,Banking,23012.37,Emirates NBD,65,Salary,Employment Income,3647.25
+EMP000198,CUST00198,Student,,Student,Education,3301.47,,0,Family Support,Family Support,130.61
+EMP000199,CUST00199,Self-Employed,Self-Employed,Business Owner,Technology,29308.28,ADIB,126,Business Income,Business Ownership,6834.93
+EMP000200,CUST00200,Unemployed,,Unemployed,,2381.84,,0,Investment Income,Business Ownership,271.49
+EMP000201,CUST00201,Employed,Global Services,Teacher,Retail,39888.91,Emirates NBD,89,Salary,Employment Income,6108.34
+EMP000202,CUST00202,Employed,Gulf Services,Accountant,Technology,8655.25,Emirates NBD,128,Salary,Employment Income,787.49
+EMP000203,CUST00203,Self-Employed,Self-Employed,Business Owner,Healthcare,47925.76,Emirates NBD,206,Business Income,Business Ownership,5505.32
+EMP000204,CUST00204,Student,,Student,Education,1882.68,,0,Family Support,Family Support,368.17
+EMP000205,CUST00205,Employed,Prime LLC,Teacher,Hospitality,10721.96,ADCB,146,Salary,Employment Income,1674.83
+EMP000206,CUST00206,Employed,Gulf Trading,Manager,Retail,35773.15,ADIB,83,Salary,Employment Income,11348.32
+EMP000207,CUST00207,Employed,Al Noor Group,Engineer,Technology,33332.33,ADIB,24,Salary,Employment Income,8785.58
+EMP000208,CUST00208,Student,,Student,Education,2647.25,,0,Family Support,Family Support,111.0
+EMP000209,CUST00209,Self-Employed,Self-Employed,Business Owner,Hospitality,69795.87,Dubai Islamic Bank,45,Business Income,Business Ownership,19589.2
+EMP000210,CUST00210,Employed,Al Noor Trading,Business Owner,Retail,30287.38,FAB,159,Salary,Employment Income,8547.46
+EMP000211,CUST00211,Student,,Student,Education,2554.72,,0,Family Support,Family Support,16.04
+EMP000212,CUST00212,Self-Employed,Self-Employed,Business Owner,Hospitality,15414.68,Dubai Islamic Bank,100,Business Income,Business Ownership,5656.0
+EMP000213,CUST00213,Self-Employed,Self-Employed,Business Owner,Healthcare,39204.09,ADIB,194,Business Income,Business Ownership,20379.38
+EMP000214,CUST00214,Employed,Metro Holdings,Accountant,Hospitality,30438.42,Emirates NBD,129,Salary,Employment Income,5371.19
+EMP000215,CUST00215,Student,,Student,Education,4580.36,,0,Family Support,Family Support,465.8
+EMP000216,CUST00216,Employed,Global LLC,Teacher,Hospitality,40183.31,FAB,78,Salary,Employment Income,16669.14
+EMP000217,CUST00217,Employed,Global LLC,Technician,Logistics,15500.45,Mashreq,67,Salary,Employment Income,2543.77
+EMP000218,CUST00218,Student,,Student,Education,3827.47,,0,Family Support,Family Support,202.51
+EMP000219,CUST00219,Employed,Prime Group,Accountant,Banking,5390.88,Mashreq,5,Salary,Employment Income,1103.04
+EMP000220,CUST00220,Employed,Emirates LLC,Nurse,Government,24952.4,Mashreq,35,Salary,Employment Income,10832.16
+EMP000221,CUST00221,Employed,Al Noor Services,Technician,Logistics,18930.33,Dubai Islamic Bank,61,Salary,Employment Income,6891.83
+EMP000222,CUST00222,Self-Employed,Self-Employed,Business Owner,Education,42435.74,ADIB,211,Business Income,Business Ownership,11497.01
+EMP000223,CUST00223,Employed,Gulf Group,Accountant,Logistics,9728.26,ADCB,95,Salary,Employment Income,1472.01
+EMP000224,CUST00224,Unemployed,,Unemployed,,2193.42,,0,Family Support,Savings,60.92
+EMP000225,CUST00225,Employed,Metro Services,Engineer,Education,27513.69,Mashreq,10,Salary,Employment Income,6222.06
+EMP000226,CUST00226,Employed,Al Noor Trading,Technician,Education,43040.17,ADCB,34,Salary,Employment Income,13955.99
+EMP000227,CUST00227,Self-Employed,Self-Employed,Business Owner,Hospitality,20709.22,Emirates NBD,172,Business Income,Business Ownership,9761.38
+EMP000228,CUST00228,Self-Employed,Self-Employed,Business Owner,Real Estate,68647.35,FAB,69,Business Income,Business Ownership,27685.06
+EMP000229,CUST00229,Employed,Al Noor Group,Engineer,Logistics,42311.3,Dubai Islamic Bank,149,Salary,Employment Income,8165.87
+EMP000230,CUST00230,Employed,Gulf LLC,Software Developer,Education,13954.71,Dubai Islamic Bank,109,Salary,Employment Income,4749.67
+EMP000231,CUST00231,Employed,Metro Group,Software Developer,Hospitality,36735.98,Mashreq,132,Salary,Employment Income,14706.83
+EMP000232,CUST00232,Employed,Global Trading,Technician,Education,33730.6,ADIB,171,Salary,Employment Income,12494.09
+EMP000233,CUST00233,Employed,Emirates Services,Engineer,Education,8365.29,Emirates NBD,44,Salary,Employment Income,1131.91
+EMP000234,CUST00234,Unemployed,,Unemployed,,1182.41,,0,Business Income,Investments,137.44
+EMP000235,CUST00235,Employed,Al Noor Trading,Nurse,Banking,41643.0,FAB,102,Salary,Employment Income,7684.91
+EMP000236,CUST00236,Employed,Metro LLC,Teacher,Government,7311.52,Emirates NBD,34,Salary,Employment Income,3187.31
+EMP000237,CUST00237,Employed,Global Services,Business Owner,Real Estate,42446.66,ADCB,12,Salary,Employment Income,10218.23
+EMP000238,CUST00238,Employed,Al Noor Holdings,Driver,Construction,31846.01,Dubai Islamic Bank,37,Salary,Employment Income,7227.18
+EMP000239,CUST00239,Student,,Student,Education,3099.99,,0,Family Support,Family Support,298.54
+EMP000240,CUST00240,Employed,Emirates Group,Nurse,Healthcare,12457.4,ADCB,166,Salary,Employment Income,5579.82
+EMP000241,CUST00241,Employed,Emirates LLC,Business Owner,Healthcare,33987.77,Dubai Islamic Bank,110,Salary,Employment Income,12164.04
+EMP000242,CUST00242,Employed,Al Noor Trading,Accountant,Banking,7272.28,ADCB,100,Salary,Employment Income,367.73
+EMP000243,CUST00243,Employed,Al Noor Services,Nurse,Government,10770.5,Mashreq,148,Salary,Employment Income,3409.87
+EMP000244,CUST00244,Employed,Al Noor Services,Technician,Retail,36393.03,FAB,94,Salary,Employment Income,8754.75
+EMP000245,CUST00245,Employed,Emirates Trading,Business Owner,Real Estate,5080.17,Dubai Islamic Bank,52,Salary,Employment Income,387.1
+EMP000246,CUST00246,Employed,Metro Group,Accountant,Logistics,5243.17,Dubai Islamic Bank,56,Salary,Employment Income,2026.58
+EMP000247,CUST00247,Employed,Emirates Trading,Engineer,Real Estate,38849.63,Mashreq,52,Salary,Employment Income,15758.78
+EMP000248,CUST00248,Employed,Al Noor Holdings,Driver,Banking,7511.03,ADCB,178,Salary,Employment Income,2449.58
+EMP000249,CUST00249,Employed,Metro Trading,Business Owner,Construction,44905.03,Mashreq,142,Salary,Employment Income,15109.32
+EMP000250,CUST00250,Employed,Emirates Services,Accountant,Government,6410.48,ADIB,163,Salary,Employment Income,1545.15
+EMP000251,CUST00251,Student,,Student,Education,5718.84,,0,Family Support,Family Support,138.67
+EMP000252,CUST00252,Employed,Al Noor Group,Engineer,Healthcare,34855.97,Dubai Islamic Bank,167,Salary,Employment Income,11497.96
+EMP000253,CUST00253,Employed,Emirates Services,Teacher,Retail,35669.46,FAB,161,Salary,Employment Income,14723.4
+EMP000254,CUST00254,Student,,Student,Education,3580.47,,0,Family Support,Family Support,332.67
+EMP000255,CUST00255,Employed,Prime Holdings,Accountant,Healthcare,22870.01,ADCB,53,Salary,Employment Income,1269.38
+EMP000256,CUST00256,Student,,Student,Education,3628.87,,0,Family Support,Family Support,41.14
+EMP000257,CUST00257,Employed,Metro Group,Sales Executive,Logistics,4124.03,FAB,6,Salary,Employment Income,485.48
+EMP000258,CUST00258,Self-Employed,Self-Employed,Business Owner,Healthcare,24619.58,Emirates NBD,18,Business Income,Business Ownership,7377.65
+EMP000259,CUST00259,Employed,Global Group,Business Owner,Logistics,21351.07,FAB,90,Salary,Employment Income,6898.72
+EMP000260,CUST00260,Employed,Metro Group,Software Developer,Retail,44626.56,FAB,88,Salary,Employment Income,3000.59
+EMP000261,CUST00261,Employed,Emirates Services,Manager,Technology,41258.0,Dubai Islamic Bank,77,Salary,Employment Income,13238.12
+EMP000262,CUST00262,Employed,Prime Group,Sales Executive,Government,11297.24,Emirates NBD,76,Salary,Employment Income,4031.63
+EMP000263,CUST00263,Employed,Emirates Holdings,Nurse,Hospitality,16647.04,Emirates NBD,177,Salary,Employment Income,7187.73
+EMP000264,CUST00264,Employed,Gulf LLC,Manager,Education,20456.01,ADIB,52,Salary,Employment Income,8624.8
+EMP000265,CUST00265,Employed,Metro Group,Sales Executive,Technology,12248.79,ADIB,99,Salary,Employment Income,2812.97
+EMP000266,CUST00266,Unemployed,,Unemployed,,1324.86,,0,Family Support,Employment Income,211.8
+EMP000267,CUST00267,Employed,Gulf Trading,Manager,Technology,29444.36,Mashreq,167,Salary,Employment Income,3253.44
+EMP000268,CUST00268,Employed,Metro LLC,Software Developer,Healthcare,42934.32,ADIB,151,Salary,Employment Income,9875.18
+EMP000269,CUST00269,Employed,Prime LLC,Accountant,Retail,16998.27,ADCB,74,Salary,Employment Income,4759.45
+EMP000270,CUST00270,Student,,Student,Education,1547.57,,0,Family Support,Family Support,229.21
+EMP000271,CUST00271,Employed,Metro Services,Nurse,Healthcare,31469.78,Mashreq,142,Salary,Employment Income,1757.15
+EMP000272,CUST00272,Employed,Prime Holdings,Teacher,Technology,16001.74,FAB,20,Salary,Employment Income,5932.17
+EMP000273,CUST00273,Self-Employed,Self-Employed,Business Owner,Real Estate,30516.0,ADCB,116,Business Income,Business Ownership,15409.69
+EMP000274,CUST00274,Student,,Student,Education,1697.81,,0,Family Support,Family Support,17.04
+EMP000275,CUST00275,Unemployed,,Unemployed,,2332.3,,0,Business Income,Business Ownership,328.59
+EMP000276,CUST00276,Employed,Prime Trading,Engineer,Hospitality,18033.87,Mashreq,126,Salary,Employment Income,8044.73
+EMP000277,CUST00277,Unemployed,,Unemployed,,462.9,,0,Business Income,Savings,3.73
+EMP000278,CUST00278,Self-Employed,Self-Employed,Business Owner,Government,35843.59,Dubai Islamic Bank,95,Business Income,Business Ownership,16289.2
+EMP000279,CUST00279,Employed,Global Group,Engineer,Hospitality,13599.27,Mashreq,100,Salary,Employment Income,787.24
+EMP000280,CUST00280,Employed,Gulf Group,Technician,Government,36163.7,ADCB,107,Salary,Employment Income,11259.4
+EMP000281,CUST00281,Employed,Gulf Services,Nurse,Retail,43102.97,ADCB,166,Salary,Employment Income,9149.25
+EMP000282,CUST00282,Employed,Metro Group,Manager,Government,9125.4,FAB,160,Salary,Employment Income,3705.0
+EMP000283,CUST00283,Employed,Global LLC,Accountant,Logistics,39223.73,Emirates NBD,112,Salary,Employment Income,2651.16
+EMP000284,CUST00284,Employed,Gulf Group,Teacher,Healthcare,42484.3,Mashreq,11,Salary,Employment Income,18996.7
+EMP000285,CUST00285,Self-Employed,Self-Employed,Business Owner,Retail,53195.11,ADIB,228,Business Income,Business Ownership,21129.86
+EMP000286,CUST00286,Unemployed,,Unemployed,,2675.21,,0,Investment Income,Business Ownership,311.01
+EMP000287,CUST00287,Employed,Global LLC,Teacher,Government,31073.02,ADIB,120,Salary,Employment Income,6981.03
+EMP000288,CUST00288,Student,,Student,Education,5532.73,,0,Family Support,Family Support,987.08
+EMP000289,CUST00289,Employed,Gulf Group,Nurse,Hospitality,36799.62,Dubai Islamic Bank,114,Salary,Employment Income,8156.01
+EMP000290,CUST00290,Employed,Metro LLC,Nurse,Retail,15909.27,FAB,46,Salary,Employment Income,3907.53
+EMP000291,CUST00291,Employed,Gulf Group,Sales Executive,Real Estate,13588.53,Dubai Islamic Bank,131,Salary,Employment Income,3234.75
+EMP000292,CUST00292,Employed,Global Holdings,Engineer,Retail,33060.88,ADIB,44,Salary,Employment Income,3456.22
+EMP000293,CUST00293,Employed,Metro Holdings,Engineer,Retail,27625.91,FAB,147,Salary,Employment Income,10061.14
+EMP000294,CUST00294,Employed,Gulf Services,Engineer,Banking,32645.74,FAB,72,Salary,Employment Income,14012.53
+EMP000295,CUST00295,Employed,Prime LLC,Technician,Retail,36003.21,FAB,173,Salary,Employment Income,5629.73
+EMP000296,CUST00296,Self-Employed,Self-Employed,Business Owner,Technology,36273.54,Mashreq,7,Business Income,Business Ownership,8470.43
+EMP000297,CUST00297,Employed,Emirates Holdings,Sales Executive,Retail,28152.96,Mashreq,178,Salary,Employment Income,10628.22
+EMP000298,CUST00298,Employed,Prime LLC,Technician,Technology,22047.02,FAB,124,Salary,Employment Income,7448.16
+EMP000299,CUST00299,Employed,Prime LLC,Accountant,Government,39314.44,FAB,35,Salary,Employment Income,2098.14
+EMP000300,CUST00300,Employed,Global Services,Software Developer,Technology,42061.35,FAB,87,Salary,Employment Income,16916.47
+EMP000301,CUST00301,Student,,Student,Education,1353.05,,0,Family Support,Family Support,98.44
+EMP000302,CUST00302,Employed,Metro LLC,Business Owner,Construction,29551.41,Dubai Islamic Bank,145,Salary,Employment Income,7402.97
+EMP000303,CUST00303,Unemployed,,Unemployed,,1404.06,,0,Investment Income,Employment Income,59.7
+EMP000304,CUST00304,Employed,Global Holdings,Driver,Banking,7157.2,Mashreq,158,Salary,Employment Income,845.03
+EMP000305,CUST00305,Self-Employed,Self-Employed,Business Owner,Healthcare,36447.03,ADIB,140,Business Income,Business Ownership,10726.64
+EMP000306,CUST00306,Employed,Prime LLC,Engineer,Education,5422.74,Mashreq,113,Salary,Employment Income,709.66
+EMP000307,CUST00307,Employed,Gulf Group,Teacher,Banking,10651.31,ADCB,25,Salary,Employment Income,2850.23
+EMP000308,CUST00308,Employed,Emirates Services,Accountant,Retail,27233.49,Emirates NBD,31,Salary,Employment Income,10086.97
+EMP000309,CUST00309,Employed,Prime Group,Nurse,Government,31411.94,Dubai Islamic Bank,85,Salary,Employment Income,5882.05
+EMP000310,CUST00310,Employed,Global Group,Driver,Construction,19232.76,Dubai Islamic Bank,103,Salary,Employment Income,1764.35
+EMP000311,CUST00311,Employed,Metro LLC,Nurse,Hospitality,11907.15,Mashreq,136,Salary,Employment Income,1600.9
+EMP000312,CUST00312,Employed,Metro Holdings,Teacher,Government,22575.74,Mashreq,25,Salary,Employment Income,7059.26
+EMP000313,CUST00313,Employed,Prime Holdings,Manager,Healthcare,43724.05,ADIB,55,Salary,Employment Income,16315.81
+EMP000314,CUST00314,Employed,Al Noor Holdings,Manager,Education,37030.17,Emirates NBD,121,Salary,Employment Income,11528.62
+EMP000315,CUST00315,Student,,Student,Education,2635.1,,0,Family Support,Family Support,359.7
+EMP000316,CUST00316,Student,,Student,Education,4462.5,,0,Family Support,Family Support,535.51
+EMP000317,CUST00317,Self-Employed,Self-Employed,Business Owner,Technology,69570.72,ADCB,73,Business Income,Business Ownership,33903.22
+EMP000318,CUST00318,Student,,Student,Education,2532.59,,0,Family Support,Family Support,238.33
+EMP000319,CUST00319,Employed,Emirates LLC,Business Owner,Education,10892.95,ADCB,113,Salary,Employment Income,2833.09
+EMP000320,CUST00320,Employed,Metro LLC,Teacher,Technology,8793.83,Mashreq,147,Salary,Employment Income,2996.54
+EMP000321,CUST00321,Employed,Gulf Trading,Engineer,Logistics,44450.73,Emirates NBD,158,Salary,Employment Income,15717.82
+EMP000322,CUST00322,Employed,Al Noor Services,Accountant,Healthcare,44869.13,Dubai Islamic Bank,172,Salary,Employment Income,10395.22
+EMP000323,CUST00323,Employed,Al Noor Trading,Software Developer,Banking,9272.85,ADIB,73,Salary,Employment Income,3798.3
+EMP000324,CUST00324,Self-Employed,Self-Employed,Business Owner,Education,31109.52,ADIB,75,Business Income,Business Ownership,8949.67
+EMP000325,CUST00325,Employed,Prime Group,Manager,Technology,5461.7,ADCB,164,Salary,Employment Income,2003.33
+EMP000326,CUST00326,Employed,Al Noor Trading,Business Owner,Construction,44401.86,FAB,51,Salary,Employment Income,15217.28
+EMP000327,CUST00327,Employed,Global Holdings,Sales Executive,Education,17244.34,Emirates NBD,63,Salary,Employment Income,1232.31
+EMP000328,CUST00328,Employed,Metro Holdings,Nurse,Retail,16848.14,ADIB,73,Salary,Employment Income,6867.09
+EMP000329,CUST00329,Employed,Metro Group,Teacher,Hospitality,40249.96,Emirates NBD,127,Salary,Employment Income,6520.81
+EMP000330,CUST00330,Employed,Metro Services,Teacher,Construction,43145.28,Dubai Islamic Bank,16,Salary,Employment Income,16912.41
+EMP000331,CUST00331,Employed,Metro LLC,Accountant,Construction,40160.8,FAB,72,Salary,Employment Income,2070.84
+EMP000332,CUST00332,Student,,Student,Education,2011.06,,0,Family Support,Family Support,9.67
+EMP000333,CUST00333,Employed,Gulf Holdings,Engineer,Healthcare,23190.35,ADIB,87,Salary,Employment Income,7676.97
+EMP000334,CUST00334,Employed,Prime LLC,Teacher,Logistics,42073.25,Mashreq,93,Salary,Employment Income,7878.6
+EMP000335,CUST00335,Employed,Emirates LLC,Driver,Logistics,6659.74,ADCB,89,Salary,Employment Income,1186.74
+EMP000336,CUST00336,Employed,Prime Trading,Engineer,Technology,8376.31,Mashreq,112,Salary,Employment Income,773.14
+EMP000337,CUST00337,Student,,Student,Education,2235.32,,0,Family Support,Family Support,97.08
+EMP000338,CUST00338,Self-Employed,Self-Employed,Business Owner,Construction,53933.45,Dubai Islamic Bank,74,Business Income,Business Ownership,9743.32
+EMP000339,CUST00339,Employed,Gulf Group,Accountant,Retail,38123.02,ADCB,68,Salary,Employment Income,14570.72
+EMP000340,CUST00340,Employed,Gulf LLC,Engineer,Logistics,14232.0,Dubai Islamic Bank,141,Salary,Employment Income,6247.47
+EMP000341,CUST00341,Employed,Emirates Group,Technician,Logistics,17553.06,ADCB,58,Salary,Employment Income,5826.6
+EMP000342,CUST00342,Self-Employed,Self-Employed,Business Owner,Construction,11401.86,Dubai Islamic Bank,227,Business Income,Business Ownership,4237.53
+EMP000343,CUST00343,Employed,Gulf Holdings,Sales Executive,Construction,22446.81,Mashreq,91,Salary,Employment Income,6504.68
+EMP000344,CUST00344,Employed,Al Noor LLC,Sales Executive,Education,36288.01,ADCB,24,Salary,Employment Income,13278.08
+EMP000345,CUST00345,Employed,Emirates Services,Accountant,Technology,42556.91,ADIB,175,Salary,Employment Income,7663.69
+EMP000346,CUST00346,Employed,Al Noor Group,Teacher,Technology,4158.07,FAB,58,Salary,Employment Income,860.38
+EMP000347,CUST00347,Employed,Emirates Holdings,Manager,Real Estate,12620.88,Emirates NBD,67,Salary,Employment Income,1374.94
+EMP000348,CUST00348,Employed,Global Trading,Accountant,Logistics,44203.76,ADIB,41,Salary,Employment Income,5130.29
+EMP000349,CUST00349,Student,,Student,Education,3207.18,,0,Family Support,Family Support,460.42
+EMP000350,CUST00350,Employed,Metro Trading,Business Owner,Logistics,10445.63,Dubai Islamic Bank,84,Salary,Employment Income,3316.09
+EMP000351,CUST00351,Employed,Emirates Services,Business Owner,Hospitality,28664.98,ADCB,13,Salary,Employment Income,1596.81
+EMP000352,CUST00352,Employed,Global LLC,Teacher,Construction,40880.01,FAB,134,Salary,Employment Income,13995.42
+EMP000353,CUST00353,Employed,Prime Group,Nurse,Technology,43250.94,FAB,144,Salary,Employment Income,9310.85
+EMP000354,CUST00354,Employed,Al Noor LLC,Accountant,Healthcare,26662.34,FAB,73,Salary,Employment Income,9901.6
+EMP000355,CUST00355,Employed,Global Group,Manager,Hospitality,13028.99,ADIB,174,Salary,Employment Income,2804.41
+EMP000356,CUST00356,Student,,Student,Education,2425.23,,0,Family Support,Family Support,398.86
+EMP000357,CUST00357,Employed,Prime Services,Driver,Retail,16164.14,Mashreq,83,Salary,Employment Income,4009.23
+EMP000358,CUST00358,Employed,Gulf Holdings,Driver,Retail,44512.56,ADIB,130,Salary,Employment Income,9274.34
+EMP000359,CUST00359,Employed,Metro Group,Software Developer,Technology,18717.99,FAB,108,Salary,Employment Income,1030.29
+EMP000360,CUST00360,Self-Employed,Self-Employed,Business Owner,Healthcare,47355.63,ADIB,62,Business Income,Business Ownership,14276.14
+EMP000361,CUST00361,Employed,Prime Group,Business Owner,Education,11475.87,ADIB,38,Salary,Employment Income,979.01
+EMP000362,CUST00362,Employed,Emirates Group,Sales Executive,Education,11544.48,FAB,93,Salary,Employment Income,2793.57
+EMP000363,CUST00363,Employed,Global Services,Technician,Construction,19098.91,ADCB,127,Salary,Employment Income,3984.02
+EMP000364,CUST00364,Employed,Emirates LLC,Nurse,Healthcare,6873.55,Emirates NBD,50,Salary,Employment Income,2045.09
+EMP000365,CUST00365,Employed,Emirates LLC,Engineer,Construction,26350.05,Dubai Islamic Bank,146,Salary,Employment Income,2822.02
+EMP000366,CUST00366,Employed,Al Noor Services,Nurse,Healthcare,35945.69,Dubai Islamic Bank,42,Salary,Employment Income,4186.89
+EMP000367,CUST00367,Employed,Global Group,Software Developer,Technology,5350.43,ADCB,145,Salary,Employment Income,824.61
+EMP000368,CUST00368,Employed,Global Holdings,Driver,Healthcare,21733.23,Dubai Islamic Bank,16,Salary,Employment Income,9094.47
+EMP000369,CUST00369,Employed,Global Group,Technician,Technology,42287.1,Mashreq,178,Salary,Employment Income,12664.18
+EMP000370,CUST00370,Employed,Metro Services,Nurse,Education,44056.59,Mashreq,113,Salary,Employment Income,19482.57
+EMP000371,CUST00371,Employed,Metro Services,Manager,Banking,16652.91,ADIB,147,Salary,Employment Income,5054.38
+EMP000372,CUST00372,Employed,Emirates Group,Accountant,Government,20747.46,FAB,88,Salary,Employment Income,5844.82
+EMP000373,CUST00373,Employed,Emirates Holdings,Technician,Construction,29961.68,Mashreq,100,Salary,Employment Income,8276.2
+EMP000374,CUST00374,Student,,Student,Education,2053.58,,0,Family Support,Family Support,375.03
+EMP000375,CUST00375,Employed,Emirates LLC,Teacher,Education,22364.96,ADIB,108,Salary,Employment Income,9364.76
+EMP000376,CUST00376,Self-Employed,Self-Employed,Business Owner,Construction,45161.52,Mashreq,20,Business Income,Business Ownership,19304.07
+EMP000377,CUST00377,Employed,Global Services,Nurse,Education,11250.27,Mashreq,109,Salary,Employment Income,2352.47
+EMP000378,CUST00378,Employed,Al Noor Holdings,Manager,Retail,8105.33,Dubai Islamic Bank,15,Salary,Employment Income,3583.6
+EMP000379,CUST00379,Student,,Student,Education,2979.28,,0,Family Support,Family Support,299.21
+EMP000380,CUST00380,Employed,Global Holdings,Business Owner,Logistics,35067.81,Dubai Islamic Bank,46,Salary,Employment Income,5566.51
+EMP000381,CUST00381,Employed,Al Noor Trading,Teacher,Real Estate,40659.47,FAB,24,Salary,Employment Income,10492.44
+EMP000382,CUST00382,Employed,Prime Trading,Teacher,Education,32998.33,FAB,15,Salary,Employment Income,12870.59
+EMP000383,CUST00383,Unemployed,,Unemployed,,683.57,,0,Business Income,Savings,111.65
+EMP000384,CUST00384,Employed,Metro Services,Nurse,Logistics,8973.51,Mashreq,152,Salary,Employment Income,693.17
+EMP000385,CUST00385,Employed,Emirates LLC,Technician,Real Estate,38135.73,ADCB,164,Salary,Employment Income,16699.35
+EMP000386,CUST00386,Employed,Global Services,Engineer,Banking,4096.7,Emirates NBD,101,Salary,Employment Income,557.25
+EMP000387,CUST00387,Employed,Gulf Trading,Engineer,Healthcare,19049.61,Dubai Islamic Bank,28,Salary,Employment Income,3724.67
+EMP000388,CUST00388,Employed,Emirates LLC,Teacher,Retail,42055.41,FAB,4,Salary,Employment Income,12089.2
+EMP000389,CUST00389,Employed,Gulf Services,Teacher,Retail,10886.42,Dubai Islamic Bank,155,Salary,Employment Income,4529.36
+EMP000390,CUST00390,Employed,Gulf Services,Software Developer,Hospitality,5433.54,Dubai Islamic Bank,7,Salary,Employment Income,2222.46
+EMP000391,CUST00391,Student,,Student,Education,1488.42,,0,Family Support,Family Support,230.19
+EMP000392,CUST00392,Employed,Metro Trading,Accountant,Banking,17128.2,ADIB,29,Salary,Employment Income,5351.93
+EMP000393,CUST00393,Employed,Gulf LLC,Manager,Hospitality,34824.47,ADCB,47,Salary,Employment Income,14821.45
+EMP000394,CUST00394,Self-Employed,Self-Employed,Business Owner,Education,40364.75,ADCB,206,Business Income,Business Ownership,19727.9
+EMP000395,CUST00395,Student,,Student,Education,3404.8,,0,Family Support,Family Support,253.81
+EMP000396,CUST00396,Employed,Prime Group,Manager,Real Estate,15671.81,Emirates NBD,32,Salary,Employment Income,3699.78
+EMP000397,CUST00397,Employed,Global Holdings,Technician,Banking,40814.28,ADCB,126,Salary,Employment Income,4336.62
+EMP000398,CUST00398,Unemployed,,Unemployed,,2718.34,,0,Investment Income,Savings,37.99
+EMP000399,CUST00399,Employed,Global Holdings,Accountant,Government,44641.81,ADIB,54,Salary,Employment Income,7286.12
+EMP000400,CUST00400,Employed,Emirates Services,Engineer,Retail,30302.01,Mashreq,173,Salary,Employment Income,9772.56
+EMP000401,CUST00401,Employed,Global Services,Engineer,Education,39305.96,ADIB,22,Salary,Employment Income,10555.76
+EMP000402,CUST00402,Employed,Al Noor Services,Technician,Technology,34177.13,ADCB,95,Salary,Employment Income,3726.07
+EMP000403,CUST00403,Student,,Student,Education,5420.28,,0,Family Support,Family Support,95.68
+EMP000404,CUST00404,Employed,Metro Group,Nurse,Construction,21902.77,Dubai Islamic Bank,58,Salary,Employment Income,2562.32
+EMP000405,CUST00405,Employed,Gulf Trading,Manager,Logistics,31864.96,Dubai Islamic Bank,31,Salary,Employment Income,3032.78
+EMP000406,CUST00406,Employed,Global Holdings,Manager,Construction,41843.3,Dubai Islamic Bank,4,Salary,Employment Income,5096.82
+EMP000407,CUST00407,Employed,Prime Group,Engineer,Technology,11740.88,Mashreq,62,Salary,Employment Income,4248.85
+EMP000408,CUST00408,Employed,Metro Group,Sales Executive,Logistics,5672.63,ADIB,89,Salary,Employment Income,757.22
+EMP000409,CUST00409,Student,,Student,Education,2414.57,,0,Family Support,Family Support,325.34
+EMP000410,CUST00410,Employed,Metro Holdings,Nurse,Retail,12092.84,Emirates NBD,173,Salary,Employment Income,2262.41
+EMP000411,CUST00411,Employed,Gulf Holdings,Nurse,Government,36609.99,FAB,44,Salary,Employment Income,9851.73
+EMP000412,CUST00412,Employed,Gulf Services,Technician,Government,24064.92,FAB,114,Salary,Employment Income,5554.99
+EMP000413,CUST00413,Employed,Metro Services,Accountant,Logistics,34087.3,Mashreq,72,Salary,Employment Income,10701.77
+EMP000414,CUST00414,Self-Employed,Self-Employed,Business Owner,Government,28403.78,ADCB,88,Business Income,Business Ownership,7028.6
+EMP000415,CUST00415,Student,,Student,Education,1421.05,,0,Family Support,Family Support,256.58
+EMP000416,CUST00416,Employed,Metro LLC,Teacher,Construction,22637.06,Dubai Islamic Bank,50,Salary,Employment Income,6245.18
+EMP000417,CUST00417,Employed,Emirates Services,Accountant,Hospitality,32273.8,Emirates NBD,26,Salary,Employment Income,11313.99
+EMP000418,CUST00418,Employed,Gulf LLC,Teacher,Technology,11924.38,Dubai Islamic Bank,10,Salary,Employment Income,944.39
+EMP000419,CUST00419,Employed,Gulf Services,Nurse,Banking,5621.15,Mashreq,83,Salary,Employment Income,425.44
+EMP000420,CUST00420,Employed,Al Noor LLC,Sales Executive,Retail,30159.51,Mashreq,15,Salary,Employment Income,9570.14
+EMP000421,CUST00421,Employed,Prime Holdings,Manager,Government,18417.39,Dubai Islamic Bank,106,Salary,Employment Income,7935.16
+EMP000422,CUST00422,Employed,Al Noor Trading,Technician,Real Estate,7672.16,Emirates NBD,81,Salary,Employment Income,2331.48
+EMP000423,CUST00423,Employed,Emirates Holdings,Business Owner,Retail,7290.25,Dubai Islamic Bank,18,Salary,Employment Income,3029.58
+EMP000424,CUST00424,Employed,Al Noor Group,Manager,Logistics,34875.61,ADIB,105,Salary,Employment Income,8226.77
+EMP000425,CUST00425,Employed,Al Noor Services,Nurse,Real Estate,6920.29,Mashreq,10,Salary,Employment Income,612.95
+EMP000426,CUST00426,Employed,Gulf LLC,Manager,Education,10284.42,FAB,22,Salary,Employment Income,4348.2
+EMP000427,CUST00427,Employed,Gulf Services,Engineer,Healthcare,42852.82,Dubai Islamic Bank,4,Salary,Employment Income,6455.05
+EMP000428,CUST00428,Unemployed,,Unemployed,,2871.76,,0,Investment Income,Investments,434.9
+EMP000429,CUST00429,Employed,Emirates Group,Teacher,Construction,22878.4,Emirates NBD,161,Salary,Employment Income,9539.43
+EMP000430,CUST00430,Employed,Emirates Holdings,Nurse,Government,30417.65,Dubai Islamic Bank,145,Salary,Employment Income,7291.74
+EMP000431,CUST00431,Employed,Prime Services,Technician,Construction,33058.9,Dubai Islamic Bank,158,Salary,Employment Income,13242.17
+EMP000432,CUST00432,Employed,Al Noor LLC,Accountant,Construction,29773.44,ADIB,68,Salary,Employment Income,1846.11
+EMP000433,CUST00433,Self-Employed,Self-Employed,Business Owner,Government,22288.74,Mashreq,176,Business Income,Business Ownership,6478.44
+EMP000434,CUST00434,Employed,Al Noor LLC,Nurse,Government,36796.31,FAB,71,Salary,Employment Income,3831.46
+EMP000435,CUST00435,Employed,Emirates Group,Manager,Hospitality,28006.98,ADCB,64,Salary,Employment Income,8153.51
+EMP000436,CUST00436,Employed,Global LLC,Manager,Construction,26667.14,ADCB,124,Salary,Employment Income,3988.64
+EMP000437,CUST00437,Unemployed,,Unemployed,,2599.56,,0,Business Income,Employment Income,697.95
+EMP000438,CUST00438,Student,,Student,Education,4153.84,,0,Family Support,Family Support,46.96
+EMP000439,CUST00439,Employed,Emirates Group,Accountant,Retail,21389.2,FAB,179,Salary,Employment Income,8577.3
+EMP000440,CUST00440,Employed,Emirates Group,Driver,Construction,20332.66,Mashreq,57,Salary,Employment Income,4279.22
+EMP000441,CUST00441,Self-Employed,Self-Employed,Business Owner,Technology,40275.28,ADCB,233,Business Income,Business Ownership,7963.11
+EMP000442,CUST00442,Employed,Al Noor Group,Driver,Hospitality,5318.34,ADIB,33,Salary,Employment Income,1840.56
+EMP000443,CUST00443,Student,,Student,Education,5716.48,,0,Family Support,Family Support,232.53
+EMP000444,CUST00444,Student,,Student,Education,5670.08,,0,Family Support,Family Support,95.32
+EMP000445,CUST00445,Employed,Metro Group,Nurse,Real Estate,17920.89,FAB,125,Salary,Employment Income,5494.87
+EMP000446,CUST00446,Employed,Global Holdings,Business Owner,Education,37331.0,ADCB,163,Salary,Employment Income,13338.75
+EMP000447,CUST00447,Employed,Al Noor Trading,Engineer,Real Estate,24732.35,Emirates NBD,34,Salary,Employment Income,10918.86
+EMP000448,CUST00448,Employed,Global Holdings,Engineer,Education,34849.68,ADIB,102,Salary,Employment Income,5760.98
+EMP000449,CUST00449,Employed,Prime Services,Nurse,Logistics,40016.13,ADIB,55,Salary,Employment Income,7174.23
+EMP000450,CUST00450,Employed,Metro LLC,Driver,Real Estate,29492.61,Emirates NBD,95,Salary,Employment Income,4304.33
+EMP000451,CUST00451,Employed,Gulf Group,Driver,Retail,23053.43,Dubai Islamic Bank,59,Salary,Employment Income,9052.0
+EMP000452,CUST00452,Employed,Global Services,Accountant,Hospitality,27322.28,Mashreq,145,Salary,Employment Income,3240.6
+EMP000453,CUST00453,Employed,Gulf Trading,Business Owner,Retail,12059.36,ADCB,67,Salary,Employment Income,2554.18
+EMP000454,CUST00454,Employed,Global LLC,Business Owner,Technology,42955.82,ADCB,81,Salary,Employment Income,5680.27
+EMP000455,CUST00455,Employed,Gulf Group,Manager,Banking,37536.77,Mashreq,110,Salary,Employment Income,12933.39
+EMP000456,CUST00456,Employed,Gulf LLC,Software Developer,Technology,8683.51,ADCB,117,Salary,Employment Income,3605.86
+EMP000457,CUST00457,Employed,Emirates Trading,Business Owner,Logistics,40119.03,Dubai Islamic Bank,163,Salary,Employment Income,2599.3
+EMP000458,CUST00458,Employed,Al Noor LLC,Sales Executive,Hospitality,21414.37,Dubai Islamic Bank,5,Salary,Employment Income,1947.64
+EMP000459,CUST00459,Student,,Student,Education,2592.11,,0,Family Support,Family Support,71.95
+EMP000460,CUST00460,Unemployed,,Unemployed,,244.19,,0,Salary,Savings,66.65
+EMP000461,CUST00461,Self-Employed,Self-Employed,Business Owner,Logistics,18796.52,ADCB,148,Business Income,Business Ownership,9732.09
+EMP000462,CUST00462,Employed,Metro Services,Engineer,Retail,21040.58,ADCB,18,Salary,Employment Income,5716.17
+EMP000463,CUST00463,Student,,Student,Education,2321.37,,0,Family Support,Family Support,325.93
+EMP000464,CUST00464,Employed,Gulf LLC,Software Developer,Technology,9781.41,Mashreq,161,Salary,Employment Income,2854.26
+EMP000465,CUST00465,Employed,Metro Group,Engineer,Banking,43560.82,Emirates NBD,168,Salary,Employment Income,3353.29
+EMP000466,CUST00466,Employed,Emirates Group,Manager,Banking,38364.05,ADIB,124,Salary,Employment Income,5337.79
+EMP000467,CUST00467,Employed,Metro LLC,Sales Executive,Hospitality,14114.33,Dubai Islamic Bank,97,Salary,Employment Income,1663.56
+EMP000468,CUST00468,Employed,Global Holdings,Software Developer,Education,38565.33,Mashreq,85,Salary,Employment Income,12104.86
+EMP000469,CUST00469,Employed,Prime Holdings,Business Owner,Construction,12746.94,Dubai Islamic Bank,61,Salary,Employment Income,783.76
+EMP000470,CUST00470,Employed,Prime Holdings,Business Owner,Healthcare,23592.28,Mashreq,116,Salary,Employment Income,5280.41
+EMP000471,CUST00471,Employed,Gulf Trading,Driver,Real Estate,33515.52,ADCB,157,Salary,Employment Income,5330.23
+EMP000472,CUST00472,Employed,Gulf Group,Teacher,Real Estate,8238.45,Emirates NBD,63,Salary,Employment Income,1535.65
+EMP000473,CUST00473,Self-Employed,Self-Employed,Business Owner,Construction,53750.7,Dubai Islamic Bank,97,Business Income,Business Ownership,23939.19
+EMP000474,CUST00474,Employed,Prime LLC,Accountant,Real Estate,29377.86,Mashreq,57,Salary,Employment Income,5666.71
+EMP000475,CUST00475,Employed,Prime Trading,Technician,Hospitality,41195.27,Emirates NBD,46,Salary,Employment Income,3494.55
+EMP000476,CUST00476,Employed,Prime Services,Engineer,Technology,15929.51,FAB,170,Salary,Employment Income,2616.98
+EMP000477,CUST00477,Employed,Emirates Group,Driver,Real Estate,4956.91,FAB,18,Salary,Employment Income,1242.62
+EMP000478,CUST00478,Unemployed,,Unemployed,,1819.63,,0,Business Income,Employment Income,221.24
+EMP000479,CUST00479,Employed,Al Noor Services,Technician,Logistics,10456.58,ADIB,154,Salary,Employment Income,1906.66
+EMP000480,CUST00480,Self-Employed,Self-Employed,Business Owner,Technology,52532.36,ADIB,98,Business Income,Business Ownership,23537.04
+EMP000481,CUST00481,Employed,Prime Group,Business Owner,Hospitality,40738.11,ADIB,42,Salary,Employment Income,7418.54
+EMP000482,CUST00482,Employed,Global Holdings,Nurse,Technology,42669.87,Mashreq,154,Salary,Employment Income,16567.89
+EMP000483,CUST00483,Employed,Al Noor Services,Engineer,Logistics,31046.54,Dubai Islamic Bank,165,Salary,Employment Income,12825.68
+EMP000484,CUST00484,Employed,Prime Group,Engineer,Healthcare,27066.92,Dubai Islamic Bank,104,Salary,Employment Income,6727.22
+EMP000485,CUST00485,Employed,Metro Holdings,Accountant,Construction,27976.83,Emirates NBD,60,Salary,Employment Income,8838.14
+EMP000486,CUST00486,Employed,Gulf Trading,Business Owner,Education,5559.94,Emirates NBD,90,Salary,Employment Income,1546.44
+EMP000487,CUST00487,Employed,Emirates LLC,Software Developer,Hospitality,9285.02,Mashreq,84,Salary,Employment Income,1286.44
+EMP000488,CUST00488,Employed,Global Services,Software Developer,Logistics,17969.06,Mashreq,66,Salary,Employment Income,3297.03
+EMP000489,CUST00489,Employed,Al Noor Services,Manager,Construction,21106.45,Emirates NBD,72,Salary,Employment Income,1558.08
+EMP000490,CUST00490,Employed,Emirates Services,Nurse,Technology,4919.3,Emirates NBD,20,Salary,Employment Income,1283.37
+EMP000491,CUST00491,Employed,Prime Services,Business Owner,Construction,24337.08,ADIB,100,Salary,Employment Income,9997.03
+EMP000492,CUST00492,Unemployed,,Unemployed,,2679.3,,0,Business Income,Business Ownership,555.86
+EMP000493,CUST00493,Employed,Metro Trading,Technician,Retail,8198.79,Mashreq,15,Salary,Employment Income,3664.48
+EMP000494,CUST00494,Employed,Global Services,Accountant,Government,37959.15,FAB,77,Salary,Employment Income,6170.21
+EMP000495,CUST00495,Employed,Prime LLC,Accountant,Construction,16355.84,ADIB,7,Salary,Employment Income,4942.48
+EMP000496,CUST00496,Student,,Student,Education,1435.81,,0,Family Support,Family Support,135.32
+EMP000497,CUST00497,Employed,Emirates Trading,Accountant,Real Estate,5979.45,ADCB,109,Salary,Employment Income,1460.24
+EMP000498,CUST00498,Unemployed,,Unemployed,,2795.41,,0,Family Support,Investments,656.74
+EMP000499,CUST00499,Employed,Al Noor LLC,Manager,Education,38985.78,FAB,92,Salary,Employment Income,6608.79
+EMP000500,CUST00500,Employed,Al Noor Holdings,Sales Executive,Real Estate,6385.08,FAB,67,Salary,Employment Income,835.28
+EMP000501,CUST00501,Self-Employed,Self-Employed,Business Owner,Retail,52480.76,Emirates NBD,41,Business Income,Business Ownership,14265.24
+EMP000502,CUST00502,Employed,Emirates Services,Accountant,Government,16920.5,Dubai Islamic Bank,37,Salary,Employment Income,2146.47
+EMP000503,CUST00503,Employed,Gulf Services,Driver,Retail,30764.85,FAB,170,Salary,Employment Income,7937.6
+EMP000504,CUST00504,Employed,Prime Trading,Engineer,Technology,36204.1,FAB,7,Salary,Employment Income,8068.66
+EMP000505,CUST00505,Self-Employed,Self-Employed,Business Owner,Technology,33622.93,Mashreq,78,Business Income,Business Ownership,14215.29
+EMP000506,CUST00506,Employed,Global Group,Nurse,Government,44962.07,Mashreq,114,Salary,Employment Income,5075.08
+EMP000507,CUST00507,Student,,Student,Education,5522.35,,0,Family Support,Family Support,463.95
+EMP000508,CUST00508,Employed,Global Group,Engineer,Logistics,44346.89,ADIB,151,Salary,Employment Income,10263.85
+EMP000509,CUST00509,Employed,Gulf LLC,Software Developer,Hospitality,27908.42,Mashreq,46,Salary,Employment Income,5245.41
+EMP000510,CUST00510,Employed,Global Group,Business Owner,Real Estate,10465.01,ADCB,119,Salary,Employment Income,2457.59
+EMP000511,CUST00511,Employed,Emirates Holdings,Nurse,Government,19343.82,Dubai Islamic Bank,157,Salary,Employment Income,7884.63
+EMP000512,CUST00512,Employed,Global Holdings,Nurse,Real Estate,40503.88,FAB,24,Salary,Employment Income,8248.1
+EMP000513,CUST00513,Self-Employed,Self-Employed,Business Owner,Retail,46371.27,ADIB,186,Business Income,Business Ownership,19252.23
+EMP000514,CUST00514,Employed,Prime Group,Nurse,Technology,38284.65,FAB,85,Salary,Employment Income,4125.24
+EMP000515,CUST00515,Self-Employed,Self-Employed,Business Owner,Education,7372.02,Emirates NBD,100,Business Income,Business Ownership,1300.75
+EMP000516,CUST00516,Student,,Student,Education,5891.47,,0,Family Support,Family Support,1035.55
+EMP000517,CUST00517,Self-Employed,Self-Employed,Business Owner,Government,30667.89,FAB,90,Business Income,Business Ownership,6594.84
+EMP000518,CUST00518,Student,,Student,Education,4937.32,,0,Family Support,Family Support,495.81
+EMP000519,CUST00519,Employed,Global Group,Accountant,Retail,24010.78,ADIB,80,Salary,Employment Income,4809.36
+EMP000520,CUST00520,Student,,Student,Education,4743.05,,0,Family Support,Family Support,584.41
+EMP000521,CUST00521,Self-Employed,Self-Employed,Business Owner,Construction,33681.7,ADIB,93,Business Income,Business Ownership,17065.3
+EMP000522,CUST00522,Self-Employed,Self-Employed,Business Owner,Banking,64177.96,Emirates NBD,210,Business Income,Business Ownership,26379.49
+EMP000523,CUST00523,Employed,Global Trading,Technician,Healthcare,22918.47,FAB,111,Salary,Employment Income,1539.14
+EMP000524,CUST00524,Employed,Emirates Group,Accountant,Logistics,20957.82,Dubai Islamic Bank,161,Salary,Employment Income,2116.76
+EMP000525,CUST00525,Employed,Al Noor Group,Technician,Hospitality,7599.92,ADCB,127,Salary,Employment Income,1429.73
+EMP000526,CUST00526,Employed,Global Services,Engineer,Government,33419.87,Mashreq,128,Salary,Employment Income,10858.33
+EMP000527,CUST00527,Employed,Al Noor Trading,Manager,Technology,41737.47,Dubai Islamic Bank,133,Salary,Employment Income,3259.47
+EMP000528,CUST00528,Employed,Global Group,Driver,Technology,23191.94,ADIB,109,Salary,Employment Income,1910.56
+EMP000529,CUST00529,Employed,Metro Group,Accountant,Real Estate,26946.8,ADCB,110,Salary,Employment Income,11417.06
+EMP000530,CUST00530,Employed,Global Trading,Driver,Real Estate,14286.25,FAB,83,Salary,Employment Income,1396.73
+EMP000531,CUST00531,Employed,Gulf Services,Teacher,Real Estate,39408.36,FAB,109,Salary,Employment Income,17484.0
+EMP000532,CUST00532,Employed,Al Noor Trading,Business Owner,Construction,14692.76,FAB,104,Salary,Employment Income,4301.99
+EMP000533,CUST00533,Employed,Emirates LLC,Software Developer,Logistics,9275.03,ADIB,82,Salary,Employment Income,2534.1
+EMP000534,CUST00534,Self-Employed,Self-Employed,Business Owner,Real Estate,62273.39,Mashreq,147,Business Income,Business Ownership,14751.17
+EMP000535,CUST00535,Employed,Metro Holdings,Manager,Healthcare,34900.24,Emirates NBD,149,Salary,Employment Income,7676.06
+EMP000536,CUST00536,Employed,Prime Trading,Nurse,Healthcare,18247.68,Mashreq,149,Salary,Employment Income,7299.46
+EMP000537,CUST00537,Unemployed,,Unemployed,,541.29,,0,Investment Income,Savings,68.52
+EMP000538,CUST00538,Employed,Gulf Services,Technician,Education,4177.3,Mashreq,153,Salary,Employment Income,1740.62
+EMP000539,CUST00539,Self-Employed,Self-Employed,Business Owner,Technology,13967.56,ADCB,33,Business Income,Business Ownership,6130.58
+EMP000540,CUST00540,Employed,Prime Services,Technician,Banking,37845.31,Dubai Islamic Bank,95,Salary,Employment Income,11994.8
+EMP000541,CUST00541,Employed,Prime Services,Engineer,Healthcare,19920.57,Emirates NBD,108,Salary,Employment Income,2498.54
+EMP000542,CUST00542,Employed,Global Group,Technician,Logistics,12449.49,FAB,103,Salary,Employment Income,3711.65
+EMP000543,CUST00543,Employed,Metro Group,Sales Executive,Banking,35420.4,FAB,5,Salary,Employment Income,13645.3
+EMP000544,CUST00544,Employed,Global Services,Technician,Healthcare,12900.61,Emirates NBD,58,Salary,Employment Income,4527.58
+EMP000545,CUST00545,Employed,Global LLC,Nurse,Technology,25474.2,ADCB,86,Salary,Employment Income,2571.11
+EMP000546,CUST00546,Self-Employed,Self-Employed,Business Owner,Technology,56583.93,Emirates NBD,35,Business Income,Business Ownership,19835.79
+EMP000547,CUST00547,Employed,Emirates Holdings,Accountant,Technology,10201.12,ADIB,152,Salary,Employment Income,1854.63
+EMP000548,CUST00548,Employed,Emirates Trading,Business Owner,Hospitality,20936.23,ADCB,169,Salary,Employment Income,9151.42
+EMP000549,CUST00549,Student,,Student,Education,4550.85,,0,Family Support,Family Support,85.45
+EMP000550,CUST00550,Student,,Student,Education,3512.58,,0,Family Support,Family Support,55.22
+EMP000551,CUST00551,Employed,Emirates LLC,Manager,Technology,28718.75,Mashreq,61,Salary,Employment Income,5942.29
+EMP000552,CUST00552,Self-Employed,Self-Employed,Business Owner,Logistics,45850.62,ADCB,135,Business Income,Business Ownership,6104.41
+EMP000553,CUST00553,Employed,Al Noor Holdings,Business Owner,Education,20979.98,FAB,5,Salary,Employment Income,2664.41
+EMP000554,CUST00554,Unemployed,,Unemployed,,1474.01,,0,Salary,Business Ownership,295.32
+EMP000555,CUST00555,Employed,Gulf Services,Technician,Hospitality,44503.46,ADCB,91,Salary,Employment Income,13492.41
+EMP000556,CUST00556,Employed,Global Services,Engineer,Education,34432.91,ADIB,90,Salary,Employment Income,3459.05
+EMP000557,CUST00557,Employed,Al Noor LLC,Technician,Retail,43067.02,Dubai Islamic Bank,164,Salary,Employment Income,8050.15
+EMP000558,CUST00558,Self-Employed,Self-Employed,Business Owner,Healthcare,59184.99,Emirates NBD,100,Business Income,Business Ownership,16646.59
+EMP000559,CUST00559,Employed,Gulf Services,Manager,Hospitality,6525.09,ADCB,75,Salary,Employment Income,2542.74
+EMP000560,CUST00560,Employed,Metro Trading,Business Owner,Hospitality,36614.81,ADCB,156,Salary,Employment Income,15835.18
+EMP000561,CUST00561,Employed,Emirates Trading,Sales Executive,Hospitality,24614.18,Emirates NBD,73,Salary,Employment Income,7011.12
+EMP000562,CUST00562,Employed,Metro Trading,Teacher,Technology,20959.89,ADIB,24,Salary,Employment Income,4470.41
+EMP000563,CUST00563,Employed,Al Noor Services,Business Owner,Construction,20971.17,ADCB,102,Salary,Employment Income,1958.88
+EMP000564,CUST00564,Employed,Al Noor Holdings,Accountant,Construction,17439.37,Dubai Islamic Bank,81,Salary,Employment Income,4791.63
+EMP000565,CUST00565,Employed,Emirates Group,Driver,Logistics,35926.54,Mashreq,107,Salary,Employment Income,14204.51
+EMP000566,CUST00566,Employed,Metro Holdings,Manager,Hospitality,40137.83,ADIB,90,Salary,Employment Income,2271.09
+EMP000567,CUST00567,Self-Employed,Self-Employed,Business Owner,Banking,62540.25,ADIB,235,Business Income,Business Ownership,22650.78
+EMP000568,CUST00568,Employed,Al Noor LLC,Technician,Government,19067.67,ADCB,39,Salary,Employment Income,8169.27
+EMP000569,CUST00569,Employed,Global Group,Software Developer,Healthcare,30698.09,Mashreq,6,Salary,Employment Income,12877.02
+EMP000570,CUST00570,Employed,Emirates LLC,Accountant,Technology,15675.86,Mashreq,30,Salary,Employment Income,4307.23
+EMP000571,CUST00571,Employed,Gulf Holdings,Technician,Government,13419.37,Emirates NBD,115,Salary,Employment Income,1399.97
+EMP000572,CUST00572,Employed,Emirates Services,Business Owner,Government,5191.78,Emirates NBD,20,Salary,Employment Income,587.59
+EMP000573,CUST00573,Self-Employed,Self-Employed,Business Owner,Technology,43403.93,Mashreq,224,Business Income,Business Ownership,13651.89
+EMP000574,CUST00574,Unemployed,,Unemployed,,1328.63,,0,Salary,Business Ownership,257.83
+EMP000575,CUST00575,Employed,Metro Services,Manager,Hospitality,35748.14,Mashreq,126,Salary,Employment Income,1801.15
+EMP000576,CUST00576,Employed,Global Trading,Driver,Technology,27751.51,ADIB,86,Salary,Employment Income,6831.13
+EMP000577,CUST00577,Employed,Emirates Holdings,Manager,Logistics,39341.35,Mashreq,11,Salary,Employment Income,6965.73
+EMP000578,CUST00578,Employed,Metro Services,Sales Executive,Technology,22474.25,FAB,155,Salary,Employment Income,1174.39
+EMP000579,CUST00579,Student,,Student,Education,5972.84,,0,Family Support,Family Support,323.19
+EMP000580,CUST00580,Employed,Metro LLC,Teacher,Banking,26539.81,FAB,135,Salary,Employment Income,11604.33
+EMP000581,CUST00581,Employed,Emirates Group,Teacher,Retail,9104.99,ADCB,153,Salary,Employment Income,3371.77
+EMP000582,CUST00582,Employed,Emirates Group,Nurse,Logistics,40170.1,Dubai Islamic Bank,15,Salary,Employment Income,13037.94
+EMP000583,CUST00583,Employed,Al Noor Trading,Sales Executive,Education,25142.9,Mashreq,34,Salary,Employment Income,9624.53
+EMP000584,CUST00584,Employed,Global Trading,Accountant,Banking,23140.68,Emirates NBD,151,Salary,Employment Income,7372.83
+EMP000585,CUST00585,Unemployed,,Unemployed,,2775.65,,0,Family Support,Business Ownership,432.21
+EMP000586,CUST00586,Student,,Student,Education,2288.17,,0,Family Support,Family Support,201.83
+EMP000587,CUST00587,Self-Employed,Self-Employed,Business Owner,Education,21602.93,ADIB,133,Business Income,Business Ownership,4911.98
+EMP000588,CUST00588,Self-Employed,Self-Employed,Business Owner,Healthcare,54453.96,Dubai Islamic Bank,168,Business Income,Business Ownership,29200.26
+EMP000589,CUST00589,Employed,Emirates Trading,Software Developer,Government,15328.07,FAB,150,Salary,Employment Income,3083.78
+EMP000590,CUST00590,Employed,Gulf Services,Accountant,Hospitality,12980.44,FAB,35,Salary,Employment Income,5490.8
+EMP000591,CUST00591,Employed,Global Services,Driver,Retail,14377.88,Emirates NBD,25,Salary,Employment Income,6277.24
+EMP000592,CUST00592,Employed,Al Noor Holdings,Nurse,Banking,5715.83,Dubai Islamic Bank,78,Salary,Employment Income,665.44
+EMP000593,CUST00593,Employed,Emirates Group,Software Developer,Logistics,6585.19,Dubai Islamic Bank,162,Salary,Employment Income,2274.08
+EMP000594,CUST00594,Employed,Emirates Services,Teacher,Government,33876.61,Dubai Islamic Bank,117,Salary,Employment Income,10899.89
+EMP000595,CUST00595,Unemployed,,Unemployed,,1167.57,,0,Family Support,Savings,348.08
+EMP000596,CUST00596,Employed,Global Holdings,Software Developer,Hospitality,10778.07,Emirates NBD,54,Salary,Employment Income,3906.4
+EMP000597,CUST00597,Self-Employed,Self-Employed,Business Owner,Healthcare,8051.79,Dubai Islamic Bank,162,Business Income,Business Ownership,3769.43
+EMP000598,CUST00598,Employed,Prime Group,Nurse,Healthcare,12932.57,Emirates NBD,138,Salary,Employment Income,1163.52
+EMP000599,CUST00599,Employed,Global Holdings,Teacher,Real Estate,13791.55,ADIB,117,Salary,Employment Income,4582.35
+EMP000600,CUST00600,Employed,Emirates Holdings,Engineer,Banking,34836.53,Mashreq,34,Salary,Employment Income,6594.57
+EMP000601,CUST00601,Employed,Al Noor Trading,Teacher,Healthcare,7273.64,Emirates NBD,22,Salary,Employment Income,2728.22
+EMP000602,CUST00602,Employed,Prime LLC,Manager,Logistics,6315.7,Mashreq,21,Salary,Employment Income,1813.66
+EMP000603,CUST00603,Unemployed,,Unemployed,,2346.71,,0,Business Income,Savings,615.71
+EMP000604,CUST00604,Employed,Prime Group,Technician,Education,10399.5,Emirates NBD,94,Salary,Employment Income,2614.36
+EMP000605,CUST00605,Self-Employed,Self-Employed,Business Owner,Banking,18699.08,ADCB,112,Business Income,Business Ownership,1978.96
+EMP000606,CUST00606,Employed,Gulf Holdings,Engineer,Education,25724.44,Dubai Islamic Bank,123,Salary,Employment Income,8102.07
+EMP000607,CUST00607,Employed,Prime Trading,Teacher,Technology,17268.8,FAB,150,Salary,Employment Income,6676.31
+EMP000608,CUST00608,Employed,Al Noor Trading,Nurse,Hospitality,14609.31,ADCB,118,Salary,Employment Income,2813.16
+EMP000609,CUST00609,Employed,Al Noor Group,Business Owner,Government,22179.5,ADCB,85,Salary,Employment Income,2346.55
+EMP000610,CUST00610,Employed,Metro Holdings,Accountant,Retail,38588.98,Dubai Islamic Bank,96,Salary,Employment Income,16566.7
+EMP000611,CUST00611,Self-Employed,Self-Employed,Business Owner,Retail,13490.62,FAB,194,Business Income,Business Ownership,3976.38
+EMP000612,CUST00612,Student,,Student,Education,4936.73,,0,Family Support,Family Support,536.57
+EMP000613,CUST00613,Employed,Prime Group,Manager,Logistics,17110.45,Emirates NBD,169,Salary,Employment Income,3376.02
+EMP000614,CUST00614,Employed,Metro Trading,Software Developer,Government,34787.16,ADCB,132,Salary,Employment Income,11970.02
+EMP000615,CUST00615,Unemployed,,Unemployed,,2578.44,,0,Business Income,Employment Income,335.65
+EMP000616,CUST00616,Employed,Prime Group,Business Owner,Technology,11276.58,Emirates NBD,66,Salary,Employment Income,4721.46
+EMP000617,CUST00617,Employed,Al Noor LLC,Teacher,Healthcare,34567.37,ADCB,141,Salary,Employment Income,9721.5
+EMP000618,CUST00618,Employed,Al Noor Services,Nurse,Hospitality,29570.39,Mashreq,16,Salary,Employment Income,5488.29
+EMP000619,CUST00619,Employed,Al Noor LLC,Business Owner,Construction,40105.89,Mashreq,52,Salary,Employment Income,10594.6
+EMP000620,CUST00620,Employed,Emirates Group,Engineer,Logistics,30233.28,Emirates NBD,99,Salary,Employment Income,2843.16
+EMP000621,CUST00621,Employed,Emirates Holdings,Manager,Real Estate,31540.47,Mashreq,67,Salary,Employment Income,7650.48
+EMP000622,CUST00622,Self-Employed,Self-Employed,Business Owner,Healthcare,18331.38,ADIB,126,Business Income,Business Ownership,2035.95
+EMP000623,CUST00623,Employed,Al Noor LLC,Business Owner,Logistics,18126.24,ADIB,50,Salary,Employment Income,3902.28
+EMP000624,CUST00624,Employed,Emirates Trading,Software Developer,Construction,44625.96,ADCB,149,Salary,Employment Income,19214.55
+EMP000625,CUST00625,Employed,Emirates Services,Engineer,Government,36561.61,ADIB,3,Salary,Employment Income,14508.24
+EMP000626,CUST00626,Self-Employed,Self-Employed,Business Owner,Construction,60883.58,FAB,67,Business Income,Business Ownership,24861.29
+EMP000627,CUST00627,Employed,Metro Group,Nurse,Hospitality,34026.13,FAB,74,Salary,Employment Income,2578.15
+EMP000628,CUST00628,Employed,Metro Holdings,Teacher,Retail,10731.65,FAB,3,Salary,Employment Income,756.22
+EMP000629,CUST00629,Employed,Gulf Services,Engineer,Government,20495.82,ADCB,113,Salary,Employment Income,4917.71
+EMP000630,CUST00630,Employed,Metro Trading,Nurse,Logistics,16413.35,Dubai Islamic Bank,142,Salary,Employment Income,7065.77
+EMP000631,CUST00631,Employed,Metro Holdings,Manager,Construction,8110.73,Emirates NBD,52,Salary,Employment Income,884.91
+EMP000632,CUST00632,Self-Employed,Self-Employed,Business Owner,Government,30101.22,Mashreq,50,Business Income,Business Ownership,14529.72
+EMP000633,CUST00633,Employed,Prime Group,Teacher,Education,25986.12,Mashreq,101,Salary,Employment Income,1824.63
+EMP000634,CUST00634,Employed,Metro Services,Teacher,Banking,37784.23,Dubai Islamic Bank,46,Salary,Employment Income,14751.54
+EMP000635,CUST00635,Employed,Metro Group,Manager,Logistics,11260.83,ADIB,57,Salary,Employment Income,2332.94
+EMP000636,CUST00636,Employed,Gulf Holdings,Nurse,Technology,12296.65,Emirates NBD,29,Salary,Employment Income,2922.12
+EMP000637,CUST00637,Self-Employed,Self-Employed,Business Owner,Construction,67949.18,Dubai Islamic Bank,202,Business Income,Business Ownership,7231.61
+EMP000638,CUST00638,Student,,Student,Education,4504.99,,0,Family Support,Family Support,365.11
+EMP000639,CUST00639,Employed,Al Noor LLC,Nurse,Real Estate,25138.23,Emirates NBD,164,Salary,Employment Income,2164.95
+EMP000640,CUST00640,Self-Employed,Self-Employed,Business Owner,Healthcare,22091.16,ADIB,14,Business Income,Business Ownership,4483.01
+EMP000641,CUST00641,Employed,Global Trading,Manager,Technology,33246.51,ADCB,99,Salary,Employment Income,7401.11
+EMP000642,CUST00642,Unemployed,,Unemployed,,2913.28,,0,Investment Income,Employment Income,731.6
+EMP000643,CUST00643,Employed,Gulf Holdings,Driver,Logistics,15894.28,Dubai Islamic Bank,99,Salary,Employment Income,1762.76
+EMP000644,CUST00644,Student,,Student,Education,2759.98,,0,Family Support,Family Support,421.62
+EMP000645,CUST00645,Employed,Al Noor Holdings,Manager,Retail,4075.15,Emirates NBD,100,Salary,Employment Income,1395.52
+EMP000646,CUST00646,Self-Employed,Self-Employed,Business Owner,Banking,54089.8,ADCB,227,Business Income,Business Ownership,14888.74
+EMP000647,CUST00647,Employed,Gulf Trading,Technician,Education,21172.4,Dubai Islamic Bank,171,Salary,Employment Income,3899.96
+EMP000648,CUST00648,Employed,Gulf LLC,Engineer,Education,30002.31,FAB,21,Salary,Employment Income,13073.85
+EMP000649,CUST00649,Employed,Metro Holdings,Nurse,Hospitality,29685.95,Mashreq,59,Salary,Employment Income,11558.17
+EMP000650,CUST00650,Employed,Al Noor Trading,Engineer,Education,7122.27,ADCB,57,Salary,Employment Income,2561.7
+EMP000651,CUST00651,Employed,Global Group,Accountant,Logistics,18208.35,Emirates NBD,20,Salary,Employment Income,5588.06
+EMP000652,CUST00652,Employed,Emirates Holdings,Business Owner,Hospitality,23026.24,Emirates NBD,46,Salary,Employment Income,3397.59
+EMP000653,CUST00653,Employed,Global Trading,Manager,Technology,44609.25,Mashreq,27,Salary,Employment Income,6737.45
+EMP000654,CUST00654,Employed,Global Services,Sales Executive,Logistics,42133.76,Emirates NBD,68,Salary,Employment Income,9776.41
+EMP000655,CUST00655,Self-Employed,Self-Employed,Business Owner,Retail,29480.4,ADCB,150,Business Income,Business Ownership,15141.12
+EMP000656,CUST00656,Student,,Student,Education,4475.0,,0,Family Support,Family Support,261.97
+EMP000657,CUST00657,Self-Employed,Self-Employed,Business Owner,Banking,18199.71,ADCB,135,Business Income,Business Ownership,9667.56
+EMP000658,CUST00658,Student,,Student,Education,1361.12,,0,Family Support,Family Support,214.01
+EMP000659,CUST00659,Employed,Global Group,Engineer,Retail,24869.45,Mashreq,103,Salary,Employment Income,6690.31
+EMP000660,CUST00660,Employed,Prime Holdings,Manager,Construction,37429.21,FAB,14,Salary,Employment Income,14612.93
+EMP000661,CUST00661,Self-Employed,Self-Employed,Business Owner,Healthcare,37065.27,ADIB,40,Business Income,Business Ownership,8352.69
+EMP000662,CUST00662,Student,,Student,Education,1316.78,,0,Family Support,Family Support,233.7
+EMP000663,CUST00663,Employed,Global Services,Driver,Banking,6221.25,ADIB,46,Salary,Employment Income,1521.33
+EMP000664,CUST00664,Employed,Emirates Holdings,Teacher,Government,37377.44,FAB,78,Salary,Employment Income,2575.65
+EMP000665,CUST00665,Student,,Student,Education,5744.04,,0,Family Support,Family Support,1113.73
+EMP000666,CUST00666,Self-Employed,Self-Employed,Business Owner,Technology,37355.37,FAB,71,Business Income,Business Ownership,7273.8
+EMP000667,CUST00667,Employed,Global Holdings,Driver,Government,14906.7,Emirates NBD,51,Salary,Employment Income,2085.53
+EMP000668,CUST00668,Employed,Al Noor Trading,Nurse,Government,20846.36,Mashreq,170,Salary,Employment Income,3091.87
+EMP000669,CUST00669,Employed,Metro Group,Accountant,Hospitality,30602.83,Emirates NBD,72,Salary,Employment Income,13004.41
+EMP000670,CUST00670,Employed,Gulf Group,Software Developer,Banking,24318.68,FAB,33,Salary,Employment Income,6635.05
+EMP000671,CUST00671,Student,,Student,Education,3333.12,,0,Family Support,Family Support,113.59
+EMP000672,CUST00672,Employed,Al Noor Group,Nurse,Logistics,6131.42,Dubai Islamic Bank,179,Salary,Employment Income,874.35
+EMP000673,CUST00673,Employed,Gulf LLC,Nurse,Banking,6940.62,Emirates NBD,54,Salary,Employment Income,2318.24
+EMP000674,CUST00674,Employed,Metro Group,Business Owner,Technology,25642.81,FAB,175,Salary,Employment Income,10856.46
+EMP000675,CUST00675,Self-Employed,Self-Employed,Business Owner,Education,37168.36,Dubai Islamic Bank,102,Business Income,Business Ownership,10488.45
+EMP000676,CUST00676,Student,,Student,Education,3212.42,,0,Family Support,Family Support,140.78
+EMP000677,CUST00677,Employed,Al Noor LLC,Nurse,Retail,6380.09,ADCB,4,Salary,Employment Income,1743.88
+EMP000678,CUST00678,Employed,Metro Holdings,Teacher,Government,11911.38,ADIB,42,Salary,Employment Income,2289.8
+EMP000679,CUST00679,Student,,Student,Education,4952.59,,0,Family Support,Family Support,671.95
+EMP000680,CUST00680,Employed,Al Noor Services,Software Developer,Healthcare,15563.61,FAB,32,Salary,Employment Income,3281.77
+EMP000681,CUST00681,Employed,Global Group,Technician,Logistics,28915.72,FAB,36,Salary,Employment Income,9425.84
+EMP000682,CUST00682,Employed,Metro Trading,Teacher,Retail,26986.19,Mashreq,53,Salary,Employment Income,5671.23
+EMP000683,CUST00683,Employed,Emirates Group,Business Owner,Retail,22857.26,ADCB,89,Salary,Employment Income,3374.69
+EMP000684,CUST00684,Employed,Metro Holdings,Teacher,Real Estate,14972.91,ADCB,5,Salary,Employment Income,2001.54
+EMP000685,CUST00685,Employed,Emirates Holdings,Driver,Construction,44101.19,ADIB,104,Salary,Employment Income,2941.84
+EMP000686,CUST00686,Employed,Emirates Services,Software Developer,Government,44249.07,Mashreq,63,Salary,Employment Income,7350.3
+EMP000687,CUST00687,Student,,Student,Education,1464.96,,0,Family Support,Family Support,74.41
+EMP000688,CUST00688,Self-Employed,Self-Employed,Business Owner,Education,37796.62,Mashreq,90,Business Income,Business Ownership,8411.66
+EMP000689,CUST00689,Employed,Global LLC,Technician,Banking,31550.45,FAB,153,Salary,Employment Income,13601.58
+EMP000690,CUST00690,Employed,Prime Holdings,Sales Executive,Real Estate,44300.15,FAB,96,Salary,Employment Income,16796.5
+EMP000691,CUST00691,Employed,Metro LLC,Technician,Healthcare,39267.69,Dubai Islamic Bank,101,Salary,Employment Income,3441.3
+EMP000692,CUST00692,Student,,Student,Education,4316.62,,0,Family Support,Family Support,667.62
+EMP000693,CUST00693,Employed,Emirates LLC,Business Owner,Real Estate,18068.05,Emirates NBD,16,Salary,Employment Income,4653.53
+EMP000694,CUST00694,Self-Employed,Self-Employed,Business Owner,Retail,25480.29,ADIB,178,Business Income,Business Ownership,8245.7
+EMP000695,CUST00695,Student,,Student,Education,3146.57,,0,Family Support,Family Support,402.21
+EMP000696,CUST00696,Student,,Student,Education,1158.49,,0,Family Support,Family Support,198.21
+EMP000697,CUST00697,Student,,Student,Education,5025.58,,0,Family Support,Family Support,902.44
+EMP000698,CUST00698,Employed,Prime LLC,Sales Executive,Technology,36512.66,Dubai Islamic Bank,153,Salary,Employment Income,3298.81
+EMP000699,CUST00699,Employed,Emirates LLC,Teacher,Education,22966.35,Emirates NBD,33,Salary,Employment Income,1442.74
+EMP000700,CUST00700,Employed,Metro LLC,Technician,Retail,17604.36,ADCB,101,Salary,Employment Income,3187.74
+EMP000701,CUST00701,Employed,Gulf Holdings,Engineer,Real Estate,10552.33,Emirates NBD,45,Salary,Employment Income,4113.28
+EMP000702,CUST00702,Self-Employed,Self-Employed,Business Owner,Government,46298.94,Dubai Islamic Bank,99,Business Income,Business Ownership,23626.73
+EMP000703,CUST00703,Employed,Global Holdings,Sales Executive,Real Estate,27675.53,Mashreq,9,Salary,Employment Income,8448.52
+EMP000704,CUST00704,Employed,Al Noor Holdings,Driver,Hospitality,33480.75,ADCB,122,Salary,Employment Income,11226.26
+EMP000705,CUST00705,Employed,Emirates LLC,Manager,Healthcare,36586.84,Emirates NBD,138,Salary,Employment Income,6525.12
+EMP000706,CUST00706,Employed,Gulf LLC,Sales Executive,Technology,43808.66,Dubai Islamic Bank,68,Salary,Employment Income,6663.63
+EMP000707,CUST00707,Employed,Al Noor Group,Accountant,Banking,38743.19,Emirates NBD,72,Salary,Employment Income,2498.3
+EMP000708,CUST00708,Employed,Emirates Services,Sales Executive,Banking,20822.2,ADIB,111,Salary,Employment Income,3642.62
+EMP000709,CUST00709,Self-Employed,Self-Employed,Business Owner,Real Estate,35005.58,Mashreq,46,Business Income,Business Ownership,12704.94
+EMP000710,CUST00710,Employed,Global Holdings,Business Owner,Hospitality,10614.47,ADIB,81,Salary,Employment Income,1184.02
+EMP000711,CUST00711,Student,,Student,Education,4713.2,,0,Family Support,Family Support,243.79
+EMP000712,CUST00712,Employed,Global Holdings,Engineer,Hospitality,23902.36,Emirates NBD,167,Salary,Employment Income,9988.32
+EMP000713,CUST00713,Employed,Prime LLC,Driver,Education,11991.15,Mashreq,96,Salary,Employment Income,3039.66
+EMP000714,CUST00714,Self-Employed,Self-Employed,Business Owner,Healthcare,59687.86,ADIB,129,Business Income,Business Ownership,30405.22
+EMP000715,CUST00715,Student,,Student,Education,5197.54,,0,Family Support,Family Support,335.36
+EMP000716,CUST00716,Unemployed,,Unemployed,,2234.57,,0,Business Income,Employment Income,434.11
+EMP000717,CUST00717,Employed,Global LLC,Technician,Retail,36639.89,Dubai Islamic Bank,85,Salary,Employment Income,4690.49
+EMP000718,CUST00718,Employed,Gulf LLC,Nurse,Healthcare,35481.88,ADIB,8,Salary,Employment Income,5424.26
+EMP000719,CUST00719,Unemployed,,Unemployed,,473.42,,0,Family Support,Savings,6.64
+EMP000720,CUST00720,Employed,Prime LLC,Technician,Logistics,40915.58,FAB,40,Salary,Employment Income,9906.43
+EMP000721,CUST00721,Unemployed,,Unemployed,,1313.46,,0,Business Income,Investments,226.83
+EMP000722,CUST00722,Employed,Gulf LLC,Manager,Healthcare,32229.79,ADIB,86,Salary,Employment Income,1731.01
+EMP000723,CUST00723,Student,,Student,Education,4805.38,,0,Family Support,Family Support,171.5
+EMP000724,CUST00724,Employed,Global Holdings,Accountant,Education,10448.65,ADCB,134,Salary,Employment Income,2811.77
+EMP000725,CUST00725,Employed,Prime LLC,Manager,Construction,41246.33,ADCB,115,Salary,Employment Income,2633.92
+EMP000726,CUST00726,Self-Employed,Self-Employed,Business Owner,Retail,26656.68,Mashreq,169,Business Income,Business Ownership,14469.47
+EMP000727,CUST00727,Employed,Metro Group,Manager,Education,6736.56,Mashreq,35,Salary,Employment Income,1240.78
+EMP000728,CUST00728,Employed,Prime Holdings,Engineer,Banking,15593.15,ADIB,55,Salary,Employment Income,3498.09
+EMP000729,CUST00729,Employed,Gulf Group,Driver,Banking,32441.89,ADIB,50,Salary,Employment Income,6720.29
+EMP000730,CUST00730,Employed,Global Holdings,Technician,Healthcare,14552.02,Emirates NBD,37,Salary,Employment Income,1628.25
+EMP000731,CUST00731,Self-Employed,Self-Employed,Business Owner,Technology,10491.64,Mashreq,118,Business Income,Business Ownership,3104.92
+EMP000732,CUST00732,Unemployed,,Unemployed,,859.46,,0,Salary,Employment Income,60.41
+EMP000733,CUST00733,Employed,Global Trading,Manager,Real Estate,15386.36,FAB,59,Salary,Employment Income,2830.72
+EMP000734,CUST00734,Employed,Metro LLC,Sales Executive,Logistics,42746.95,Dubai Islamic Bank,173,Salary,Employment Income,2342.99
+EMP000735,CUST00735,Employed,Metro Trading,Driver,Logistics,6779.06,ADCB,50,Salary,Employment Income,652.81
+EMP000736,CUST00736,Employed,Metro Holdings,Manager,Education,37064.67,FAB,88,Salary,Employment Income,14190.71
+EMP000737,CUST00737,Employed,Gulf Trading,Technician,Banking,8518.75,ADIB,92,Salary,Employment Income,2693.95
+EMP000738,CUST00738,Unemployed,,Unemployed,,25.2,,0,Business Income,Employment Income,0.27
+EMP000739,CUST00739,Employed,Al Noor Group,Sales Executive,Construction,24201.19,ADCB,90,Salary,Employment Income,10197.28
+EMP000740,CUST00740,Employed,Global Holdings,Software Developer,Technology,38332.21,ADIB,47,Salary,Employment Income,16218.78
+EMP000741,CUST00741,Employed,Emirates LLC,Teacher,Hospitality,20282.99,Mashreq,9,Salary,Employment Income,1298.05
+EMP000742,CUST00742,Employed,Al Noor Trading,Driver,Retail,17723.77,Mashreq,153,Salary,Employment Income,7072.18
+EMP000743,CUST00743,Employed,Gulf Holdings,Teacher,Logistics,43036.99,Dubai Islamic Bank,67,Salary,Employment Income,12273.49
+EMP000744,CUST00744,Employed,Emirates LLC,Teacher,Education,38239.55,FAB,88,Salary,Employment Income,10018.16
+EMP000745,CUST00745,Employed,Prime LLC,Engineer,Retail,6711.63,ADCB,71,Salary,Employment Income,1454.75
+EMP000746,CUST00746,Employed,Prime Trading,Driver,Construction,15366.5,ADIB,113,Salary,Employment Income,5501.34
+EMP000747,CUST00747,Employed,Emirates Group,Technician,Banking,37308.72,ADIB,176,Salary,Employment Income,9477.28
+EMP000748,CUST00748,Unemployed,,Unemployed,,7.23,,0,Investment Income,Savings,0.36
+EMP000749,CUST00749,Self-Employed,Self-Employed,Business Owner,Government,11555.01,Dubai Islamic Bank,75,Business Income,Business Ownership,1382.0
+EMP000750,CUST00750,Self-Employed,Self-Employed,Business Owner,Education,44868.72,ADCB,120,Business Income,Business Ownership,19994.59
+EMP000751,CUST00751,Student,,Student,Education,3769.02,,0,Family Support,Family Support,576.14
+EMP000752,CUST00752,Student,,Student,Education,4637.04,,0,Family Support,Family Support,680.04
+EMP000753,CUST00753,Employed,Prime Holdings,Sales Executive,Logistics,9566.15,Dubai Islamic Bank,66,Salary,Employment Income,510.01
+EMP000754,CUST00754,Employed,Al Noor Holdings,Business Owner,Real Estate,38918.77,Dubai Islamic Bank,6,Salary,Employment Income,7078.55
+EMP000755,CUST00755,Employed,Gulf Holdings,Sales Executive,Education,44559.33,Emirates NBD,52,Salary,Employment Income,6089.13
+EMP000756,CUST00756,Employed,Gulf Holdings,Sales Executive,Banking,5031.65,FAB,99,Salary,Employment Income,2225.86
+EMP000757,CUST00757,Employed,Global Holdings,Manager,Real Estate,17992.25,Dubai Islamic Bank,12,Salary,Employment Income,5467.94
+EMP000758,CUST00758,Unemployed,,Unemployed,,2333.68,,0,Salary,Savings,287.7
+EMP000759,CUST00759,Employed,Gulf Services,Sales Executive,Construction,16441.89,FAB,113,Salary,Employment Income,7154.14
+EMP000760,CUST00760,Self-Employed,Self-Employed,Business Owner,Construction,55874.12,Dubai Islamic Bank,35,Business Income,Business Ownership,9334.59
+EMP000761,CUST00761,Employed,Metro Holdings,Teacher,Technology,33816.45,ADCB,16,Salary,Employment Income,7872.97
+EMP000762,CUST00762,Self-Employed,Self-Employed,Business Owner,Government,46179.32,FAB,155,Business Income,Business Ownership,23350.76
+EMP000763,CUST00763,Self-Employed,Self-Employed,Business Owner,Construction,44725.55,Mashreq,7,Business Income,Business Ownership,21821.18
+EMP000764,CUST00764,Employed,Gulf Group,Manager,Hospitality,14032.35,Mashreq,178,Salary,Employment Income,2688.33
+EMP000765,CUST00765,Employed,Prime LLC,Driver,Logistics,39739.82,Dubai Islamic Bank,164,Salary,Employment Income,3521.76
+EMP000766,CUST00766,Employed,Metro Group,Accountant,Education,44178.91,ADCB,131,Salary,Employment Income,12278.37
+EMP000767,CUST00767,Self-Employed,Self-Employed,Business Owner,Retail,25314.21,Mashreq,75,Business Income,Business Ownership,6537.88
+EMP000768,CUST00768,Employed,Global Holdings,Driver,Healthcare,9910.89,ADCB,35,Salary,Employment Income,3853.43
+EMP000769,CUST00769,Employed,Al Noor Holdings,Technician,Technology,44843.19,FAB,27,Salary,Employment Income,18688.02
+EMP000770,CUST00770,Employed,Global Holdings,Driver,Hospitality,40596.62,Mashreq,67,Salary,Employment Income,7235.86
+EMP000771,CUST00771,Employed,Gulf Group,Business Owner,Healthcare,24663.4,Dubai Islamic Bank,65,Salary,Employment Income,4314.04
+EMP000772,CUST00772,Unemployed,,Unemployed,,1554.23,,0,Investment Income,Employment Income,295.38
+EMP000773,CUST00773,Student,,Student,Education,5202.0,,0,Family Support,Family Support,702.61
+EMP000774,CUST00774,Employed,Metro Holdings,Business Owner,Retail,25746.43,Dubai Islamic Bank,47,Salary,Employment Income,1443.63
+EMP000775,CUST00775,Employed,Metro Services,Engineer,Hospitality,19288.48,ADIB,156,Salary,Employment Income,4164.67
+EMP000776,CUST00776,Employed,Global Services,Engineer,Healthcare,22797.84,Mashreq,140,Salary,Employment Income,3291.61
+EMP000777,CUST00777,Self-Employed,Self-Employed,Business Owner,Healthcare,36610.69,FAB,37,Business Income,Business Ownership,12432.64
+EMP000778,CUST00778,Employed,Al Noor Group,Technician,Government,28900.8,ADIB,11,Salary,Employment Income,3306.24
+EMP000779,CUST00779,Unemployed,,Unemployed,,2784.94,,0,Business Income,Savings,73.46
+EMP000780,CUST00780,Employed,Gulf LLC,Engineer,Real Estate,7307.29,FAB,95,Salary,Employment Income,2901.13
+EMP000781,CUST00781,Employed,Global Holdings,Nurse,Education,34704.91,Mashreq,60,Salary,Employment Income,12520.77
+EMP000782,CUST00782,Employed,Global Group,Teacher,Real Estate,15380.49,Emirates NBD,10,Salary,Employment Income,5340.01
+EMP000783,CUST00783,Employed,Global Trading,Business Owner,Technology,13771.67,ADIB,112,Salary,Employment Income,6011.79
+EMP000784,CUST00784,Student,,Student,Education,4185.74,,0,Family Support,Family Support,743.75
+EMP000785,CUST00785,Employed,Global Group,Technician,Logistics,23940.45,ADIB,165,Salary,Employment Income,2496.93
+EMP000786,CUST00786,Employed,Gulf Trading,Nurse,Banking,41995.42,Dubai Islamic Bank,61,Salary,Employment Income,10655.03
+EMP000787,CUST00787,Employed,Metro Services,Manager,Banking,23199.28,Emirates NBD,167,Salary,Employment Income,6229.07
+EMP000788,CUST00788,Employed,Metro Group,Teacher,Healthcare,23502.8,ADIB,75,Salary,Employment Income,2514.49
+EMP000789,CUST00789,Employed,Metro Services,Engineer,Education,28250.39,ADCB,95,Salary,Employment Income,11413.98
+EMP000790,CUST00790,Employed,Emirates LLC,Technician,Education,22491.49,FAB,117,Salary,Employment Income,7192.35
+EMP000791,CUST00791,Employed,Global Holdings,Business Owner,Hospitality,44800.07,ADCB,26,Salary,Employment Income,4028.56
+EMP000792,CUST00792,Student,,Student,Education,3631.66,,0,Family Support,Family Support,313.76
+EMP000793,CUST00793,Employed,Emirates Holdings,Teacher,Real Estate,33149.99,Mashreq,139,Salary,Employment Income,8144.11
+EMP000794,CUST00794,Self-Employed,Self-Employed,Business Owner,Construction,62010.43,Emirates NBD,200,Business Income,Business Ownership,27075.96
+EMP000795,CUST00795,Employed,Global Holdings,Business Owner,Healthcare,22946.98,FAB,172,Salary,Employment Income,5763.99
+EMP000796,CUST00796,Employed,Prime Trading,Manager,Real Estate,22330.03,ADIB,65,Salary,Employment Income,7212.33
+EMP000797,CUST00797,Employed,Emirates Trading,Engineer,Hospitality,17953.65,FAB,107,Salary,Employment Income,1480.92
+EMP000798,CUST00798,Employed,Global LLC,Software Developer,Education,31271.75,Mashreq,116,Salary,Employment Income,9629.76
+EMP000799,CUST00799,Employed,Metro Holdings,Business Owner,Technology,36517.35,ADCB,109,Salary,Employment Income,12726.91
+EMP000800,CUST00800,Employed,Metro Group,Software Developer,Education,13217.83,ADIB,86,Salary,Employment Income,5832.46
+EMP000801,CUST00801,Employed,Gulf Trading,Business Owner,Hospitality,32874.79,ADIB,115,Salary,Employment Income,3917.58
+EMP000802,CUST00802,Unemployed,,Unemployed,,996.57,,0,Salary,Savings,185.0
+EMP000803,CUST00803,Employed,Metro LLC,Engineer,Technology,24267.5,ADIB,53,Salary,Employment Income,6117.17
+EMP000804,CUST00804,Self-Employed,Self-Employed,Business Owner,Hospitality,30881.59,FAB,202,Business Income,Business Ownership,16428.13
+EMP000805,CUST00805,Student,,Student,Education,5389.29,,0,Family Support,Family Support,731.83
+EMP000806,CUST00806,Employed,Metro Services,Engineer,Banking,33028.0,Emirates NBD,143,Salary,Employment Income,11138.35
+EMP000807,CUST00807,Employed,Gulf Group,Engineer,Government,36348.77,Mashreq,173,Salary,Employment Income,7869.03
+EMP000808,CUST00808,Employed,Gulf Group,Technician,Hospitality,11470.4,Dubai Islamic Bank,90,Salary,Employment Income,1067.57
+EMP000809,CUST00809,Student,,Student,Education,4836.1,,0,Family Support,Family Support,736.2
+EMP000810,CUST00810,Employed,Gulf Trading,Business Owner,Banking,20299.08,Emirates NBD,70,Salary,Employment Income,6139.76
+EMP000811,CUST00811,Employed,Emirates Group,Engineer,Construction,32479.98,Mashreq,175,Salary,Employment Income,13314.29
+EMP000812,CUST00812,Employed,Global Holdings,Manager,Technology,44014.15,FAB,171,Salary,Employment Income,4463.19
+EMP000813,CUST00813,Employed,Gulf Group,Sales Executive,Logistics,25167.25,Emirates NBD,153,Salary,Employment Income,5936.94
+EMP000814,CUST00814,Self-Employed,Self-Employed,Business Owner,Healthcare,11028.59,FAB,58,Business Income,Business Ownership,4869.02
+EMP000815,CUST00815,Employed,Prime LLC,Driver,Logistics,13512.56,ADIB,126,Salary,Employment Income,3365.74
+EMP000816,CUST00816,Employed,Emirates LLC,Driver,Government,41031.22,Mashreq,85,Salary,Employment Income,2840.81
+EMP000817,CUST00817,Employed,Global Holdings,Technician,Real Estate,4372.08,Emirates NBD,68,Salary,Employment Income,220.37
+EMP000818,CUST00818,Student,,Student,Education,1375.06,,0,Family Support,Family Support,246.26
+EMP000819,CUST00819,Employed,Gulf LLC,Sales Executive,Real Estate,39565.51,Dubai Islamic Bank,12,Salary,Employment Income,9596.52
+EMP000820,CUST00820,Employed,Global LLC,Software Developer,Logistics,20167.45,ADIB,72,Salary,Employment Income,4836.7
+EMP000821,CUST00821,Self-Employed,Self-Employed,Business Owner,Retail,63569.18,Mashreq,36,Business Income,Business Ownership,27831.5
+EMP000822,CUST00822,Employed,Al Noor LLC,Manager,Government,35489.91,ADIB,65,Salary,Employment Income,12884.75
+EMP000823,CUST00823,Self-Employed,Self-Employed,Business Owner,Hospitality,20735.5,ADCB,105,Business Income,Business Ownership,10753.55
+EMP000824,CUST00824,Self-Employed,Self-Employed,Business Owner,Construction,43087.76,FAB,89,Business Income,Business Ownership,14624.35
+EMP000825,CUST00825,Self-Employed,Self-Employed,Business Owner,Logistics,63035.58,ADCB,87,Business Income,Business Ownership,26990.75
+EMP000826,CUST00826,Employed,Gulf Trading,Technician,Construction,26969.68,Dubai Islamic Bank,179,Salary,Employment Income,3764.94
+EMP000827,CUST00827,Employed,Prime Group,Manager,Retail,37279.38,ADCB,177,Salary,Employment Income,7513.7
+EMP000828,CUST00828,Employed,Metro Services,Manager,Healthcare,32604.44,Emirates NBD,149,Salary,Employment Income,6779.9
+EMP000829,CUST00829,Student,,Student,Education,5582.64,,0,Family Support,Family Support,372.64
+EMP000830,CUST00830,Employed,Metro Trading,Software Developer,Hospitality,14482.33,Emirates NBD,164,Salary,Employment Income,4229.74
+EMP000831,CUST00831,Employed,Prime Services,Accountant,Banking,40435.63,ADIB,103,Salary,Employment Income,5270.4
+EMP000832,CUST00832,Employed,Gulf Group,Sales Executive,Technology,41948.81,FAB,17,Salary,Employment Income,9569.92
+EMP000833,CUST00833,Employed,Global Trading,Nurse,Government,34379.64,Emirates NBD,26,Salary,Employment Income,4530.98
+EMP000834,CUST00834,Employed,Emirates LLC,Teacher,Real Estate,35371.06,Mashreq,96,Salary,Employment Income,14940.87
+EMP000835,CUST00835,Employed,Emirates Holdings,Driver,Real Estate,29772.95,ADIB,142,Salary,Employment Income,6163.8
+EMP000836,CUST00836,Employed,Al Noor Group,Nurse,Government,32575.9,Dubai Islamic Bank,152,Salary,Employment Income,10935.43
+EMP000837,CUST00837,Employed,Emirates Holdings,Software Developer,Technology,7656.04,Dubai Islamic Bank,156,Salary,Employment Income,3232.22
+EMP000838,CUST00838,Employed,Emirates LLC,Accountant,Banking,32855.93,ADIB,35,Salary,Employment Income,9184.95
+EMP000839,CUST00839,Employed,Gulf Services,Engineer,Technology,32511.98,Dubai Islamic Bank,149,Salary,Employment Income,4162.0
+EMP000840,CUST00840,Self-Employed,Self-Employed,Business Owner,Construction,33503.63,Emirates NBD,69,Business Income,Business Ownership,9902.05
+EMP000841,CUST00841,Employed,Gulf Group,Technician,Logistics,25965.52,Emirates NBD,180,Salary,Employment Income,2704.65
+EMP000842,CUST00842,Employed,Al Noor Services,Driver,Retail,6763.34,ADIB,154,Salary,Employment Income,1293.67
+EMP000843,CUST00843,Employed,Prime Group,Driver,Government,7483.91,Dubai Islamic Bank,43,Salary,Employment Income,838.61
+EMP000844,CUST00844,Employed,Emirates Holdings,Driver,Government,18822.78,Mashreq,174,Salary,Employment Income,1135.63
+EMP000845,CUST00845,Unemployed,,Unemployed,,1311.54,,0,Salary,Business Ownership,302.09
+EMP000846,CUST00846,Employed,Emirates Holdings,Teacher,Healthcare,39660.53,FAB,39,Salary,Employment Income,10599.96
+EMP000847,CUST00847,Employed,Gulf Group,Teacher,Hospitality,29111.12,Dubai Islamic Bank,169,Salary,Employment Income,6229.09
+EMP000848,CUST00848,Employed,Metro Group,Technician,Education,10422.6,Mashreq,73,Salary,Employment Income,3338.93
+EMP000849,CUST00849,Employed,Emirates Holdings,Teacher,Retail,22648.99,Emirates NBD,34,Salary,Employment Income,10180.36
+EMP000850,CUST00850,Student,,Student,Education,4629.87,,0,Family Support,Family Support,45.63
+EMP000851,CUST00851,Employed,Prime Group,Manager,Education,42319.83,FAB,9,Salary,Employment Income,14764.1
+EMP000852,CUST00852,Employed,Gulf Group,Business Owner,Banking,8555.69,Emirates NBD,3,Salary,Employment Income,2351.14
+EMP000853,CUST00853,Employed,Prime LLC,Software Developer,Logistics,40475.73,FAB,67,Salary,Employment Income,10111.62
+EMP000854,CUST00854,Employed,Metro Holdings,Manager,Technology,12697.96,ADCB,101,Salary,Employment Income,4626.15
+EMP000855,CUST00855,Employed,Emirates Services,Teacher,Education,35274.55,Mashreq,116,Salary,Employment Income,5665.12
+EMP000856,CUST00856,Employed,Emirates LLC,Software Developer,Construction,43936.74,ADCB,180,Salary,Employment Income,9761.06
+EMP000857,CUST00857,Student,,Student,Education,3509.99,,0,Family Support,Family Support,432.52
+EMP000858,CUST00858,Employed,Emirates LLC,Nurse,Healthcare,4021.26,Dubai Islamic Bank,166,Salary,Employment Income,1003.28
+EMP000859,CUST00859,Employed,Al Noor Services,Sales Executive,Real Estate,16842.13,FAB,5,Salary,Employment Income,2994.47
+EMP000860,CUST00860,Employed,Emirates LLC,Accountant,Real Estate,14352.44,Mashreq,167,Salary,Employment Income,3953.65
+EMP000861,CUST00861,Employed,Al Noor Holdings,Technician,Logistics,7117.44,ADCB,107,Salary,Employment Income,1431.03
+EMP000862,CUST00862,Employed,Al Noor Holdings,Sales Executive,Real Estate,34794.06,Dubai Islamic Bank,26,Salary,Employment Income,7850.71
+EMP000863,CUST00863,Employed,Emirates LLC,Manager,Hospitality,44056.33,ADCB,160,Salary,Employment Income,9978.24
+EMP000864,CUST00864,Employed,Prime Group,Business Owner,Real Estate,18353.06,ADIB,177,Salary,Employment Income,3460.32
+EMP000865,CUST00865,Employed,Gulf Services,Sales Executive,Real Estate,18850.49,Dubai Islamic Bank,67,Salary,Employment Income,8175.0
+EMP000866,CUST00866,Employed,Metro LLC,Sales Executive,Technology,36498.48,ADCB,147,Salary,Employment Income,6498.67
+EMP000867,CUST00867,Employed,Prime LLC,Nurse,Healthcare,14289.95,Mashreq,166,Salary,Employment Income,1616.54
+EMP000868,CUST00868,Employed,Metro LLC,Technician,Hospitality,24811.15,Mashreq,21,Salary,Employment Income,9035.72
+EMP000869,CUST00869,Student,,Student,Education,1406.92,,0,Family Support,Family Support,154.28
+EMP000870,CUST00870,Employed,Al Noor Group,Technician,Real Estate,25285.14,ADIB,140,Salary,Employment Income,9844.45
+EMP000871,CUST00871,Employed,Metro Trading,Accountant,Banking,33949.33,FAB,153,Salary,Employment Income,1864.43
+EMP000872,CUST00872,Employed,Prime Services,Manager,Hospitality,34316.99,Dubai Islamic Bank,96,Salary,Employment Income,5619.51
+EMP000873,CUST00873,Employed,Metro Services,Nurse,Education,27258.28,ADCB,77,Salary,Employment Income,5819.64
+EMP000874,CUST00874,Student,,Student,Education,4696.92,,0,Family Support,Family Support,440.9
+EMP000875,CUST00875,Unemployed,,Unemployed,,565.33,,0,Business Income,Business Ownership,159.04
+EMP000876,CUST00876,Student,,Student,Education,4873.88,,0,Family Support,Family Support,743.76
+EMP000877,CUST00877,Employed,Emirates Group,Software Developer,Logistics,12289.31,FAB,152,Salary,Employment Income,3910.69
+EMP000878,CUST00878,Employed,Emirates Holdings,Engineer,Retail,20234.01,Dubai Islamic Bank,106,Salary,Employment Income,8427.28
+EMP000879,CUST00879,Employed,Global Group,Technician,Government,26965.75,ADIB,144,Salary,Employment Income,2926.32
+EMP000880,CUST00880,Employed,Emirates LLC,Manager,Healthcare,23519.8,Emirates NBD,153,Salary,Employment Income,9943.86
+EMP000881,CUST00881,Employed,Metro Services,Manager,Technology,27822.82,Mashreq,9,Salary,Employment Income,7726.05
+EMP000882,CUST00882,Employed,Metro Group,Driver,Banking,44826.5,Emirates NBD,178,Salary,Employment Income,13763.28
+EMP000883,CUST00883,Employed,Gulf LLC,Engineer,Real Estate,18915.79,Mashreq,43,Salary,Employment Income,8097.13
+EMP000884,CUST00884,Student,,Student,Education,4646.67,,0,Family Support,Family Support,902.18
+EMP000885,CUST00885,Self-Employed,Self-Employed,Business Owner,Banking,50234.93,Mashreq,162,Business Income,Business Ownership,10252.71
+EMP000886,CUST00886,Employed,Prime Group,Engineer,Logistics,42932.46,Dubai Islamic Bank,43,Salary,Employment Income,8082.15
+EMP000887,CUST00887,Employed,Metro Group,Sales Executive,Hospitality,4643.69,Mashreq,130,Salary,Employment Income,457.06
+EMP000888,CUST00888,Employed,Metro Holdings,Technician,Construction,17099.0,FAB,166,Salary,Employment Income,3014.43
+EMP000889,CUST00889,Employed,Metro LLC,Accountant,Government,40050.1,ADIB,131,Salary,Employment Income,6875.13
+EMP000890,CUST00890,Employed,Emirates Holdings,Accountant,Hospitality,33185.44,ADCB,103,Salary,Employment Income,6155.66
+EMP000891,CUST00891,Employed,Metro Services,Software Developer,Hospitality,9819.34,Emirates NBD,119,Salary,Employment Income,3400.48
+EMP000892,CUST00892,Unemployed,,Unemployed,,1047.6,,0,Business Income,Savings,128.46
+EMP000893,CUST00893,Employed,Emirates Holdings,Sales Executive,Hospitality,11448.58,Mashreq,143,Salary,Employment Income,1682.17
+EMP000894,CUST00894,Employed,Emirates LLC,Business Owner,Hospitality,5151.84,ADCB,118,Salary,Employment Income,1430.49
+EMP000895,CUST00895,Self-Employed,Self-Employed,Business Owner,Retail,55567.15,FAB,191,Business Income,Business Ownership,19897.32
+EMP000896,CUST00896,Employed,Gulf LLC,Teacher,Banking,13130.49,Mashreq,179,Salary,Employment Income,1666.08
+EMP000897,CUST00897,Employed,Al Noor Holdings,Teacher,Banking,43253.08,Mashreq,146,Salary,Employment Income,6674.89
+EMP000898,CUST00898,Student,,Student,Education,2020.94,,0,Family Support,Family Support,347.74
+EMP000899,CUST00899,Self-Employed,Self-Employed,Business Owner,Retail,55066.42,Mashreq,119,Business Income,Business Ownership,9518.09
+EMP000900,CUST00900,Employed,Global LLC,Accountant,Technology,21448.24,Mashreq,126,Salary,Employment Income,4258.71
+EMP000901,CUST00901,Student,,Student,Education,3820.61,,0,Family Support,Family Support,343.02
+EMP000902,CUST00902,Employed,Al Noor Group,Sales Executive,Banking,41474.56,FAB,166,Salary,Employment Income,13173.8
+EMP000903,CUST00903,Employed,Emirates Group,Accountant,Education,40908.33,Emirates NBD,48,Salary,Employment Income,7416.02
+EMP000904,CUST00904,Self-Employed,Self-Employed,Business Owner,Real Estate,54171.93,ADIB,134,Business Income,Business Ownership,18778.98
+EMP000905,CUST00905,Employed,Al Noor Group,Business Owner,Logistics,26163.76,ADCB,57,Salary,Employment Income,4893.8
+EMP000906,CUST00906,Employed,Prime Services,Accountant,Government,34998.95,Emirates NBD,42,Salary,Employment Income,5783.65
+EMP000907,CUST00907,Employed,Gulf Group,Accountant,Logistics,36511.81,ADIB,80,Salary,Employment Income,10294.19
+EMP000908,CUST00908,Employed,Metro Trading,Manager,Retail,19537.98,Emirates NBD,90,Salary,Employment Income,5941.2
+EMP000909,CUST00909,Employed,Gulf Services,Nurse,Banking,43737.48,ADIB,73,Salary,Employment Income,9892.55
+EMP000910,CUST00910,Employed,Gulf Group,Driver,Government,5846.59,FAB,11,Salary,Employment Income,2511.61
+EMP000911,CUST00911,Employed,Global LLC,Accountant,Technology,9648.94,Dubai Islamic Bank,162,Salary,Employment Income,3113.79
+EMP000912,CUST00912,Student,,Student,Education,2922.13,,0,Family Support,Family Support,354.74
+EMP000913,CUST00913,Employed,Prime Group,Business Owner,Banking,13921.84,ADIB,60,Salary,Employment Income,5087.1
+EMP000914,CUST00914,Employed,Prime Group,Technician,Construction,27059.32,ADCB,80,Salary,Employment Income,5280.03
+EMP000915,CUST00915,Self-Employed,Self-Employed,Business Owner,Retail,64727.18,Mashreq,15,Business Income,Business Ownership,21734.73
+EMP000916,CUST00916,Employed,Al Noor Services,Nurse,Education,18328.61,ADIB,165,Salary,Employment Income,7309.21
+EMP000917,CUST00917,Employed,Prime LLC,Teacher,Real Estate,38021.87,Emirates NBD,13,Salary,Employment Income,12997.87
+EMP000918,CUST00918,Employed,Global Holdings,Accountant,Education,12680.47,ADIB,143,Salary,Employment Income,5035.57
+EMP000919,CUST00919,Employed,Prime Services,Driver,Retail,34202.36,FAB,5,Salary,Employment Income,11114.74
+EMP000920,CUST00920,Employed,Gulf Holdings,Software Developer,Government,34288.36,Mashreq,56,Salary,Employment Income,2722.72
+EMP000921,CUST00921,Self-Employed,Self-Employed,Business Owner,Government,67001.72,Emirates NBD,233,Business Income,Business Ownership,18700.18
+EMP000922,CUST00922,Employed,Metro Trading,Teacher,Banking,25865.47,ADCB,163,Salary,Employment Income,6937.88
+EMP000923,CUST00923,Employed,Emirates Holdings,Sales Executive,Hospitality,8451.86,Emirates NBD,28,Salary,Employment Income,1710.73
+EMP000924,CUST00924,Employed,Prime Services,Driver,Logistics,42026.69,ADCB,31,Salary,Employment Income,4703.42
+EMP000925,CUST00925,Employed,Emirates LLC,Manager,Real Estate,21289.85,Dubai Islamic Bank,118,Salary,Employment Income,4425.41
+EMP000926,CUST00926,Self-Employed,Self-Employed,Business Owner,Real Estate,17193.42,FAB,133,Business Income,Business Ownership,7845.38
+EMP000927,CUST00927,Employed,Prime Group,Driver,Banking,42614.54,Dubai Islamic Bank,18,Salary,Employment Income,12884.42
+EMP000928,CUST00928,Employed,Prime Trading,Technician,Healthcare,29292.71,ADIB,59,Salary,Employment Income,2513.92
+EMP000929,CUST00929,Employed,Prime Trading,Nurse,Construction,24337.47,Mashreq,24,Salary,Employment Income,3797.19
+EMP000930,CUST00930,Student,,Student,Education,2262.37,,0,Family Support,Family Support,39.62
+EMP000931,CUST00931,Employed,Al Noor Group,Sales Executive,Hospitality,5512.57,ADCB,113,Salary,Employment Income,851.66
+EMP000932,CUST00932,Unemployed,,Unemployed,,2046.56,,0,Business Income,Investments,453.44
+EMP000933,CUST00933,Employed,Al Noor Trading,Software Developer,Retail,44426.99,ADCB,121,Salary,Employment Income,12132.21
+EMP000934,CUST00934,Employed,Prime Services,Accountant,Real Estate,24745.24,ADCB,143,Salary,Employment Income,9234.67
+EMP000935,CUST00935,Employed,Al Noor Services,Nurse,Construction,28363.4,Mashreq,174,Salary,Employment Income,6148.0
+EMP000936,CUST00936,Employed,Global Trading,Nurse,Technology,23919.55,FAB,72,Salary,Employment Income,1228.53
+EMP000937,CUST00937,Employed,Emirates Group,Teacher,Education,32445.44,ADCB,86,Salary,Employment Income,6206.45
+EMP000938,CUST00938,Employed,Emirates LLC,Engineer,Retail,26836.45,ADCB,139,Salary,Employment Income,4088.06
+EMP000939,CUST00939,Employed,Al Noor Trading,Accountant,Real Estate,32205.17,ADIB,93,Salary,Employment Income,5129.26
+EMP000940,CUST00940,Employed,Al Noor Services,Technician,Hospitality,43677.42,Emirates NBD,97,Salary,Employment Income,9206.56
+EMP000941,CUST00941,Employed,Metro Group,Business Owner,Construction,30183.12,ADIB,6,Salary,Employment Income,6804.5
+EMP000942,CUST00942,Employed,Emirates Services,Nurse,Banking,10203.18,ADIB,172,Salary,Employment Income,1262.46
+EMP000943,CUST00943,Employed,Gulf Services,Engineer,Technology,24037.23,Mashreq,43,Salary,Employment Income,5541.08
+EMP000944,CUST00944,Employed,Emirates LLC,Technician,Technology,40014.48,Mashreq,77,Salary,Employment Income,8953.92
+EMP000945,CUST00945,Employed,Metro Trading,Software Developer,Education,41372.36,Mashreq,140,Salary,Employment Income,18113.34
+EMP000946,CUST00946,Employed,Al Noor Holdings,Engineer,Real Estate,22769.98,FAB,71,Salary,Employment Income,6667.93
+EMP000947,CUST00947,Employed,Prime LLC,Driver,Logistics,6989.87,ADCB,106,Salary,Employment Income,1492.67
+EMP000948,CUST00948,Employed,Gulf Group,Teacher,Technology,37414.32,ADIB,111,Salary,Employment Income,15303.42
+EMP000949,CUST00949,Employed,Emirates Trading,Teacher,Retail,12578.73,Mashreq,34,Salary,Employment Income,5167.05
+EMP000950,CUST00950,Employed,Gulf LLC,Technician,Real Estate,12462.12,Emirates NBD,90,Salary,Employment Income,1836.05
+EMP000951,CUST00951,Employed,Global Holdings,Teacher,Healthcare,12502.25,ADCB,29,Salary,Employment Income,3896.63
+EMP000952,CUST00952,Self-Employed,Self-Employed,Business Owner,Retail,48879.05,Dubai Islamic Bank,10,Business Income,Business Ownership,7206.24
+EMP000953,CUST00953,Employed,Gulf Services,Teacher,Technology,26162.59,ADCB,140,Salary,Employment Income,1918.46
+EMP000954,CUST00954,Employed,Metro Holdings,Software Developer,Hospitality,28476.65,ADCB,21,Salary,Employment Income,2680.78
+EMP000955,CUST00955,Employed,Emirates Holdings,Technician,Government,40297.13,Emirates NBD,95,Salary,Employment Income,9827.46
+EMP000956,CUST00956,Employed,Al Noor Holdings,Sales Executive,Banking,7550.05,ADIB,99,Salary,Employment Income,2717.72
+EMP000957,CUST00957,Employed,Emirates Services,Manager,Hospitality,21229.8,Emirates NBD,77,Salary,Employment Income,4434.29
+EMP000958,CUST00958,Unemployed,,Unemployed,,1231.19,,0,Business Income,Business Ownership,114.85
+EMP000959,CUST00959,Unemployed,,Unemployed,,1656.58,,0,Business Income,Business Ownership,463.73
+EMP000960,CUST00960,Unemployed,,Unemployed,,314.3,,0,Business Income,Investments,90.68
+EMP000961,CUST00961,Employed,Emirates Group,Accountant,Technology,36475.05,ADCB,19,Salary,Employment Income,2704.19
+EMP000962,CUST00962,Employed,Prime Holdings,Software Developer,Logistics,7172.85,ADIB,7,Salary,Employment Income,1491.05
+EMP000963,CUST00963,Employed,Gulf Trading,Software Developer,Real Estate,40255.27,Mashreq,167,Salary,Employment Income,7709.98
+EMP000964,CUST00964,Student,,Student,Education,3113.26,,0,Family Support,Family Support,246.36
+EMP000965,CUST00965,Student,,Student,Education,1248.09,,0,Family Support,Family Support,133.15
+EMP000966,CUST00966,Employed,Prime Holdings,Engineer,Retail,7810.66,FAB,13,Salary,Employment Income,1773.1
+EMP000967,CUST00967,Employed,Gulf Holdings,Technician,Retail,44411.18,FAB,53,Salary,Employment Income,12498.44
+EMP000968,CUST00968,Employed,Emirates Trading,Accountant,Hospitality,4410.48,ADIB,173,Salary,Employment Income,910.59
+EMP000969,CUST00969,Employed,Gulf Services,Nurse,Logistics,5622.08,FAB,134,Salary,Employment Income,2137.12
+EMP000970,CUST00970,Student,,Student,Education,3244.42,,0,Family Support,Family Support,339.65
+EMP000971,CUST00971,Employed,Emirates Trading,Teacher,Construction,25715.65,Mashreq,61,Salary,Employment Income,6767.84
+EMP000972,CUST00972,Student,,Student,Education,5696.43,,0,Family Support,Family Support,173.94
+EMP000973,CUST00973,Self-Employed,Self-Employed,Business Owner,Construction,20054.42,Dubai Islamic Bank,122,Business Income,Business Ownership,8057.45
+EMP000974,CUST00974,Employed,Al Noor Trading,Sales Executive,Education,35605.04,Dubai Islamic Bank,174,Salary,Employment Income,13935.69
+EMP000975,CUST00975,Employed,Al Noor LLC,Driver,Education,32041.34,ADCB,167,Salary,Employment Income,2695.54
+EMP000976,CUST00976,Employed,Al Noor Holdings,Nurse,Logistics,36283.88,Dubai Islamic Bank,16,Salary,Employment Income,2647.72
+EMP000977,CUST00977,Self-Employed,Self-Employed,Business Owner,Real Estate,59362.79,ADCB,194,Business Income,Business Ownership,32177.61
+EMP000978,CUST00978,Self-Employed,Self-Employed,Business Owner,Technology,20651.16,Dubai Islamic Bank,219,Business Income,Business Ownership,6927.6
+EMP000979,CUST00979,Employed,Global Group,Accountant,Education,18365.84,FAB,142,Salary,Employment Income,2710.86
+EMP000980,CUST00980,Employed,Global LLC,Technician,Banking,5586.39,Dubai Islamic Bank,151,Salary,Employment Income,400.46
+EMP000981,CUST00981,Employed,Emirates Trading,Sales Executive,Healthcare,22195.83,FAB,153,Salary,Employment Income,7383.34
+EMP000982,CUST00982,Employed,Emirates Trading,Driver,Technology,11910.79,Dubai Islamic Bank,110,Salary,Employment Income,1856.38
+EMP000983,CUST00983,Employed,Prime Trading,Sales Executive,Real Estate,7419.24,ADIB,54,Salary,Employment Income,3305.97
+EMP000984,CUST00984,Student,,Student,Education,2634.38,,0,Family Support,Family Support,3.76
+EMP000985,CUST00985,Student,,Student,Education,1831.91,,0,Family Support,Family Support,63.81
+EMP000986,CUST00986,Unemployed,,Unemployed,,163.68,,0,Business Income,Savings,48.6
+EMP000987,CUST00987,Self-Employed,Self-Employed,Business Owner,Technology,15218.53,Mashreq,220,Business Income,Business Ownership,7937.91
+EMP000988,CUST00988,Employed,Al Noor Trading,Business Owner,Construction,19544.75,ADCB,29,Salary,Employment Income,1038.23
+EMP000989,CUST00989,Employed,Gulf Holdings,Software Developer,Education,32335.01,FAB,122,Salary,Employment Income,13532.08
+EMP000990,CUST00990,Employed,Gulf Holdings,Software Developer,Hospitality,17712.41,Emirates NBD,144,Salary,Employment Income,1407.09
+EMP000991,CUST00991,Student,,Student,Education,1058.07,,0,Family Support,Family Support,178.07
+EMP000992,CUST00992,Self-Employed,Self-Employed,Business Owner,Logistics,27961.02,ADCB,169,Business Income,Business Ownership,7302.02
+EMP000993,CUST00993,Self-Employed,Self-Employed,Business Owner,Hospitality,69857.91,Dubai Islamic Bank,100,Business Income,Business Ownership,9721.62
+EMP000994,CUST00994,Self-Employed,Self-Employed,Business Owner,Construction,22033.76,FAB,34,Business Income,Business Ownership,4581.12
+EMP000995,CUST00995,Student,,Student,Education,1750.36,,0,Family Support,Family Support,65.02
+EMP000996,CUST00996,Student,,Student,Education,3636.28,,0,Family Support,Family Support,550.6
+EMP000997,CUST00997,Employed,Prime LLC,Driver,Technology,8010.4,Emirates NBD,46,Salary,Employment Income,1345.28
+EMP000998,CUST00998,Employed,Prime LLC,Technician,Education,11924.05,Emirates NBD,173,Salary,Employment Income,2031.93
+EMP000999,CUST00999,Employed,Prime Group,Teacher,Construction,23303.57,ADCB,129,Salary,Employment Income,9216.5
+EMP001000,CUST01000,Employed,Prime Group,Engineer,Technology,29343.62,Emirates NBD,83,Salary,Employment Income,7651.92

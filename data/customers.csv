@@ -1,0 +1,1001 @@
+customer_id,full_name,gender,date_of_birth,nationality,country_of_residence,mobile_number,email,marital_status,customer_segment,signup_date,onboarding_channel,customer_status,is_case_study_customer,case_study_type
+CUST00001,Mohamed Thomas,Male,1980-12-26,Philippines,United Arab Emirates,+971523756669,mohamed.thomas1@example.com,Divorced,Premium,2025-04-02,Mobile App,Active,True,Selected
+CUST00002,Mohamed Ali,Male,1979-10-23,United Arab Emirates,United Arab Emirates,+971590801586,mohamed.ali2@example.com,Single,Premium,2025-04-21,Web,Active,True,Selected
+CUST00003,Mariam Nair,Female,1996-06-07,India,United Arab Emirates,+971531429110,mariam.nair3@example.com,Divorced,SME,2025-07-23,Branch,Active,True,Selected
+CUST00004,Bilal Ali,Male,1974-02-28,Pakistan,United Arab Emirates,+971558181396,bilal.ali4@example.com,Married,Premium,2026-02-17,Branch,Active,True,Selected
+CUST00005,Sara Hussain,Female,1973-07-15,United Kingdom,United Arab Emirates,+971558537831,sara.hussain5@example.com,Divorced,Salary,2025-08-23,Mobile App,Active,True,Selected
+CUST00006,Rafi Ali,Male,1980-06-11,Egypt,United Arab Emirates,+971547308985,rafi.ali6@example.com,Married,Student,2024-07-25,Web,Active,True,Selected
+CUST00007,Rafi Ali,Male,1997-04-29,United Arab Emirates,United Arab Emirates,+971542857966,rafi.ali7@example.com,Single,SME,2024-12-16,Agent,Active,True,Selected
+CUST00008,Bilal Khan,Male,1980-04-10,Nepal,United Arab Emirates,+971563843426,bilal.khan8@example.com,Married,Retail,2024-03-06,Web,Inactive,True,Selected
+CUST00009,Mariam Nair,Female,1987-10-01,Philippines,United Arab Emirates,+971545551614,mariam.nair9@example.com,Single,Salary,2026-07-28,Branch,Active,True,Selected
+CUST00010,Anjali Fernandez,Female,1979-11-03,United Arab Emirates,United Arab Emirates,+971576238574,anjali.fernandez10@example.com,Single,Retail,2024-10-10,Mobile App,Active,True,Selected
+CUST00011,Hassan Ali,Male,1987-04-06,United Kingdom,United Arab Emirates,+971572820592,hassan.ali11@example.com,Divorced,Student,2026-02-20,Mobile App,Active,False,Not Selected
+CUST00012,Rafi Fernandez,Male,1975-01-02,Egypt,United Arab Emirates,+971531227574,rafi.fernandez12@example.com,Married,Retail,2025-08-24,Branch,Closed,False,Not Selected
+CUST00013,Ahmed Thomas,Male,1998-08-30,United Kingdom,United Arab Emirates,+971536697396,ahmed.thomas13@example.com,Single,Student,2026-11-05,Web,Active,False,Not Selected
+CUST00014,Bilal Nair,Male,1970-11-16,Nepal,United Arab Emirates,+971551273847,bilal.nair14@example.com,Single,Retail,2024-08-17,Web,Inactive,False,Not Selected
+CUST00015,Ahmed Nair,Male,1973-02-07,Philippines,United Arab Emirates,+971527232410,ahmed.nair15@example.com,Divorced,SME,2026-12-26,Web,Active,False,Not Selected
+CUST00016,Mariam Ahmed,Female,2003-11-18,Sri Lanka,United Arab Emirates,+971563551839,mariam.ahmed16@example.com,Divorced,Student,2025-02-15,Agent,Inactive,False,Not Selected
+CUST00017,Sara Rahman,Female,1980-01-30,Nepal,United Arab Emirates,+971512823170,sara.rahman17@example.com,Divorced,Premium,2024-05-11,Web,Active,False,Not Selected
+CUST00018,Ahmed Khan,Male,1980-04-08,India,United Arab Emirates,+971554349361,ahmed.khan18@example.com,Single,Premium,2024-05-18,Web,Active,False,Not Selected
+CUST00019,Mariam Ahmed,Female,1975-12-08,Bangladesh,United Arab Emirates,+971573481353,mariam.ahmed19@example.com,Married,Salary,2026-08-26,Mobile App,Active,False,Not Selected
+CUST00020,Priya Hussain,Female,1988-06-10,India,United Arab Emirates,+971597705310,priya.hussain20@example.com,Divorced,Retail,2026-08-14,Mobile App,Active,False,Not Selected
+CUST00021,Sara Rahman,Female,1978-08-06,United Arab Emirates,United Arab Emirates,+971570211891,sara.rahman21@example.com,Single,SME,2025-01-24,Web,Active,False,Not Selected
+CUST00022,Ahmed Nair,Male,1994-09-08,India,United Arab Emirates,+971597529405,ahmed.nair22@example.com,Divorced,Retail,2024-07-19,Mobile App,Suspended,False,Not Selected
+CUST00023,Ali Hussain,Male,1991-10-14,Bangladesh,United Arab Emirates,+971563826716,ali.hussain23@example.com,Single,Salary,2026-09-12,Agent,Active,False,Not Selected
+CUST00024,Noura Nair,Female,1982-10-18,United Arab Emirates,United Arab Emirates,+971598834863,noura.nair24@example.com,Divorced,SME,2026-05-16,Web,Active,False,Not Selected
+CUST00025,Mohamed Ahmed,Male,1972-09-25,India,United Arab Emirates,+971516729990,mohamed.ahmed25@example.com,Divorced,SME,2025-10-04,Web,Active,False,Not Selected
+CUST00026,Ali Ali,Male,1996-09-10,Bangladesh,United Arab Emirates,+971564193837,ali.ali26@example.com,Single,Premium,2024-05-19,Web,Active,False,Not Selected
+CUST00027,Ahmed Hussain,Male,1999-06-28,Nepal,United Arab Emirates,+971544999379,ahmed.hussain27@example.com,Single,Student,2026-12-06,Web,Active,False,Not Selected
+CUST00028,Rafi Nair,Male,1984-03-08,India,United Arab Emirates,+971571510041,rafi.nair28@example.com,Divorced,Premium,2024-05-28,Mobile App,Active,False,Not Selected
+CUST00029,Rafi Rafi,Male,1985-08-28,Bangladesh,United Arab Emirates,+971559597086,rafi.rafi29@example.com,Married,Salary,2024-05-20,Agent,Inactive,False,Not Selected
+CUST00030,Aisha Ahmed,Female,1983-06-07,Philippines,United Arab Emirates,+971545496015,aisha.ahmed30@example.com,Single,Retail,2024-07-31,Web,Active,False,Not Selected
+CUST00031,Bilal Rahman,Male,2000-11-02,United Arab Emirates,United Arab Emirates,+971575569635,bilal.rahman31@example.com,Married,Retail,2025-06-24,Mobile App,Active,False,Not Selected
+CUST00032,Aisha Khan,Female,1984-12-17,Sri Lanka,United Arab Emirates,+971531687165,aisha.khan32@example.com,Divorced,SME,2024-09-24,Agent,Active,False,Not Selected
+CUST00033,Ahmed Rafi,Male,1994-06-22,Nepal,United Arab Emirates,+971588183110,ahmed.rafi33@example.com,Divorced,Salary,2024-03-14,Agent,Active,False,Not Selected
+CUST00034,Priya Khan,Female,1986-01-19,Bangladesh,United Arab Emirates,+971599514287,priya.khan34@example.com,Single,Student,2025-03-06,Agent,Closed,False,Not Selected
+CUST00035,Omar Rafi,Male,2005-11-18,Egypt,United Arab Emirates,+971513326769,omar.rafi35@example.com,Single,Student,2024-12-28,Agent,Active,False,Not Selected
+CUST00036,Rafi Rafi,Male,2005-04-27,Egypt,United Arab Emirates,+971515197528,rafi.rafi36@example.com,Married,Salary,2024-08-09,Web,Active,False,Not Selected
+CUST00037,Priya Thomas,Female,2005-09-04,Bangladesh,United Arab Emirates,+971513176186,priya.thomas37@example.com,Divorced,Salary,2025-04-11,Agent,Active,False,Not Selected
+CUST00038,Rafi Fernandez,Male,1998-10-11,Egypt,United Arab Emirates,+971581969657,rafi.fernandez38@example.com,Married,Retail,2026-11-09,Mobile App,Inactive,False,Not Selected
+CUST00039,Fatima Thomas,Female,1971-09-19,United Kingdom,United Arab Emirates,+971568326160,fatima.thomas39@example.com,Married,Student,2024-08-10,Agent,Active,False,Not Selected
+CUST00040,Hassan Rahman,Male,1981-06-05,Egypt,United Arab Emirates,+971510226999,hassan.rahman40@example.com,Divorced,Premium,2024-03-31,Web,Active,False,Not Selected
+CUST00041,Bilal Fernandez,Male,1999-10-04,Sri Lanka,United Arab Emirates,+971578064830,bilal.fernandez41@example.com,Married,SME,2024-09-12,Branch,Active,False,Not Selected
+CUST00042,Fatima Rahman,Female,1988-11-10,Philippines,United Arab Emirates,+971592613013,fatima.rahman42@example.com,Divorced,Student,2026-02-15,Agent,Active,False,Not Selected
+CUST00043,Rafi Thomas,Male,1979-06-06,United Kingdom,United Arab Emirates,+971591424737,rafi.thomas43@example.com,Divorced,Student,2026-05-30,Agent,Active,False,Not Selected
+CUST00044,Khalid Rafi,Male,1999-07-22,Sri Lanka,United Arab Emirates,+971579182797,khalid.rafi44@example.com,Divorced,Premium,2024-06-22,Branch,Active,False,Not Selected
+CUST00045,Rafi Rahman,Male,1978-12-07,India,United Arab Emirates,+971516202700,rafi.rahman45@example.com,Single,SME,2024-10-28,Mobile App,Active,False,Not Selected
+CUST00046,Hassan Nair,Male,1987-12-05,Philippines,United Arab Emirates,+971598054615,hassan.nair46@example.com,Divorced,Retail,2025-05-14,Mobile App,Active,False,Not Selected
+CUST00047,Ali Ahmed,Male,1990-11-03,United Arab Emirates,United Arab Emirates,+971543446826,ali.ahmed47@example.com,Single,SME,2024-04-12,Web,Active,False,Not Selected
+CUST00048,Grace Ahmed,Female,1989-02-21,Philippines,United Arab Emirates,+971573709724,grace.ahmed48@example.com,Married,Student,2026-07-02,Web,Inactive,False,Not Selected
+CUST00049,Grace Rahman,Female,1982-04-27,Pakistan,United Arab Emirates,+971548349783,grace.rahman49@example.com,Single,Student,2026-06-19,Branch,Active,False,Not Selected
+CUST00050,Ali Rafi,Male,1980-05-16,Philippines,United Arab Emirates,+971538716269,ali.rafi50@example.com,Single,SME,2026-02-23,Agent,Active,False,Not Selected
+CUST00051,Anjali Khan,Female,1979-04-12,Egypt,United Arab Emirates,+971588393811,anjali.khan51@example.com,Divorced,Retail,2026-05-10,Agent,Active,False,Not Selected
+CUST00052,Noura Hussain,Female,1988-10-18,Jordan,United Arab Emirates,+971539450273,noura.hussain52@example.com,Married,SME,2025-03-27,Agent,Active,False,Not Selected
+CUST00053,Anjali Rafi,Female,1990-12-19,United Kingdom,United Arab Emirates,+971581688860,anjali.rafi53@example.com,Single,SME,2024-09-18,Mobile App,Active,False,Not Selected
+CUST00054,Fatima Nair,Female,1978-02-25,Sri Lanka,United Arab Emirates,+971560882459,fatima.nair54@example.com,Married,Salary,2024-04-12,Agent,Active,False,Not Selected
+CUST00055,Noura Hussain,Female,1981-04-26,Jordan,United Arab Emirates,+971512601580,noura.hussain55@example.com,Divorced,Premium,2024-06-16,Mobile App,Closed,False,Not Selected
+CUST00056,Mariam Ali,Female,2005-01-16,India,United Arab Emirates,+971543189803,mariam.ali56@example.com,Single,Retail,2024-03-23,Web,Active,False,Not Selected
+CUST00057,Sara Rahman,Female,1990-11-11,Nepal,United Arab Emirates,+971532520277,sara.rahman57@example.com,Divorced,Premium,2025-06-08,Mobile App,Active,False,Not Selected
+CUST00058,Rafi Ali,Male,1995-12-17,Sri Lanka,United Arab Emirates,+971587282128,rafi.ali58@example.com,Divorced,SME,2024-02-22,Agent,Suspended,False,Not Selected
+CUST00059,Ahmed Rahman,Male,1974-07-28,United Kingdom,United Arab Emirates,+971526247735,ahmed.rahman59@example.com,Divorced,Retail,2025-09-09,Branch,Active,False,Not Selected
+CUST00060,Sara Ahmed,Female,1999-01-18,India,United Arab Emirates,+971566379329,sara.ahmed60@example.com,Married,Retail,2025-11-29,Agent,Suspended,False,Not Selected
+CUST00061,Fatima Hussain,Female,1977-11-25,Sri Lanka,United Arab Emirates,+971592666356,fatima.hussain61@example.com,Divorced,SME,2026-12-04,Agent,Active,False,Not Selected
+CUST00062,Priya Rahman,Female,1973-11-20,Jordan,United Arab Emirates,+971542730796,priya.rahman62@example.com,Married,Premium,2025-07-25,Agent,Active,False,Not Selected
+CUST00063,Priya Rafi,Female,1991-11-15,Nepal,United Arab Emirates,+971544675473,priya.rafi63@example.com,Married,Student,2025-03-10,Branch,Active,False,Not Selected
+CUST00064,Ahmed Rahman,Male,2002-04-20,Jordan,United Arab Emirates,+971584514489,ahmed.rahman64@example.com,Single,SME,2026-04-12,Agent,Active,False,Not Selected
+CUST00065,Ahmed Thomas,Male,1979-12-10,Bangladesh,United Arab Emirates,+971551098277,ahmed.thomas65@example.com,Divorced,Premium,2026-04-08,Branch,Active,False,Not Selected
+CUST00066,Anjali Ahmed,Female,1984-11-02,Jordan,United Arab Emirates,+971546361787,anjali.ahmed66@example.com,Married,Student,2025-12-21,Web,Active,False,Not Selected
+CUST00067,Bilal Ali,Male,2003-04-29,Bangladesh,United Arab Emirates,+971539042654,bilal.ali67@example.com,Divorced,SME,2025-01-14,Branch,Active,False,Not Selected
+CUST00068,Sara Rahman,Female,1983-04-16,Nepal,United Arab Emirates,+971534084236,sara.rahman68@example.com,Married,Retail,2025-04-10,Web,Active,False,Not Selected
+CUST00069,Rafi Rafi,Male,1998-08-12,Pakistan,United Arab Emirates,+971511646234,rafi.rafi69@example.com,Divorced,Student,2026-10-02,Agent,Active,False,Not Selected
+CUST00070,Fatima Khan,Female,1981-04-29,Pakistan,United Arab Emirates,+971518770247,fatima.khan70@example.com,Married,SME,2026-09-05,Mobile App,Active,False,Not Selected
+CUST00071,Ali Rafi,Male,1995-04-01,Pakistan,United Arab Emirates,+971543311626,ali.rafi71@example.com,Single,Premium,2025-09-14,Agent,Active,False,Not Selected
+CUST00072,Hassan Nair,Male,1989-11-10,United Kingdom,United Arab Emirates,+971567556566,hassan.nair72@example.com,Married,Premium,2025-08-31,Mobile App,Active,False,Not Selected
+CUST00073,Omar Rahman,Male,1981-11-14,Philippines,United Arab Emirates,+971542194159,omar.rahman73@example.com,Single,Premium,2024-06-15,Mobile App,Active,False,Not Selected
+CUST00074,Grace Nair,Female,1983-01-24,Bangladesh,United Arab Emirates,+971548668783,grace.nair74@example.com,Divorced,Student,2024-03-07,Agent,Active,False,Not Selected
+CUST00075,Rafi Rahman,Male,1989-01-26,United Arab Emirates,United Arab Emirates,+971540173413,rafi.rahman75@example.com,Divorced,Salary,2024-08-23,Branch,Inactive,False,Not Selected
+CUST00076,Mohamed Rafi,Male,2005-07-22,United Kingdom,United Arab Emirates,+971586397676,mohamed.rafi76@example.com,Married,SME,2025-09-21,Mobile App,Active,False,Not Selected
+CUST00077,Anjali Thomas,Female,1992-06-13,Jordan,United Arab Emirates,+971520796722,anjali.thomas77@example.com,Divorced,Retail,2026-10-08,Agent,Active,False,Not Selected
+CUST00078,Aisha Ali,Female,1980-04-08,Sri Lanka,United Arab Emirates,+971587342561,aisha.ali78@example.com,Single,Salary,2024-02-12,Agent,Active,False,Not Selected
+CUST00079,Noura Rafi,Female,1996-04-04,Jordan,United Arab Emirates,+971522246348,noura.rafi79@example.com,Married,Student,2026-06-11,Agent,Active,False,Not Selected
+CUST00080,Ali Fernandez,Male,1988-06-19,Sri Lanka,United Arab Emirates,+971598930456,ali.fernandez80@example.com,Married,Premium,2026-10-11,Mobile App,Active,False,Not Selected
+CUST00081,Noura Fernandez,Female,1975-03-15,United Arab Emirates,United Arab Emirates,+971510154493,noura.fernandez81@example.com,Divorced,Premium,2026-04-07,Agent,Active,False,Not Selected
+CUST00082,Bilal Nair,Male,1998-01-20,India,United Arab Emirates,+971537321124,bilal.nair82@example.com,Married,Premium,2026-06-24,Web,Suspended,False,Not Selected
+CUST00083,Grace Ali,Female,1971-04-18,Philippines,United Arab Emirates,+971551708177,grace.ali83@example.com,Divorced,Retail,2025-05-05,Agent,Active,False,Not Selected
+CUST00084,Khalid Ali,Male,1999-01-21,Jordan,United Arab Emirates,+971549172995,khalid.ali84@example.com,Divorced,Student,2024-11-11,Agent,Inactive,False,Not Selected
+CUST00085,Mariam Nair,Female,1994-09-23,Egypt,United Arab Emirates,+971535583290,mariam.nair85@example.com,Divorced,Premium,2024-10-23,Web,Inactive,False,Not Selected
+CUST00086,Anjali Fernandez,Female,2005-05-02,Sri Lanka,United Arab Emirates,+971510344303,anjali.fernandez86@example.com,Married,Student,2026-11-05,Agent,Inactive,False,Not Selected
+CUST00087,Grace Fernandez,Female,1984-11-29,Jordan,United Arab Emirates,+971553188224,grace.fernandez87@example.com,Single,Salary,2026-02-11,Agent,Active,False,Not Selected
+CUST00088,Aisha Fernandez,Female,2003-05-29,Egypt,United Arab Emirates,+971561818612,aisha.fernandez88@example.com,Divorced,Salary,2026-08-26,Agent,Suspended,False,Not Selected
+CUST00089,Bilal Ali,Male,1989-10-01,United Arab Emirates,United Arab Emirates,+971571327848,bilal.ali89@example.com,Single,Salary,2024-07-23,Agent,Inactive,False,Not Selected
+CUST00090,Ahmed Nair,Male,2005-01-21,Nepal,United Arab Emirates,+971593652460,ahmed.nair90@example.com,Divorced,SME,2025-06-26,Mobile App,Inactive,False,Not Selected
+CUST00091,Priya Nair,Female,1994-04-09,United Kingdom,United Arab Emirates,+971519183277,priya.nair91@example.com,Single,Student,2024-03-14,Web,Active,False,Not Selected
+CUST00092,Sara Ali,Female,1989-11-26,Sri Lanka,United Arab Emirates,+971513885234,sara.ali92@example.com,Single,Student,2024-12-06,Mobile App,Active,False,Not Selected
+CUST00093,Anjali Rafi,Female,1980-12-14,Egypt,United Arab Emirates,+971585957578,anjali.rafi93@example.com,Divorced,Salary,2026-12-23,Web,Active,False,Not Selected
+CUST00094,Mariam Nair,Female,1996-02-28,Bangladesh,United Arab Emirates,+971571894493,mariam.nair94@example.com,Divorced,Student,2024-10-20,Agent,Active,False,Not Selected
+CUST00095,Khalid Thomas,Male,2000-05-24,Pakistan,United Arab Emirates,+971569287967,khalid.thomas95@example.com,Married,Premium,2024-11-19,Branch,Active,False,Not Selected
+CUST00096,Noura Nair,Female,1983-07-21,Egypt,United Arab Emirates,+971574855088,noura.nair96@example.com,Single,Salary,2025-02-11,Agent,Active,False,Not Selected
+CUST00097,Noura Khan,Female,1999-07-12,Sri Lanka,United Arab Emirates,+971511086890,noura.khan97@example.com,Divorced,Retail,2026-03-21,Agent,Inactive,False,Not Selected
+CUST00098,Mariam Fernandez,Female,1979-10-29,United Kingdom,United Arab Emirates,+971543638559,mariam.fernandez98@example.com,Divorced,Salary,2025-01-24,Mobile App,Inactive,False,Not Selected
+CUST00099,Rafi Nair,Male,1971-07-01,Philippines,United Arab Emirates,+971522097496,rafi.nair99@example.com,Married,Student,2026-01-17,Agent,Active,False,Not Selected
+CUST00100,Bilal Ahmed,Male,1992-07-05,Philippines,United Arab Emirates,+971544489940,bilal.ahmed100@example.com,Married,Student,2025-07-12,Branch,Active,False,Not Selected
+CUST00101,Sara Rafi,Female,2003-10-31,Egypt,United Arab Emirates,+971584801233,sara.rafi101@example.com,Married,Retail,2025-04-07,Agent,Active,False,Not Selected
+CUST00102,Khalid Fernandez,Male,2000-03-07,United Kingdom,United Arab Emirates,+971561140376,khalid.fernandez102@example.com,Divorced,Student,2025-06-20,Mobile App,Active,False,Not Selected
+CUST00103,Aisha Ahmed,Female,1984-09-18,Pakistan,United Arab Emirates,+971595282470,aisha.ahmed103@example.com,Married,Student,2025-03-29,Agent,Active,False,Not Selected
+CUST00104,Mohamed Thomas,Male,1992-02-06,Pakistan,United Arab Emirates,+971541514326,mohamed.thomas104@example.com,Divorced,Salary,2024-08-25,Agent,Active,False,Not Selected
+CUST00105,Fatima Hussain,Female,1999-05-19,Jordan,United Arab Emirates,+971592631441,fatima.hussain105@example.com,Married,Student,2024-07-21,Mobile App,Active,False,Not Selected
+CUST00106,Khalid Nair,Male,1980-08-04,Pakistan,United Arab Emirates,+971559302863,khalid.nair106@example.com,Divorced,Student,2026-01-12,Mobile App,Active,False,Not Selected
+CUST00107,Ahmed Nair,Male,1974-02-10,United Kingdom,United Arab Emirates,+971512866549,ahmed.nair107@example.com,Single,Student,2025-03-10,Web,Closed,False,Not Selected
+CUST00108,Ahmed Ahmed,Male,1979-04-18,Bangladesh,United Arab Emirates,+971554098516,ahmed.ahmed108@example.com,Single,Premium,2025-03-18,Mobile App,Active,False,Not Selected
+CUST00109,Ali Ahmed,Male,1981-03-30,Pakistan,United Arab Emirates,+971598725654,ali.ahmed109@example.com,Single,Salary,2024-12-23,Mobile App,Active,False,Not Selected
+CUST00110,Bilal Khan,Male,1977-10-25,India,United Arab Emirates,+971527013243,bilal.khan110@example.com,Divorced,SME,2025-06-27,Mobile App,Active,False,Not Selected
+CUST00111,Grace Fernandez,Female,1993-01-08,Jordan,United Arab Emirates,+971577624084,grace.fernandez111@example.com,Single,Premium,2024-08-11,Mobile App,Active,False,Not Selected
+CUST00112,Grace Khan,Female,1972-09-23,Egypt,United Arab Emirates,+971567213476,grace.khan112@example.com,Divorced,Retail,2026-09-07,Agent,Active,False,Not Selected
+CUST00113,Sara Ali,Female,1984-06-13,Pakistan,United Arab Emirates,+971526937148,sara.ali113@example.com,Married,Premium,2024-10-30,Branch,Active,False,Not Selected
+CUST00114,Grace Ahmed,Female,1997-02-27,Pakistan,United Arab Emirates,+971525356396,grace.ahmed114@example.com,Divorced,Premium,2026-05-31,Web,Active,False,Not Selected
+CUST00115,Hassan Fernandez,Male,1990-05-06,Egypt,United Arab Emirates,+971522762205,hassan.fernandez115@example.com,Married,SME,2026-03-27,Branch,Active,False,Not Selected
+CUST00116,Fatima Nair,Female,1973-01-04,Pakistan,United Arab Emirates,+971522513132,fatima.nair116@example.com,Married,Retail,2024-07-05,Branch,Active,False,Not Selected
+CUST00117,Bilal Ali,Male,1988-06-05,Egypt,United Arab Emirates,+971516904975,bilal.ali117@example.com,Married,Premium,2025-12-25,Branch,Active,False,Not Selected
+CUST00118,Ali Nair,Male,1980-01-23,Nepal,United Arab Emirates,+971584660688,ali.nair118@example.com,Married,Retail,2024-08-09,Branch,Active,False,Not Selected
+CUST00119,Aisha Thomas,Female,1971-04-20,Sri Lanka,United Arab Emirates,+971551471222,aisha.thomas119@example.com,Married,Student,2025-01-04,Mobile App,Active,False,Not Selected
+CUST00120,Hassan Ali,Male,1976-05-13,Pakistan,United Arab Emirates,+971581200181,hassan.ali120@example.com,Single,SME,2024-03-03,Agent,Active,False,Not Selected
+CUST00121,Bilal Thomas,Male,2002-05-15,United Kingdom,United Arab Emirates,+971590023800,bilal.thomas121@example.com,Single,Retail,2025-10-26,Web,Active,False,Not Selected
+CUST00122,Ahmed Thomas,Male,1989-11-16,Jordan,United Arab Emirates,+971591480362,ahmed.thomas122@example.com,Married,SME,2026-05-18,Branch,Active,False,Not Selected
+CUST00123,Bilal Hussain,Male,1974-12-22,United Kingdom,United Arab Emirates,+971575314742,bilal.hussain123@example.com,Divorced,Student,2025-08-03,Mobile App,Active,False,Not Selected
+CUST00124,Mohamed Rahman,Male,1983-07-10,Philippines,United Arab Emirates,+971544295247,mohamed.rahman124@example.com,Married,Student,2025-03-08,Mobile App,Active,False,Not Selected
+CUST00125,Fatima Rafi,Female,1987-01-21,Bangladesh,United Arab Emirates,+971577144075,fatima.rafi125@example.com,Divorced,Student,2026-12-26,Mobile App,Active,False,Not Selected
+CUST00126,Hassan Khan,Male,1990-08-16,Nepal,United Arab Emirates,+971587277086,hassan.khan126@example.com,Married,Premium,2024-06-08,Agent,Active,False,Not Selected
+CUST00127,Noura Ali,Female,1988-03-03,Nepal,United Arab Emirates,+971533068427,noura.ali127@example.com,Divorced,SME,2024-02-12,Branch,Active,False,Not Selected
+CUST00128,Omar Hussain,Male,1996-06-01,United Arab Emirates,United Arab Emirates,+971520555833,omar.hussain128@example.com,Married,Student,2026-03-31,Branch,Active,False,Not Selected
+CUST00129,Ahmed Ahmed,Male,1998-05-28,United Arab Emirates,United Arab Emirates,+971578444607,ahmed.ahmed129@example.com,Single,Student,2024-08-21,Branch,Active,False,Not Selected
+CUST00130,Omar Ali,Male,1976-07-27,Bangladesh,United Arab Emirates,+971533286644,omar.ali130@example.com,Divorced,Salary,2025-06-08,Mobile App,Active,False,Not Selected
+CUST00131,Grace Nair,Female,2000-07-21,Nepal,United Arab Emirates,+971530261159,grace.nair131@example.com,Married,Retail,2025-10-23,Agent,Active,False,Not Selected
+CUST00132,Noura Khan,Female,1985-10-15,Pakistan,United Arab Emirates,+971551662236,noura.khan132@example.com,Married,SME,2026-11-05,Mobile App,Active,False,Not Selected
+CUST00133,Sara Ali,Female,1997-08-03,Egypt,United Arab Emirates,+971572104107,sara.ali133@example.com,Divorced,Premium,2026-11-04,Mobile App,Active,False,Not Selected
+CUST00134,Bilal Nair,Male,1992-06-28,India,United Arab Emirates,+971570468188,bilal.nair134@example.com,Single,Student,2024-11-04,Mobile App,Active,False,Not Selected
+CUST00135,Mohamed Rahman,Male,2001-09-28,Jordan,United Arab Emirates,+971580339290,mohamed.rahman135@example.com,Divorced,Premium,2026-06-15,Web,Active,False,Not Selected
+CUST00136,Anjali Hussain,Female,2004-09-27,United Kingdom,United Arab Emirates,+971517028380,anjali.hussain136@example.com,Divorced,Student,2025-11-23,Mobile App,Active,False,Not Selected
+CUST00137,Noura Thomas,Female,2002-06-19,Nepal,United Arab Emirates,+971520939011,noura.thomas137@example.com,Divorced,Salary,2024-11-03,Branch,Active,False,Not Selected
+CUST00138,Fatima Ali,Female,1983-11-21,Nepal,United Arab Emirates,+971527152188,fatima.ali138@example.com,Divorced,Premium,2026-02-10,Mobile App,Active,False,Not Selected
+CUST00139,Priya Khan,Female,1986-04-07,Philippines,United Arab Emirates,+971538748452,priya.khan139@example.com,Married,SME,2025-09-24,Web,Active,False,Not Selected
+CUST00140,Ali Ali,Male,1983-04-09,United Arab Emirates,United Arab Emirates,+971582446804,ali.ali140@example.com,Divorced,Premium,2024-07-26,Mobile App,Active,False,Not Selected
+CUST00141,Hassan Rafi,Male,1977-04-12,United Kingdom,United Arab Emirates,+971532218290,hassan.rafi141@example.com,Divorced,SME,2025-01-05,Mobile App,Active,False,Not Selected
+CUST00142,Khalid Thomas,Male,2003-10-02,Bangladesh,United Arab Emirates,+971581673763,khalid.thomas142@example.com,Single,Student,2026-07-08,Agent,Inactive,False,Not Selected
+CUST00143,Bilal Nair,Male,1990-09-17,Egypt,United Arab Emirates,+971577498993,bilal.nair143@example.com,Divorced,SME,2025-07-31,Web,Active,False,Not Selected
+CUST00144,Rafi Khan,Male,1998-10-06,Nepal,United Arab Emirates,+971584429198,rafi.khan144@example.com,Single,Premium,2026-09-11,Mobile App,Active,False,Not Selected
+CUST00145,Rafi Nair,Male,1993-01-10,Egypt,United Arab Emirates,+971522309586,rafi.nair145@example.com,Single,SME,2024-10-28,Branch,Suspended,False,Not Selected
+CUST00146,Aisha Hussain,Female,1992-07-08,Bangladesh,United Arab Emirates,+971561830338,aisha.hussain146@example.com,Single,Student,2026-02-04,Web,Active,False,Not Selected
+CUST00147,Bilal Rafi,Male,1976-03-04,Sri Lanka,United Arab Emirates,+971573411827,bilal.rafi147@example.com,Divorced,Salary,2024-03-19,Agent,Active,False,Not Selected
+CUST00148,Ahmed Khan,Male,1981-06-25,Philippines,United Arab Emirates,+971583659258,ahmed.khan148@example.com,Divorced,Premium,2025-03-17,Agent,Active,False,Not Selected
+CUST00149,Mariam Thomas,Female,1975-06-20,Bangladesh,United Arab Emirates,+971566348030,mariam.thomas149@example.com,Divorced,Premium,2024-04-07,Agent,Active,False,Not Selected
+CUST00150,Aisha Ahmed,Female,1995-10-18,Philippines,United Arab Emirates,+971549093864,aisha.ahmed150@example.com,Married,Retail,2025-05-10,Branch,Active,False,Not Selected
+CUST00151,Fatima Ali,Female,1993-06-25,Pakistan,United Arab Emirates,+971580606503,fatima.ali151@example.com,Divorced,Premium,2026-01-08,Mobile App,Active,False,Not Selected
+CUST00152,Aisha Hussain,Female,1986-09-30,India,United Arab Emirates,+971557928328,aisha.hussain152@example.com,Single,Student,2025-06-03,Web,Active,False,Not Selected
+CUST00153,Bilal Rafi,Male,1971-12-28,United Arab Emirates,United Arab Emirates,+971555439043,bilal.rafi153@example.com,Divorced,Salary,2025-12-22,Agent,Closed,False,Not Selected
+CUST00154,Fatima Rafi,Female,1972-10-30,India,United Arab Emirates,+971549385195,fatima.rafi154@example.com,Single,Retail,2026-07-26,Web,Inactive,False,Not Selected
+CUST00155,Noura Ahmed,Female,1987-11-12,Sri Lanka,United Arab Emirates,+971514915156,noura.ahmed155@example.com,Divorced,Salary,2026-08-27,Branch,Active,False,Not Selected
+CUST00156,Bilal Thomas,Male,1975-08-02,Egypt,United Arab Emirates,+971563690013,bilal.thomas156@example.com,Divorced,SME,2026-01-23,Agent,Active,False,Not Selected
+CUST00157,Khalid Nair,Male,1986-06-24,Sri Lanka,United Arab Emirates,+971521087928,khalid.nair157@example.com,Divorced,SME,2026-11-29,Mobile App,Active,False,Not Selected
+CUST00158,Rafi Fernandez,Male,1974-08-08,Nepal,United Arab Emirates,+971598707076,rafi.fernandez158@example.com,Married,Student,2024-06-12,Agent,Active,False,Not Selected
+CUST00159,Fatima Nair,Female,1985-10-08,India,United Arab Emirates,+971557319709,fatima.nair159@example.com,Divorced,SME,2026-07-04,Branch,Active,False,Not Selected
+CUST00160,Ahmed Hussain,Male,1986-04-19,Philippines,United Arab Emirates,+971514179623,ahmed.hussain160@example.com,Single,Premium,2026-11-16,Agent,Active,False,Not Selected
+CUST00161,Omar Fernandez,Male,1986-03-31,United Kingdom,United Arab Emirates,+971514346684,omar.fernandez161@example.com,Divorced,Salary,2026-02-23,Agent,Suspended,False,Not Selected
+CUST00162,Grace Ali,Female,1995-09-30,United Arab Emirates,United Arab Emirates,+971559251188,grace.ali162@example.com,Married,Student,2024-10-08,Branch,Active,False,Not Selected
+CUST00163,Mohamed Rafi,Male,1992-05-21,Egypt,United Arab Emirates,+971585386435,mohamed.rafi163@example.com,Single,Student,2026-11-26,Branch,Active,False,Not Selected
+CUST00164,Rafi Nair,Male,1978-12-24,Philippines,United Arab Emirates,+971519939096,rafi.nair164@example.com,Married,Salary,2024-09-08,Agent,Closed,False,Not Selected
+CUST00165,Priya Ali,Female,1994-09-03,Sri Lanka,United Arab Emirates,+971531139996,priya.ali165@example.com,Divorced,Salary,2025-08-17,Branch,Active,False,Not Selected
+CUST00166,Omar Rafi,Male,1980-08-14,India,United Arab Emirates,+971558438711,omar.rafi166@example.com,Divorced,Premium,2026-10-08,Branch,Active,False,Not Selected
+CUST00167,Ahmed Ali,Male,1983-11-16,Jordan,United Arab Emirates,+971580557676,ahmed.ali167@example.com,Married,SME,2026-03-26,Mobile App,Active,False,Not Selected
+CUST00168,Sara Nair,Female,1990-11-24,Nepal,United Arab Emirates,+971527224779,sara.nair168@example.com,Divorced,Premium,2026-11-25,Web,Active,False,Not Selected
+CUST00169,Hassan Ahmed,Male,1972-06-26,United Arab Emirates,United Arab Emirates,+971530537388,hassan.ahmed169@example.com,Married,Salary,2024-09-11,Web,Active,False,Not Selected
+CUST00170,Bilal Ahmed,Male,1982-09-28,Sri Lanka,United Arab Emirates,+971536347197,bilal.ahmed170@example.com,Divorced,Premium,2024-06-10,Branch,Active,False,Not Selected
+CUST00171,Sara Ahmed,Female,1998-10-02,United Kingdom,United Arab Emirates,+971587933054,sara.ahmed171@example.com,Single,Salary,2024-12-11,Branch,Inactive,False,Not Selected
+CUST00172,Mohamed Ali,Male,1972-01-15,Bangladesh,United Arab Emirates,+971586790955,mohamed.ali172@example.com,Married,Premium,2025-06-26,Mobile App,Active,False,Not Selected
+CUST00173,Noura Nair,Female,1980-12-26,Sri Lanka,United Arab Emirates,+971570873663,noura.nair173@example.com,Single,Retail,2026-04-11,Web,Active,False,Not Selected
+CUST00174,Grace Rahman,Female,1985-04-05,Nepal,United Arab Emirates,+971552857920,grace.rahman174@example.com,Divorced,Student,2024-10-21,Agent,Active,False,Not Selected
+CUST00175,Sara Fernandez,Female,1980-11-04,Pakistan,United Arab Emirates,+971545899440,sara.fernandez175@example.com,Married,Salary,2026-08-13,Web,Active,False,Not Selected
+CUST00176,Anjali Hussain,Female,1981-02-19,Nepal,United Arab Emirates,+971587535841,anjali.hussain176@example.com,Divorced,Student,2024-11-23,Web,Active,False,Not Selected
+CUST00177,Grace Nair,Female,1983-11-04,India,United Arab Emirates,+971522086184,grace.nair177@example.com,Married,Premium,2026-10-15,Agent,Suspended,False,Not Selected
+CUST00178,Bilal Khan,Male,1972-04-08,Jordan,United Arab Emirates,+971590197611,bilal.khan178@example.com,Divorced,SME,2025-07-30,Branch,Active,False,Not Selected
+CUST00179,Hassan Rafi,Male,1981-11-12,Egypt,United Arab Emirates,+971559115280,hassan.rafi179@example.com,Single,SME,2026-01-19,Mobile App,Active,False,Not Selected
+CUST00180,Bilal Ahmed,Male,1982-12-12,Egypt,United Arab Emirates,+971577680031,bilal.ahmed180@example.com,Married,Premium,2024-05-30,Branch,Inactive,False,Not Selected
+CUST00181,Ali Ali,Male,1987-09-02,Nepal,United Arab Emirates,+971584870921,ali.ali181@example.com,Married,Salary,2026-02-03,Web,Active,False,Not Selected
+CUST00182,Aisha Khan,Female,1971-09-30,Nepal,United Arab Emirates,+971573584863,aisha.khan182@example.com,Divorced,SME,2024-10-07,Web,Active,False,Not Selected
+CUST00183,Bilal Fernandez,Male,1977-04-16,United Kingdom,United Arab Emirates,+971550162553,bilal.fernandez183@example.com,Divorced,Student,2026-03-15,Agent,Active,False,Not Selected
+CUST00184,Grace Khan,Female,1986-07-11,Pakistan,United Arab Emirates,+971565907088,grace.khan184@example.com,Divorced,Student,2025-11-09,Mobile App,Active,False,Not Selected
+CUST00185,Mariam Khan,Female,1996-03-05,Philippines,United Arab Emirates,+971580361272,mariam.khan185@example.com,Divorced,Premium,2026-09-10,Agent,Active,False,Not Selected
+CUST00186,Mohamed Ali,Male,1978-07-23,Jordan,United Arab Emirates,+971552103092,mohamed.ali186@example.com,Married,Salary,2024-02-08,Agent,Active,False,Not Selected
+CUST00187,Grace Khan,Female,2001-08-29,United Arab Emirates,United Arab Emirates,+971537828932,grace.khan187@example.com,Divorced,Student,2024-10-09,Agent,Active,False,Not Selected
+CUST00188,Fatima Nair,Female,1993-11-30,United Arab Emirates,United Arab Emirates,+971557551594,fatima.nair188@example.com,Divorced,Student,2025-12-02,Agent,Active,False,Not Selected
+CUST00189,Rafi Ahmed,Male,1983-05-23,Sri Lanka,United Arab Emirates,+971548789478,rafi.ahmed189@example.com,Divorced,Salary,2025-04-05,Agent,Active,False,Not Selected
+CUST00190,Noura Thomas,Female,1975-06-20,Egypt,United Arab Emirates,+971556323191,noura.thomas190@example.com,Single,Student,2026-02-16,Mobile App,Active,False,Not Selected
+CUST00191,Bilal Nair,Male,1999-06-05,Jordan,United Arab Emirates,+971538720823,bilal.nair191@example.com,Single,Premium,2025-06-09,Branch,Suspended,False,Not Selected
+CUST00192,Fatima Ali,Female,1997-08-14,Bangladesh,United Arab Emirates,+971516813620,fatima.ali192@example.com,Divorced,Premium,2025-05-05,Web,Active,False,Not Selected
+CUST00193,Ahmed Hussain,Male,1984-10-25,Pakistan,United Arab Emirates,+971528450513,ahmed.hussain193@example.com,Single,Premium,2026-08-25,Web,Active,False,Not Selected
+CUST00194,Grace Rahman,Female,2003-11-28,Nepal,United Arab Emirates,+971548307798,grace.rahman194@example.com,Divorced,Retail,2025-08-11,Mobile App,Active,False,Not Selected
+CUST00195,Mohamed Rafi,Male,1988-09-29,India,United Arab Emirates,+971563283709,mohamed.rafi195@example.com,Married,Salary,2024-12-26,Branch,Inactive,False,Not Selected
+CUST00196,Rafi Ali,Male,1985-01-11,Jordan,United Arab Emirates,+971596075494,rafi.ali196@example.com,Divorced,Premium,2025-08-05,Agent,Inactive,False,Not Selected
+CUST00197,Khalid Thomas,Male,1978-08-26,Nepal,United Arab Emirates,+971531809610,khalid.thomas197@example.com,Divorced,SME,2024-08-18,Branch,Active,False,Not Selected
+CUST00198,Bilal Thomas,Male,1995-06-21,Philippines,United Arab Emirates,+971592000924,bilal.thomas198@example.com,Divorced,SME,2025-01-30,Agent,Active,False,Not Selected
+CUST00199,Hassan Ali,Male,1978-04-16,Jordan,United Arab Emirates,+971553433080,hassan.ali199@example.com,Single,Retail,2024-10-14,Branch,Active,False,Not Selected
+CUST00200,Noura Fernandez,Female,1983-07-19,Sri Lanka,United Arab Emirates,+971597735896,noura.fernandez200@example.com,Married,Salary,2024-01-24,Mobile App,Active,False,Not Selected
+CUST00201,Noura Rafi,Female,1988-03-09,Sri Lanka,United Arab Emirates,+971525759274,noura.rafi201@example.com,Divorced,Student,2026-10-26,Branch,Active,False,Not Selected
+CUST00202,Ali Nair,Male,1976-11-14,United Kingdom,United Arab Emirates,+971560147077,ali.nair202@example.com,Married,Premium,2026-07-20,Agent,Active,False,Not Selected
+CUST00203,Omar Ali,Male,1993-07-28,United Arab Emirates,United Arab Emirates,+971558557943,omar.ali203@example.com,Single,Premium,2026-07-03,Mobile App,Active,False,Not Selected
+CUST00204,Ali Rafi,Male,1984-09-19,Jordan,United Arab Emirates,+971525601471,ali.rafi204@example.com,Divorced,Salary,2026-12-01,Agent,Active,False,Not Selected
+CUST00205,Aisha Nair,Female,1975-12-02,Egypt,United Arab Emirates,+971571310453,aisha.nair205@example.com,Divorced,Retail,2026-11-17,Agent,Active,False,Not Selected
+CUST00206,Aisha Hussain,Female,1981-06-01,Bangladesh,United Arab Emirates,+971587619624,aisha.hussain206@example.com,Single,Retail,2024-01-07,Agent,Active,False,Not Selected
+CUST00207,Mohamed Ali,Male,1991-03-06,Sri Lanka,United Arab Emirates,+971564877191,mohamed.ali207@example.com,Single,Salary,2024-03-05,Agent,Active,False,Not Selected
+CUST00208,Grace Hussain,Female,1986-11-07,United Arab Emirates,United Arab Emirates,+971527849589,grace.hussain208@example.com,Divorced,Student,2024-06-13,Mobile App,Active,False,Not Selected
+CUST00209,Fatima Rahman,Female,1970-02-26,Sri Lanka,United Arab Emirates,+971572143331,fatima.rahman209@example.com,Divorced,Premium,2024-02-16,Agent,Active,False,Not Selected
+CUST00210,Omar Nair,Male,1985-07-12,Sri Lanka,United Arab Emirates,+971535297417,omar.nair210@example.com,Divorced,Retail,2024-11-13,Mobile App,Active,False,Not Selected
+CUST00211,Aisha Rahman,Female,1979-03-31,Pakistan,United Arab Emirates,+971589717834,aisha.rahman211@example.com,Single,SME,2024-05-17,Mobile App,Active,False,Not Selected
+CUST00212,Hassan Nair,Male,1980-07-06,India,United Arab Emirates,+971528808678,hassan.nair212@example.com,Divorced,Student,2025-03-20,Web,Active,False,Not Selected
+CUST00213,Priya Rahman,Female,1983-07-16,United Arab Emirates,United Arab Emirates,+971539667854,priya.rahman213@example.com,Married,Student,2024-10-20,Branch,Active,False,Not Selected
+CUST00214,Hassan Ahmed,Male,1992-03-26,Nepal,United Arab Emirates,+971596344420,hassan.ahmed214@example.com,Divorced,SME,2024-04-06,Branch,Active,False,Not Selected
+CUST00215,Fatima Thomas,Female,1986-11-20,United Arab Emirates,United Arab Emirates,+971573554620,fatima.thomas215@example.com,Single,Salary,2025-01-11,Branch,Inactive,False,Not Selected
+CUST00216,Khalid Khan,Male,1995-03-25,Egypt,United Arab Emirates,+971584797762,khalid.khan216@example.com,Divorced,Salary,2026-04-25,Agent,Active,False,Not Selected
+CUST00217,Bilal Ali,Male,1990-03-06,Pakistan,United Arab Emirates,+971581891784,bilal.ali217@example.com,Divorced,Salary,2026-01-29,Mobile App,Active,False,Not Selected
+CUST00218,Ahmed Rahman,Male,2004-03-02,Jordan,United Arab Emirates,+971538036618,ahmed.rahman218@example.com,Married,Student,2025-03-20,Mobile App,Active,False,Not Selected
+CUST00219,Ahmed Nair,Male,1980-11-18,Egypt,United Arab Emirates,+971542122457,ahmed.nair219@example.com,Divorced,Student,2025-02-22,Branch,Active,False,Not Selected
+CUST00220,Noura Thomas,Female,1986-02-18,Jordan,United Arab Emirates,+971572546007,noura.thomas220@example.com,Single,SME,2026-11-16,Branch,Inactive,False,Not Selected
+CUST00221,Priya Hussain,Female,1972-01-20,Philippines,United Arab Emirates,+971512176998,priya.hussain221@example.com,Married,Premium,2025-03-29,Agent,Active,False,Not Selected
+CUST00222,Bilal Rahman,Male,1987-01-15,Jordan,United Arab Emirates,+971583905989,bilal.rahman222@example.com,Divorced,Student,2025-05-18,Branch,Active,False,Not Selected
+CUST00223,Grace Nair,Female,1977-07-19,Philippines,United Arab Emirates,+971528784915,grace.nair223@example.com,Divorced,Premium,2025-12-22,Agent,Active,False,Not Selected
+CUST00224,Mohamed Ali,Male,1999-12-23,India,United Arab Emirates,+971565350347,mohamed.ali224@example.com,Single,Salary,2024-04-09,Mobile App,Active,False,Not Selected
+CUST00225,Omar Ahmed,Male,1990-06-16,India,United Arab Emirates,+971592924441,omar.ahmed225@example.com,Divorced,Premium,2026-02-03,Agent,Active,False,Not Selected
+CUST00226,Mohamed Ahmed,Male,1994-09-30,India,United Arab Emirates,+971512244945,mohamed.ahmed226@example.com,Divorced,Student,2026-04-22,Branch,Active,False,Not Selected
+CUST00227,Fatima Ali,Female,1974-04-28,Philippines,United Arab Emirates,+971542342289,fatima.ali227@example.com,Single,Premium,2026-12-09,Branch,Active,False,Not Selected
+CUST00228,Anjali Ali,Female,1986-09-26,Jordan,United Arab Emirates,+971585833309,anjali.ali228@example.com,Single,Salary,2026-04-11,Branch,Active,False,Not Selected
+CUST00229,Mohamed Ali,Male,1988-03-07,Egypt,United Arab Emirates,+971584182331,mohamed.ali229@example.com,Married,Retail,2026-02-15,Mobile App,Active,False,Not Selected
+CUST00230,Khalid Hussain,Male,1998-12-06,United Kingdom,United Arab Emirates,+971522799248,khalid.hussain230@example.com,Divorced,Retail,2025-11-09,Web,Active,False,Not Selected
+CUST00231,Noura Khan,Female,1973-05-03,United Arab Emirates,United Arab Emirates,+971585633013,noura.khan231@example.com,Divorced,Retail,2025-07-28,Web,Suspended,False,Not Selected
+CUST00232,Aisha Rahman,Female,1996-05-01,Egypt,United Arab Emirates,+971520326375,aisha.rahman232@example.com,Married,Salary,2024-10-22,Web,Active,False,Not Selected
+CUST00233,Priya Hussain,Female,2003-11-23,Pakistan,United Arab Emirates,+971577215278,priya.hussain233@example.com,Divorced,Student,2024-10-13,Mobile App,Active,False,Not Selected
+CUST00234,Ahmed Fernandez,Male,1997-02-23,Nepal,United Arab Emirates,+971513976288,ahmed.fernandez234@example.com,Divorced,Student,2026-03-23,Agent,Active,False,Not Selected
+CUST00235,Anjali Hussain,Female,1978-05-02,Pakistan,United Arab Emirates,+971593029219,anjali.hussain235@example.com,Married,Salary,2026-02-17,Mobile App,Active,False,Not Selected
+CUST00236,Hassan Rafi,Male,2003-03-07,Nepal,United Arab Emirates,+971558412365,hassan.rafi236@example.com,Single,Retail,2026-03-08,Mobile App,Suspended,False,Not Selected
+CUST00237,Priya Thomas,Female,1974-08-02,Pakistan,United Arab Emirates,+971535151299,priya.thomas237@example.com,Married,SME,2024-09-28,Agent,Active,False,Not Selected
+CUST00238,Bilal Ahmed,Male,1974-03-05,Egypt,United Arab Emirates,+971511656329,bilal.ahmed238@example.com,Married,SME,2025-10-26,Agent,Active,False,Not Selected
+CUST00239,Ali Hussain,Male,1977-08-09,Sri Lanka,United Arab Emirates,+971550417154,ali.hussain239@example.com,Married,SME,2024-10-11,Web,Active,False,Not Selected
+CUST00240,Noura Hussain,Female,1983-06-13,Pakistan,United Arab Emirates,+971558469365,noura.hussain240@example.com,Married,Salary,2026-09-18,Agent,Active,False,Not Selected
+CUST00241,Khalid Ali,Male,1976-01-29,India,United Arab Emirates,+971563108878,khalid.ali241@example.com,Married,Premium,2025-09-15,Agent,Active,False,Not Selected
+CUST00242,Grace Fernandez,Female,1989-04-26,Sri Lanka,United Arab Emirates,+971553038948,grace.fernandez242@example.com,Divorced,Salary,2024-10-05,Agent,Active,False,Not Selected
+CUST00243,Priya Thomas,Female,2002-12-19,United Kingdom,United Arab Emirates,+971542537638,priya.thomas243@example.com,Married,SME,2026-10-02,Branch,Active,False,Not Selected
+CUST00244,Priya Ali,Female,1995-04-18,United Kingdom,United Arab Emirates,+971583233096,priya.ali244@example.com,Single,Premium,2025-02-13,Mobile App,Suspended,False,Not Selected
+CUST00245,Mariam Nair,Female,2005-10-13,Pakistan,United Arab Emirates,+971564914054,mariam.nair245@example.com,Divorced,SME,2025-08-19,Web,Active,False,Not Selected
+CUST00246,Rafi Rafi,Male,2002-01-31,Egypt,United Arab Emirates,+971519927432,rafi.rafi246@example.com,Married,Premium,2026-05-16,Agent,Active,False,Not Selected
+CUST00247,Aisha Fernandez,Female,2001-06-22,Pakistan,United Arab Emirates,+971543316996,aisha.fernandez247@example.com,Divorced,Student,2024-06-23,Web,Active,False,Not Selected
+CUST00248,Hassan Fernandez,Male,2005-09-19,Pakistan,United Arab Emirates,+971511415698,hassan.fernandez248@example.com,Single,Student,2026-05-31,Web,Active,False,Not Selected
+CUST00249,Khalid Fernandez,Male,1987-07-19,United Kingdom,United Arab Emirates,+971577171380,khalid.fernandez249@example.com,Single,Student,2026-08-06,Mobile App,Active,False,Not Selected
+CUST00250,Anjali Ali,Female,1975-03-17,Nepal,United Arab Emirates,+971551861213,anjali.ali250@example.com,Married,SME,2024-10-17,Web,Active,False,Not Selected
+CUST00251,Grace Ali,Female,1989-08-27,Nepal,United Arab Emirates,+971519015987,grace.ali251@example.com,Married,Retail,2026-07-15,Mobile App,Active,False,Not Selected
+CUST00252,Sara Rafi,Female,2003-03-21,United Arab Emirates,United Arab Emirates,+971533414716,sara.rafi252@example.com,Divorced,Salary,2025-05-14,Branch,Active,False,Not Selected
+CUST00253,Mariam Hussain,Female,1998-04-01,Philippines,United Arab Emirates,+971595963619,mariam.hussain253@example.com,Divorced,SME,2025-01-12,Agent,Active,False,Not Selected
+CUST00254,Khalid Hussain,Male,1987-06-11,Bangladesh,United Arab Emirates,+971537619925,khalid.hussain254@example.com,Married,Retail,2024-01-10,Mobile App,Active,False,Not Selected
+CUST00255,Bilal Fernandez,Male,1978-11-03,Pakistan,United Arab Emirates,+971545212476,bilal.fernandez255@example.com,Divorced,SME,2026-07-26,Branch,Active,False,Not Selected
+CUST00256,Sara Fernandez,Female,1985-10-15,United Kingdom,United Arab Emirates,+971533156250,sara.fernandez256@example.com,Divorced,Student,2026-07-26,Mobile App,Active,False,Not Selected
+CUST00257,Sara Rahman,Female,1983-09-13,Philippines,United Arab Emirates,+971560104292,sara.rahman257@example.com,Divorced,Salary,2024-08-27,Agent,Active,False,Not Selected
+CUST00258,Hassan Hussain,Male,1978-05-02,United Arab Emirates,United Arab Emirates,+971596605343,hassan.hussain258@example.com,Single,Premium,2026-09-23,Web,Active,False,Not Selected
+CUST00259,Ali Fernandez,Male,1990-03-26,Nepal,United Arab Emirates,+971511286267,ali.fernandez259@example.com,Married,Salary,2024-04-19,Web,Active,False,Not Selected
+CUST00260,Anjali Nair,Female,1988-08-23,Jordan,United Arab Emirates,+971532448383,anjali.nair260@example.com,Single,Premium,2026-06-28,Mobile App,Active,False,Not Selected
+CUST00261,Rafi Khan,Male,1982-05-01,United Arab Emirates,United Arab Emirates,+971548744673,rafi.khan261@example.com,Single,SME,2025-04-05,Agent,Active,False,Not Selected
+CUST00262,Ahmed Thomas,Male,2004-10-08,United Arab Emirates,United Arab Emirates,+971515584869,ahmed.thomas262@example.com,Divorced,SME,2026-01-21,Web,Closed,False,Not Selected
+CUST00263,Omar Thomas,Male,1971-06-13,Sri Lanka,United Arab Emirates,+971556785209,omar.thomas263@example.com,Single,SME,2026-07-10,Mobile App,Active,False,Not Selected
+CUST00264,Omar Fernandez,Male,2001-11-18,Philippines,United Arab Emirates,+971592698414,omar.fernandez264@example.com,Single,Salary,2026-05-26,Web,Active,False,Not Selected
+CUST00265,Noura Ahmed,Female,1977-07-21,Sri Lanka,United Arab Emirates,+971548833650,noura.ahmed265@example.com,Divorced,Student,2025-10-24,Mobile App,Active,False,Not Selected
+CUST00266,Aisha Thomas,Female,1999-06-04,Philippines,United Arab Emirates,+971543511112,aisha.thomas266@example.com,Single,Student,2024-09-16,Web,Active,False,Not Selected
+CUST00267,Grace Rafi,Female,1995-11-26,Egypt,United Arab Emirates,+971560354777,grace.rafi267@example.com,Married,Retail,2025-07-04,Mobile App,Active,False,Not Selected
+CUST00268,Priya Nair,Female,1991-11-23,United Kingdom,United Arab Emirates,+971510331931,priya.nair268@example.com,Divorced,Retail,2025-11-01,Agent,Active,False,Not Selected
+CUST00269,Sara Ahmed,Female,1987-11-04,Egypt,United Arab Emirates,+971538434222,sara.ahmed269@example.com,Married,Student,2025-03-22,Branch,Inactive,False,Not Selected
+CUST00270,Fatima Nair,Female,2005-05-12,India,United Arab Emirates,+971516166355,fatima.nair270@example.com,Single,SME,2025-12-04,Mobile App,Active,False,Not Selected
+CUST00271,Khalid Nair,Male,1970-01-12,Bangladesh,United Arab Emirates,+971527705074,khalid.nair271@example.com,Divorced,Student,2026-05-26,Web,Inactive,False,Not Selected
+CUST00272,Sara Fernandez,Female,1981-03-26,Nepal,United Arab Emirates,+971599188862,sara.fernandez272@example.com,Divorced,Salary,2024-06-17,Mobile App,Active,False,Not Selected
+CUST00273,Mariam Hussain,Female,1999-05-28,Pakistan,United Arab Emirates,+971510145801,mariam.hussain273@example.com,Single,SME,2024-07-05,Mobile App,Active,False,Not Selected
+CUST00274,Khalid Khan,Male,1970-05-13,Pakistan,United Arab Emirates,+971566682016,khalid.khan274@example.com,Divorced,Salary,2025-12-04,Agent,Active,False,Not Selected
+CUST00275,Sara Ali,Female,1974-08-18,Nepal,United Arab Emirates,+971550165370,sara.ali275@example.com,Single,SME,2025-10-03,Web,Active,False,Not Selected
+CUST00276,Ahmed Ahmed,Male,1995-04-08,United Kingdom,United Arab Emirates,+971597244236,ahmed.ahmed276@example.com,Single,SME,2024-01-18,Branch,Active,False,Not Selected
+CUST00277,Hassan Nair,Male,1979-09-30,Pakistan,United Arab Emirates,+971528792245,hassan.nair277@example.com,Single,Premium,2024-06-26,Agent,Active,False,Not Selected
+CUST00278,Priya Rafi,Female,1981-02-11,Pakistan,United Arab Emirates,+971543308414,priya.rafi278@example.com,Divorced,Premium,2025-07-21,Branch,Active,False,Not Selected
+CUST00279,Rafi Rahman,Male,1993-03-23,Bangladesh,United Arab Emirates,+971562579931,rafi.rahman279@example.com,Married,Retail,2026-11-09,Web,Active,False,Not Selected
+CUST00280,Omar Nair,Male,1998-08-16,United Arab Emirates,United Arab Emirates,+971511619606,omar.nair280@example.com,Married,Student,2024-05-25,Web,Active,False,Not Selected
+CUST00281,Priya Ahmed,Female,2000-08-20,Jordan,United Arab Emirates,+971519796799,priya.ahmed281@example.com,Single,Premium,2024-12-19,Mobile App,Active,False,Not Selected
+CUST00282,Mohamed Khan,Male,2005-05-28,United Arab Emirates,United Arab Emirates,+971548451741,mohamed.khan282@example.com,Divorced,Premium,2026-03-26,Agent,Active,False,Not Selected
+CUST00283,Sara Ahmed,Female,1994-02-12,Sri Lanka,United Arab Emirates,+971521220209,sara.ahmed283@example.com,Married,Retail,2024-11-08,Web,Closed,False,Not Selected
+CUST00284,Bilal Hussain,Male,1996-04-22,Sri Lanka,United Arab Emirates,+971568718382,bilal.hussain284@example.com,Divorced,Salary,2024-05-15,Mobile App,Active,False,Not Selected
+CUST00285,Sara Nair,Female,1997-06-19,Sri Lanka,United Arab Emirates,+971599399687,sara.nair285@example.com,Divorced,Salary,2024-04-22,Mobile App,Active,False,Not Selected
+CUST00286,Mohamed Rafi,Male,1992-04-08,United Arab Emirates,United Arab Emirates,+971579420474,mohamed.rafi286@example.com,Divorced,Student,2025-12-11,Web,Active,False,Not Selected
+CUST00287,Sara Khan,Female,1985-01-10,Sri Lanka,United Arab Emirates,+971580310522,sara.khan287@example.com,Single,Student,2026-05-29,Mobile App,Active,False,Not Selected
+CUST00288,Aisha Nair,Female,1995-06-06,Nepal,United Arab Emirates,+971531113788,aisha.nair288@example.com,Married,Retail,2024-12-07,Mobile App,Active,False,Not Selected
+CUST00289,Mohamed Khan,Male,1980-12-20,Jordan,United Arab Emirates,+971558852098,mohamed.khan289@example.com,Married,Salary,2024-04-04,Web,Suspended,False,Not Selected
+CUST00290,Hassan Rahman,Male,1984-06-08,Egypt,United Arab Emirates,+971552940967,hassan.rahman290@example.com,Married,Retail,2025-05-23,Branch,Active,False,Not Selected
+CUST00291,Ali Rahman,Male,1993-02-19,Egypt,United Arab Emirates,+971519251149,ali.rahman291@example.com,Married,Student,2024-04-04,Branch,Active,False,Not Selected
+CUST00292,Aisha Fernandez,Female,1979-01-01,United Kingdom,United Arab Emirates,+971550790016,aisha.fernandez292@example.com,Divorced,Premium,2025-08-20,Web,Active,False,Not Selected
+CUST00293,Mariam Ahmed,Female,2004-02-11,Philippines,United Arab Emirates,+971510856024,mariam.ahmed293@example.com,Married,Retail,2025-05-17,Web,Active,False,Not Selected
+CUST00294,Bilal Khan,Male,2004-01-17,Sri Lanka,United Arab Emirates,+971523951801,bilal.khan294@example.com,Single,Premium,2026-02-09,Web,Active,False,Not Selected
+CUST00295,Ali Thomas,Male,1974-03-05,Bangladesh,United Arab Emirates,+971579760901,ali.thomas295@example.com,Married,Student,2024-03-30,Agent,Closed,False,Not Selected
+CUST00296,Ahmed Ahmed,Male,1975-12-28,Pakistan,United Arab Emirates,+971589442904,ahmed.ahmed296@example.com,Divorced,Retail,2026-03-18,Agent,Active,False,Not Selected
+CUST00297,Omar Thomas,Male,1981-09-16,Egypt,United Arab Emirates,+971553788744,omar.thomas297@example.com,Married,SME,2025-10-07,Branch,Active,False,Not Selected
+CUST00298,Ali Ali,Male,1976-12-21,Philippines,United Arab Emirates,+971570339827,ali.ali298@example.com,Married,Student,2024-08-04,Agent,Active,False,Not Selected
+CUST00299,Mariam Nair,Female,1983-10-31,Sri Lanka,United Arab Emirates,+971526094525,mariam.nair299@example.com,Single,Salary,2026-08-06,Branch,Inactive,False,Not Selected
+CUST00300,Omar Fernandez,Male,1976-08-27,Bangladesh,United Arab Emirates,+971557746984,omar.fernandez300@example.com,Married,Premium,2024-07-05,Mobile App,Active,False,Not Selected
+CUST00301,Fatima Khan,Female,1988-02-21,United Arab Emirates,United Arab Emirates,+971583835976,fatima.khan301@example.com,Single,Retail,2026-07-15,Agent,Active,False,Not Selected
+CUST00302,Ahmed Khan,Male,1972-10-07,Philippines,United Arab Emirates,+971536592965,ahmed.khan302@example.com,Married,Student,2025-03-31,Mobile App,Active,False,Not Selected
+CUST00303,Sara Khan,Female,1972-11-22,Jordan,United Arab Emirates,+971527286109,sara.khan303@example.com,Single,Student,2025-02-08,Mobile App,Active,False,Not Selected
+CUST00304,Aisha Rafi,Female,1995-09-29,Egypt,United Arab Emirates,+971576588957,aisha.rafi304@example.com,Single,SME,2026-06-06,Agent,Active,False,Not Selected
+CUST00305,Ali Thomas,Male,1982-07-22,Philippines,United Arab Emirates,+971514650569,ali.thomas305@example.com,Divorced,Premium,2026-07-02,Web,Active,False,Not Selected
+CUST00306,Anjali Ahmed,Female,1991-06-28,Pakistan,United Arab Emirates,+971547550897,anjali.ahmed306@example.com,Married,Salary,2024-05-04,Agent,Active,False,Not Selected
+CUST00307,Mohamed Hussain,Male,2005-01-27,Jordan,United Arab Emirates,+971583083942,mohamed.hussain307@example.com,Married,Student,2026-01-05,Branch,Active,False,Not Selected
+CUST00308,Mohamed Fernandez,Male,1996-10-14,India,United Arab Emirates,+971547706144,mohamed.fernandez308@example.com,Single,SME,2025-03-24,Branch,Active,False,Not Selected
+CUST00309,Ali Ali,Male,1981-02-12,Sri Lanka,United Arab Emirates,+971581630600,ali.ali309@example.com,Divorced,Retail,2025-05-08,Web,Active,False,Not Selected
+CUST00310,Priya Rafi,Female,1977-11-25,United Kingdom,United Arab Emirates,+971552681823,priya.rafi310@example.com,Divorced,Student,2025-04-29,Mobile App,Active,False,Not Selected
+CUST00311,Fatima Rahman,Female,1992-01-30,Philippines,United Arab Emirates,+971575825262,fatima.rahman311@example.com,Single,Retail,2025-09-24,Mobile App,Active,False,Not Selected
+CUST00312,Mohamed Ahmed,Male,1991-06-11,Nepal,United Arab Emirates,+971592427773,mohamed.ahmed312@example.com,Single,Salary,2024-01-02,Branch,Active,False,Not Selected
+CUST00313,Aisha Khan,Female,1976-08-17,Pakistan,United Arab Emirates,+971580638102,aisha.khan313@example.com,Married,Retail,2024-10-17,Branch,Active,False,Not Selected
+CUST00314,Sara Fernandez,Female,1983-07-16,Philippines,United Arab Emirates,+971531139813,sara.fernandez314@example.com,Divorced,SME,2025-10-22,Agent,Active,False,Not Selected
+CUST00315,Bilal Rahman,Male,1999-11-09,Egypt,United Arab Emirates,+971551181116,bilal.rahman315@example.com,Divorced,Student,2024-12-25,Web,Active,False,Not Selected
+CUST00316,Hassan Khan,Male,1978-03-03,United Kingdom,United Arab Emirates,+971539648058,hassan.khan316@example.com,Divorced,Premium,2025-10-13,Mobile App,Suspended,False,Not Selected
+CUST00317,Bilal Ali,Male,1980-09-04,Nepal,United Arab Emirates,+971532533467,bilal.ali317@example.com,Divorced,Retail,2025-12-11,Branch,Active,False,Not Selected
+CUST00318,Mariam Rahman,Female,2001-02-03,Nepal,United Arab Emirates,+971544448045,mariam.rahman318@example.com,Single,Retail,2024-05-18,Mobile App,Active,False,Not Selected
+CUST00319,Fatima Hussain,Female,1992-02-13,Nepal,United Arab Emirates,+971583286096,fatima.hussain319@example.com,Married,Retail,2026-02-14,Agent,Active,False,Not Selected
+CUST00320,Ali Nair,Male,1973-04-22,Sri Lanka,United Arab Emirates,+971512694823,ali.nair320@example.com,Married,Student,2024-03-09,Mobile App,Active,False,Not Selected
+CUST00321,Hassan Rafi,Male,2002-11-01,United Arab Emirates,United Arab Emirates,+971522496299,hassan.rafi321@example.com,Married,Premium,2024-06-02,Agent,Active,False,Not Selected
+CUST00322,Fatima Hussain,Female,1977-01-17,Pakistan,United Arab Emirates,+971554438762,fatima.hussain322@example.com,Single,Salary,2024-04-19,Agent,Active,False,Not Selected
+CUST00323,Noura Thomas,Female,1980-08-27,India,United Arab Emirates,+971562734442,noura.thomas323@example.com,Divorced,Premium,2024-07-15,Agent,Active,False,Not Selected
+CUST00324,Aisha Hussain,Female,1973-12-06,United Kingdom,United Arab Emirates,+971574468586,aisha.hussain324@example.com,Single,Retail,2025-08-26,Mobile App,Active,False,Not Selected
+CUST00325,Sara Nair,Female,1975-03-08,Egypt,United Arab Emirates,+971573209094,sara.nair325@example.com,Married,Student,2025-09-23,Mobile App,Active,False,Not Selected
+CUST00326,Fatima Fernandez,Female,1987-02-10,Philippines,United Arab Emirates,+971569830944,fatima.fernandez326@example.com,Single,Student,2026-01-26,Agent,Active,False,Not Selected
+CUST00327,Rafi Khan,Male,1976-10-12,Pakistan,United Arab Emirates,+971599676390,rafi.khan327@example.com,Married,Premium,2024-07-17,Agent,Closed,False,Not Selected
+CUST00328,Mohamed Hussain,Male,1993-06-10,United Arab Emirates,United Arab Emirates,+971573729850,mohamed.hussain328@example.com,Divorced,Salary,2026-05-07,Agent,Active,False,Not Selected
+CUST00329,Aisha Ahmed,Female,1995-08-16,United Kingdom,United Arab Emirates,+971593251648,aisha.ahmed329@example.com,Single,Retail,2026-11-24,Agent,Active,False,Not Selected
+CUST00330,Omar Rahman,Male,1975-08-30,Egypt,United Arab Emirates,+971520518444,omar.rahman330@example.com,Divorced,SME,2024-03-28,Web,Closed,False,Not Selected
+CUST00331,Rafi Fernandez,Male,2002-08-13,Pakistan,United Arab Emirates,+971562089786,rafi.fernandez331@example.com,Divorced,SME,2024-05-17,Branch,Inactive,False,Not Selected
+CUST00332,Aisha Ahmed,Female,2005-01-24,Pakistan,United Arab Emirates,+971565625517,aisha.ahmed332@example.com,Single,Salary,2026-05-09,Mobile App,Suspended,False,Not Selected
+CUST00333,Rafi Ahmed,Male,1985-06-04,Sri Lanka,United Arab Emirates,+971561411224,rafi.ahmed333@example.com,Divorced,SME,2026-04-21,Agent,Active,False,Not Selected
+CUST00334,Anjali Rafi,Female,1997-09-25,India,United Arab Emirates,+971563122402,anjali.rafi334@example.com,Married,Salary,2026-04-02,Mobile App,Active,False,Not Selected
+CUST00335,Priya Khan,Female,1985-02-26,Sri Lanka,United Arab Emirates,+971547627490,priya.khan335@example.com,Married,Retail,2025-09-12,Web,Active,False,Not Selected
+CUST00336,Priya Thomas,Female,2002-09-10,United Kingdom,United Arab Emirates,+971596644900,priya.thomas336@example.com,Single,Salary,2026-05-03,Agent,Active,False,Not Selected
+CUST00337,Grace Ahmed,Female,1986-10-10,United Arab Emirates,United Arab Emirates,+971531336920,grace.ahmed337@example.com,Single,Student,2024-04-25,Agent,Active,False,Not Selected
+CUST00338,Ali Rahman,Male,1979-01-02,Bangladesh,United Arab Emirates,+971514438720,ali.rahman338@example.com,Married,Retail,2024-04-28,Branch,Active,False,Not Selected
+CUST00339,Priya Nair,Female,1992-08-28,Pakistan,United Arab Emirates,+971514102122,priya.nair339@example.com,Single,Student,2026-03-23,Agent,Active,False,Not Selected
+CUST00340,Khalid Ahmed,Male,1985-09-09,Philippines,United Arab Emirates,+971544716747,khalid.ahmed340@example.com,Divorced,Retail,2025-12-06,Branch,Active,False,Not Selected
+CUST00341,Ali Rahman,Male,1979-12-06,Bangladesh,United Arab Emirates,+971546115786,ali.rahman341@example.com,Divorced,SME,2025-04-06,Mobile App,Inactive,False,Not Selected
+CUST00342,Khalid Rafi,Male,1999-01-15,United Kingdom,United Arab Emirates,+971511135982,khalid.rafi342@example.com,Single,Student,2024-12-20,Branch,Active,False,Not Selected
+CUST00343,Anjali Hussain,Female,1985-08-23,Sri Lanka,United Arab Emirates,+971539287523,anjali.hussain343@example.com,Married,Student,2026-07-29,Agent,Active,False,Not Selected
+CUST00344,Bilal Ahmed,Male,1999-01-15,Sri Lanka,United Arab Emirates,+971524509544,bilal.ahmed344@example.com,Married,Retail,2025-08-01,Branch,Closed,False,Not Selected
+CUST00345,Noura Thomas,Female,1999-06-07,Bangladesh,United Arab Emirates,+971530123169,noura.thomas345@example.com,Divorced,Salary,2025-09-03,Mobile App,Active,False,Not Selected
+CUST00346,Priya Rafi,Female,2002-05-10,Jordan,United Arab Emirates,+971549675382,priya.rafi346@example.com,Married,SME,2024-02-22,Agent,Active,False,Not Selected
+CUST00347,Omar Fernandez,Male,2002-08-04,United Arab Emirates,United Arab Emirates,+971595672999,omar.fernandez347@example.com,Married,Student,2025-03-31,Branch,Inactive,False,Not Selected
+CUST00348,Rafi Ali,Male,1991-02-13,Sri Lanka,United Arab Emirates,+971585031958,rafi.ali348@example.com,Single,Student,2024-09-19,Mobile App,Active,False,Not Selected
+CUST00349,Rafi Hussain,Male,2005-05-09,Nepal,United Arab Emirates,+971544971668,rafi.hussain349@example.com,Divorced,Student,2025-11-09,Agent,Inactive,False,Not Selected
+CUST00350,Aisha Ali,Female,1991-03-08,United Arab Emirates,United Arab Emirates,+971526081422,aisha.ali350@example.com,Divorced,SME,2025-02-02,Branch,Active,False,Not Selected
+CUST00351,Ali Rahman,Male,1985-05-16,United Kingdom,United Arab Emirates,+971571414198,ali.rahman351@example.com,Single,Student,2026-04-18,Web,Active,False,Not Selected
+CUST00352,Priya Rafi,Female,1984-01-22,India,United Arab Emirates,+971570673557,priya.rafi352@example.com,Married,Salary,2024-04-28,Web,Active,False,Not Selected
+CUST00353,Khalid Ali,Male,1975-10-22,Egypt,United Arab Emirates,+971564142556,khalid.ali353@example.com,Married,SME,2026-06-07,Agent,Active,False,Not Selected
+CUST00354,Bilal Khan,Male,1984-06-15,Bangladesh,United Arab Emirates,+971512404661,bilal.khan354@example.com,Divorced,Retail,2026-12-23,Web,Active,False,Not Selected
+CUST00355,Noura Rafi,Female,1974-08-10,United Arab Emirates,United Arab Emirates,+971589010042,noura.rafi355@example.com,Married,Salary,2026-02-24,Mobile App,Inactive,False,Not Selected
+CUST00356,Noura Nair,Female,2002-08-25,United Kingdom,United Arab Emirates,+971580345879,noura.nair356@example.com,Married,SME,2026-12-01,Web,Active,False,Not Selected
+CUST00357,Priya Rahman,Female,1977-05-25,India,United Arab Emirates,+971540657783,priya.rahman357@example.com,Single,Salary,2026-04-06,Web,Active,False,Not Selected
+CUST00358,Ahmed Fernandez,Male,2001-11-24,Egypt,United Arab Emirates,+971595942441,ahmed.fernandez358@example.com,Married,Premium,2024-03-17,Mobile App,Active,False,Not Selected
+CUST00359,Ahmed Khan,Male,1972-03-01,Egypt,United Arab Emirates,+971569634854,ahmed.khan359@example.com,Married,Retail,2024-08-25,Branch,Active,False,Not Selected
+CUST00360,Omar Khan,Male,1983-07-05,Pakistan,United Arab Emirates,+971598916958,omar.khan360@example.com,Divorced,Student,2026-05-11,Web,Active,False,Not Selected
+CUST00361,Ahmed Thomas,Male,1975-02-11,Jordan,United Arab Emirates,+971536661903,ahmed.thomas361@example.com,Divorced,Salary,2024-08-05,Branch,Inactive,False,Not Selected
+CUST00362,Bilal Hussain,Male,1983-04-02,India,United Arab Emirates,+971583569939,bilal.hussain362@example.com,Married,Salary,2024-11-24,Agent,Active,False,Not Selected
+CUST00363,Mohamed Ali,Male,1974-12-15,Philippines,United Arab Emirates,+971522090691,mohamed.ali363@example.com,Divorced,Retail,2026-10-08,Mobile App,Inactive,False,Not Selected
+CUST00364,Khalid Thomas,Male,1981-11-06,India,United Arab Emirates,+971523396125,khalid.thomas364@example.com,Single,Retail,2026-08-08,Branch,Active,False,Not Selected
+CUST00365,Anjali Ali,Female,1974-04-06,India,United Arab Emirates,+971528574987,anjali.ali365@example.com,Divorced,Salary,2024-04-03,Branch,Active,False,Not Selected
+CUST00366,Noura Ali,Female,1986-09-19,Philippines,United Arab Emirates,+971525278272,noura.ali366@example.com,Married,SME,2025-12-02,Agent,Active,False,Not Selected
+CUST00367,Grace Hussain,Female,1999-02-08,Pakistan,United Arab Emirates,+971527785402,grace.hussain367@example.com,Divorced,Retail,2024-12-07,Web,Active,False,Not Selected
+CUST00368,Grace Rafi,Female,1997-06-03,Nepal,United Arab Emirates,+971592055138,grace.rafi368@example.com,Single,Salary,2026-02-16,Agent,Suspended,False,Not Selected
+CUST00369,Hassan Nair,Male,1972-01-24,Sri Lanka,United Arab Emirates,+971597909064,hassan.nair369@example.com,Married,Retail,2024-05-09,Web,Closed,False,Not Selected
+CUST00370,Sara Hussain,Female,1999-09-07,Jordan,United Arab Emirates,+971556405710,sara.hussain370@example.com,Divorced,SME,2025-05-24,Web,Inactive,False,Not Selected
+CUST00371,Mohamed Rafi,Male,1992-09-05,Jordan,United Arab Emirates,+971532200132,mohamed.rafi371@example.com,Single,SME,2026-08-19,Branch,Active,False,Not Selected
+CUST00372,Aisha Ahmed,Female,1979-12-28,Egypt,United Arab Emirates,+971541541166,aisha.ahmed372@example.com,Single,SME,2026-02-14,Agent,Active,False,Not Selected
+CUST00373,Sara Nair,Female,1990-01-20,Pakistan,United Arab Emirates,+971576756320,sara.nair373@example.com,Divorced,Retail,2025-10-09,Mobile App,Active,False,Not Selected
+CUST00374,Mohamed Ali,Male,2005-07-08,United Arab Emirates,United Arab Emirates,+971585475000,mohamed.ali374@example.com,Single,SME,2025-09-15,Branch,Active,False,Not Selected
+CUST00375,Omar Nair,Male,1984-11-22,Nepal,United Arab Emirates,+971570737878,omar.nair375@example.com,Single,Retail,2026-08-26,Web,Active,False,Not Selected
+CUST00376,Noura Ahmed,Female,1993-06-01,Pakistan,United Arab Emirates,+971516144233,noura.ahmed376@example.com,Single,SME,2026-02-04,Web,Inactive,False,Not Selected
+CUST00377,Sara Thomas,Female,1997-05-27,Bangladesh,United Arab Emirates,+971526206227,sara.thomas377@example.com,Married,Salary,2025-02-05,Agent,Inactive,False,Not Selected
+CUST00378,Bilal Ali,Male,2003-12-19,India,United Arab Emirates,+971594992096,bilal.ali378@example.com,Divorced,Premium,2026-04-28,Mobile App,Active,False,Not Selected
+CUST00379,Grace Ahmed,Female,1976-01-15,India,United Arab Emirates,+971581184297,grace.ahmed379@example.com,Divorced,Retail,2026-10-18,Agent,Inactive,False,Not Selected
+CUST00380,Fatima Rafi,Female,2002-10-08,Pakistan,United Arab Emirates,+971561996696,fatima.rafi380@example.com,Divorced,Premium,2024-09-19,Branch,Active,False,Not Selected
+CUST00381,Anjali Rahman,Female,1982-04-10,Nepal,United Arab Emirates,+971549483304,anjali.rahman381@example.com,Married,Salary,2026-03-25,Web,Active,False,Not Selected
+CUST00382,Priya Ahmed,Female,1998-05-18,Bangladesh,United Arab Emirates,+971538147161,priya.ahmed382@example.com,Divorced,Student,2025-03-21,Branch,Suspended,False,Not Selected
+CUST00383,Ali Ahmed,Male,1994-05-03,Pakistan,United Arab Emirates,+971557276557,ali.ahmed383@example.com,Divorced,SME,2025-10-22,Agent,Active,False,Not Selected
+CUST00384,Anjali Khan,Female,1993-06-13,India,United Arab Emirates,+971561119548,anjali.khan384@example.com,Single,Retail,2024-08-06,Mobile App,Active,False,Not Selected
+CUST00385,Rafi Thomas,Male,1976-07-27,Sri Lanka,United Arab Emirates,+971537380537,rafi.thomas385@example.com,Divorced,Retail,2024-05-07,Branch,Active,False,Not Selected
+CUST00386,Omar Ahmed,Male,1987-06-12,United Arab Emirates,United Arab Emirates,+971548606206,omar.ahmed386@example.com,Divorced,Retail,2025-05-01,Agent,Active,False,Not Selected
+CUST00387,Aisha Khan,Female,2003-05-12,Bangladesh,United Arab Emirates,+971593290380,aisha.khan387@example.com,Married,Salary,2025-05-29,Branch,Active,False,Not Selected
+CUST00388,Omar Thomas,Male,1990-02-18,Pakistan,United Arab Emirates,+971535095571,omar.thomas388@example.com,Single,Premium,2024-12-29,Mobile App,Active,False,Not Selected
+CUST00389,Noura Ahmed,Female,1981-11-08,Philippines,United Arab Emirates,+971588381281,noura.ahmed389@example.com,Married,Retail,2024-09-23,Branch,Active,False,Not Selected
+CUST00390,Mohamed Rafi,Male,1984-06-21,United Kingdom,United Arab Emirates,+971598837400,mohamed.rafi390@example.com,Married,SME,2024-04-14,Branch,Active,False,Not Selected
+CUST00391,Mariam Rafi,Female,1993-05-09,United Arab Emirates,United Arab Emirates,+971531390345,mariam.rafi391@example.com,Married,Premium,2024-05-19,Agent,Active,False,Not Selected
+CUST00392,Omar Fernandez,Male,1984-11-07,Sri Lanka,United Arab Emirates,+971539319229,omar.fernandez392@example.com,Divorced,Premium,2026-01-08,Agent,Closed,False,Not Selected
+CUST00393,Ahmed Fernandez,Male,1989-12-28,United Kingdom,United Arab Emirates,+971593366885,ahmed.fernandez393@example.com,Single,Retail,2025-05-07,Branch,Active,False,Not Selected
+CUST00394,Hassan Thomas,Male,1994-03-27,India,United Arab Emirates,+971579372824,hassan.thomas394@example.com,Married,Premium,2025-08-02,Agent,Active,False,Not Selected
+CUST00395,Mariam Fernandez,Female,1993-01-19,Pakistan,United Arab Emirates,+971532467350,mariam.fernandez395@example.com,Divorced,Premium,2024-06-17,Mobile App,Active,False,Not Selected
+CUST00396,Omar Hussain,Male,1974-08-30,United Arab Emirates,United Arab Emirates,+971568416623,omar.hussain396@example.com,Divorced,Retail,2025-02-25,Web,Active,False,Not Selected
+CUST00397,Aisha Ali,Female,1973-04-15,Philippines,United Arab Emirates,+971543810519,aisha.ali397@example.com,Divorced,Retail,2024-04-21,Web,Inactive,False,Not Selected
+CUST00398,Anjali Nair,Female,1998-04-09,Egypt,United Arab Emirates,+971552467059,anjali.nair398@example.com,Single,SME,2026-04-08,Mobile App,Active,False,Not Selected
+CUST00399,Mohamed Ali,Male,1986-01-17,Pakistan,United Arab Emirates,+971548901209,mohamed.ali399@example.com,Divorced,Student,2026-10-26,Mobile App,Active,False,Not Selected
+CUST00400,Anjali Hussain,Female,1999-08-22,Jordan,United Arab Emirates,+971530981381,anjali.hussain400@example.com,Divorced,Salary,2024-03-04,Web,Active,False,Not Selected
+CUST00401,Fatima Thomas,Female,2000-05-19,India,United Arab Emirates,+971584292758,fatima.thomas401@example.com,Divorced,Salary,2026-02-03,Mobile App,Active,False,Not Selected
+CUST00402,Sara Thomas,Female,1979-06-04,Bangladesh,United Arab Emirates,+971565385548,sara.thomas402@example.com,Divorced,Premium,2025-12-05,Web,Active,False,Not Selected
+CUST00403,Rafi Rahman,Male,1975-02-21,United Kingdom,United Arab Emirates,+971517299874,rafi.rahman403@example.com,Divorced,SME,2025-01-06,Mobile App,Active,False,Not Selected
+CUST00404,Rafi Ali,Male,1978-11-09,Nepal,United Arab Emirates,+971557934299,rafi.ali404@example.com,Single,Salary,2026-09-24,Mobile App,Active,False,Not Selected
+CUST00405,Omar Fernandez,Male,1991-10-18,Nepal,United Arab Emirates,+971592724080,omar.fernandez405@example.com,Divorced,Student,2026-07-11,Web,Active,False,Not Selected
+CUST00406,Priya Hussain,Female,1977-07-25,Nepal,United Arab Emirates,+971543041067,priya.hussain406@example.com,Single,SME,2024-01-10,Branch,Inactive,False,Not Selected
+CUST00407,Bilal Nair,Male,1990-10-06,Nepal,United Arab Emirates,+971550999730,bilal.nair407@example.com,Married,Premium,2026-07-01,Mobile App,Active,False,Not Selected
+CUST00408,Rafi Rafi,Male,1994-02-28,Sri Lanka,United Arab Emirates,+971594103363,rafi.rafi408@example.com,Single,Retail,2025-02-06,Mobile App,Inactive,False,Not Selected
+CUST00409,Hassan Rahman,Male,1971-08-24,United Arab Emirates,United Arab Emirates,+971582434236,hassan.rahman409@example.com,Married,Salary,2025-06-17,Branch,Active,False,Not Selected
+CUST00410,Fatima Nair,Female,1992-06-24,Pakistan,United Arab Emirates,+971563255602,fatima.nair410@example.com,Married,Premium,2026-11-11,Mobile App,Active,False,Not Selected
+CUST00411,Ali Nair,Male,1977-02-21,United Kingdom,United Arab Emirates,+971585942072,ali.nair411@example.com,Divorced,Salary,2025-01-01,Agent,Suspended,False,Not Selected
+CUST00412,Omar Nair,Male,1980-05-24,Sri Lanka,United Arab Emirates,+971559584751,omar.nair412@example.com,Single,Retail,2024-05-08,Web,Active,False,Not Selected
+CUST00413,Anjali Nair,Female,1990-05-24,India,United Arab Emirates,+971597043518,anjali.nair413@example.com,Married,Retail,2024-04-05,Branch,Inactive,False,Not Selected
+CUST00414,Fatima Hussain,Female,1999-04-28,Nepal,United Arab Emirates,+971588876916,fatima.hussain414@example.com,Divorced,Retail,2026-02-14,Branch,Active,False,Not Selected
+CUST00415,Hassan Fernandez,Male,1985-06-24,Jordan,United Arab Emirates,+971591095825,hassan.fernandez415@example.com,Single,Premium,2026-09-24,Web,Active,False,Not Selected
+CUST00416,Ahmed Ahmed,Male,1998-11-12,Bangladesh,United Arab Emirates,+971530164926,ahmed.ahmed416@example.com,Single,Salary,2025-07-29,Branch,Active,False,Not Selected
+CUST00417,Omar Hussain,Male,1984-10-24,Jordan,United Arab Emirates,+971574265413,omar.hussain417@example.com,Married,Salary,2024-08-20,Web,Active,False,Not Selected
+CUST00418,Aisha Rahman,Female,1971-12-08,United Kingdom,United Arab Emirates,+971589503557,aisha.rahman418@example.com,Single,Salary,2024-09-18,Mobile App,Inactive,False,Not Selected
+CUST00419,Mohamed Rafi,Male,1981-08-02,United Arab Emirates,United Arab Emirates,+971564419425,mohamed.rafi419@example.com,Divorced,Premium,2025-01-03,Mobile App,Inactive,False,Not Selected
+CUST00420,Sara Rahman,Female,1990-02-24,Jordan,United Arab Emirates,+971532893086,sara.rahman420@example.com,Single,SME,2026-08-23,Web,Active,False,Not Selected
+CUST00421,Rafi Rafi,Male,2002-06-27,Jordan,United Arab Emirates,+971590065352,rafi.rafi421@example.com,Divorced,Retail,2025-12-02,Web,Active,False,Not Selected
+CUST00422,Ahmed Khan,Male,1979-01-29,United Arab Emirates,United Arab Emirates,+971566343932,ahmed.khan422@example.com,Single,Premium,2026-12-06,Mobile App,Active,False,Not Selected
+CUST00423,Ahmed Ali,Male,1991-08-20,United Kingdom,United Arab Emirates,+971582381739,ahmed.ali423@example.com,Single,SME,2024-09-23,Agent,Active,False,Not Selected
+CUST00424,Hassan Rahman,Male,2005-12-27,Egypt,United Arab Emirates,+971557045704,hassan.rahman424@example.com,Divorced,Premium,2026-09-14,Mobile App,Active,False,Not Selected
+CUST00425,Grace Rahman,Female,1973-10-05,United Kingdom,United Arab Emirates,+971582978342,grace.rahman425@example.com,Married,Student,2025-08-03,Web,Active,False,Not Selected
+CUST00426,Ahmed Ahmed,Male,1970-04-28,Bangladesh,United Arab Emirates,+971552399610,ahmed.ahmed426@example.com,Married,Student,2026-02-07,Mobile App,Active,False,Not Selected
+CUST00427,Noura Ahmed,Female,1988-12-31,United Kingdom,United Arab Emirates,+971546985109,noura.ahmed427@example.com,Divorced,SME,2026-01-18,Web,Active,False,Not Selected
+CUST00428,Fatima Fernandez,Female,1995-01-30,Sri Lanka,United Arab Emirates,+971551158280,fatima.fernandez428@example.com,Divorced,Student,2026-09-17,Agent,Active,False,Not Selected
+CUST00429,Omar Nair,Male,2005-02-16,Pakistan,United Arab Emirates,+971538784084,omar.nair429@example.com,Divorced,SME,2024-11-27,Branch,Active,False,Not Selected
+CUST00430,Ali Hussain,Male,1998-07-11,Pakistan,United Arab Emirates,+971529505652,ali.hussain430@example.com,Married,Premium,2024-01-11,Agent,Active,False,Not Selected
+CUST00431,Mariam Fernandez,Female,1973-08-04,Egypt,United Arab Emirates,+971563773642,mariam.fernandez431@example.com,Divorced,Premium,2024-03-18,Branch,Active,False,Not Selected
+CUST00432,Ali Nair,Male,1989-09-10,Bangladesh,United Arab Emirates,+971598165507,ali.nair432@example.com,Divorced,Student,2024-01-22,Web,Active,False,Not Selected
+CUST00433,Ali Khan,Male,1986-02-19,India,United Arab Emirates,+971531131878,ali.khan433@example.com,Single,Student,2025-05-04,Agent,Active,False,Not Selected
+CUST00434,Anjali Rahman,Female,1993-03-23,Pakistan,United Arab Emirates,+971522101856,anjali.rahman434@example.com,Divorced,Student,2024-02-01,Branch,Active,False,Not Selected
+CUST00435,Mariam Rahman,Female,1990-05-26,United Kingdom,United Arab Emirates,+971510624307,mariam.rahman435@example.com,Married,Salary,2026-04-07,Agent,Active,False,Not Selected
+CUST00436,Rafi Fernandez,Male,1975-04-02,Sri Lanka,United Arab Emirates,+971582196170,rafi.fernandez436@example.com,Divorced,Student,2026-11-17,Agent,Suspended,False,Not Selected
+CUST00437,Mariam Fernandez,Female,2004-10-16,Jordan,United Arab Emirates,+971588762521,mariam.fernandez437@example.com,Single,SME,2026-07-28,Mobile App,Active,False,Not Selected
+CUST00438,Mariam Rahman,Female,2005-11-22,Egypt,United Arab Emirates,+971557391778,mariam.rahman438@example.com,Divorced,Premium,2025-10-08,Mobile App,Active,False,Not Selected
+CUST00439,Mariam Thomas,Female,1974-03-04,Nepal,United Arab Emirates,+971520204415,mariam.thomas439@example.com,Divorced,Salary,2026-03-28,Agent,Active,False,Not Selected
+CUST00440,Rafi Rafi,Male,2003-06-22,Jordan,United Arab Emirates,+971536798789,rafi.rafi440@example.com,Single,Salary,2025-01-24,Branch,Active,False,Not Selected
+CUST00441,Omar Fernandez,Male,1976-12-30,Pakistan,United Arab Emirates,+971520534423,omar.fernandez441@example.com,Divorced,SME,2024-08-06,Mobile App,Active,False,Not Selected
+CUST00442,Khalid Fernandez,Male,1997-11-04,Jordan,United Arab Emirates,+971587110685,khalid.fernandez442@example.com,Married,SME,2025-10-07,Web,Closed,False,Not Selected
+CUST00443,Anjali Rahman,Female,2003-08-26,India,United Arab Emirates,+971580563016,anjali.rahman443@example.com,Married,SME,2024-09-19,Mobile App,Active,False,Not Selected
+CUST00444,Fatima Nair,Female,1975-05-27,Jordan,United Arab Emirates,+971552365995,fatima.nair444@example.com,Divorced,Retail,2026-11-27,Mobile App,Active,False,Not Selected
+CUST00445,Sara Fernandez,Female,1986-03-22,Philippines,United Arab Emirates,+971583626933,sara.fernandez445@example.com,Married,Salary,2025-06-15,Branch,Active,False,Not Selected
+CUST00446,Priya Rafi,Female,1992-05-16,Bangladesh,United Arab Emirates,+971566249702,priya.rafi446@example.com,Divorced,Student,2026-05-18,Branch,Inactive,False,Not Selected
+CUST00447,Grace Rafi,Female,1995-08-19,United Kingdom,United Arab Emirates,+971540677709,grace.rafi447@example.com,Single,Student,2024-09-25,Web,Active,False,Not Selected
+CUST00448,Mariam Rafi,Female,2005-11-20,Jordan,United Arab Emirates,+971511307588,mariam.rafi448@example.com,Single,SME,2024-11-02,Agent,Active,False,Not Selected
+CUST00449,Grace Thomas,Female,1981-04-04,Egypt,United Arab Emirates,+971523284172,grace.thomas449@example.com,Divorced,Salary,2024-04-07,Mobile App,Active,False,Not Selected
+CUST00450,Grace Ali,Female,1990-03-07,Sri Lanka,United Arab Emirates,+971558447502,grace.ali450@example.com,Married,Premium,2025-11-16,Branch,Active,False,Not Selected
+CUST00451,Sara Fernandez,Female,2000-06-26,United Kingdom,United Arab Emirates,+971587295245,sara.fernandez451@example.com,Divorced,Premium,2025-02-11,Web,Closed,False,Not Selected
+CUST00452,Priya Fernandez,Female,2000-03-13,Jordan,United Arab Emirates,+971569985944,priya.fernandez452@example.com,Single,SME,2026-11-11,Branch,Active,False,Not Selected
+CUST00453,Ali Fernandez,Male,1988-12-03,Pakistan,United Arab Emirates,+971520618223,ali.fernandez453@example.com,Single,Student,2026-04-08,Web,Active,False,Not Selected
+CUST00454,Noura Hussain,Female,1982-03-03,Nepal,United Arab Emirates,+971588775038,noura.hussain454@example.com,Divorced,SME,2026-06-30,Agent,Active,False,Not Selected
+CUST00455,Ali Rahman,Male,1999-09-12,Pakistan,United Arab Emirates,+971538262427,ali.rahman455@example.com,Single,SME,2025-05-30,Mobile App,Active,False,Not Selected
+CUST00456,Aisha Khan,Female,2004-07-31,United Arab Emirates,United Arab Emirates,+971521173787,aisha.khan456@example.com,Single,Student,2026-03-24,Web,Active,False,Not Selected
+CUST00457,Noura Rahman,Female,1981-02-05,Jordan,United Arab Emirates,+971594084814,noura.rahman457@example.com,Single,Salary,2025-08-04,Web,Active,False,Not Selected
+CUST00458,Priya Nair,Female,1990-12-16,United Arab Emirates,United Arab Emirates,+971569706076,priya.nair458@example.com,Single,Premium,2025-07-11,Web,Active,False,Not Selected
+CUST00459,Anjali Ahmed,Female,1998-09-13,Sri Lanka,United Arab Emirates,+971556596140,anjali.ahmed459@example.com,Married,Premium,2026-12-29,Web,Active,False,Not Selected
+CUST00460,Noura Fernandez,Female,1988-06-28,Philippines,United Arab Emirates,+971550744867,noura.fernandez460@example.com,Single,Retail,2025-06-16,Web,Active,False,Not Selected
+CUST00461,Aisha Nair,Female,2003-11-21,Sri Lanka,United Arab Emirates,+971511225756,aisha.nair461@example.com,Married,Student,2026-09-04,Web,Active,False,Not Selected
+CUST00462,Mariam Hussain,Female,1995-02-23,Egypt,United Arab Emirates,+971543540489,mariam.hussain462@example.com,Single,SME,2026-06-14,Agent,Active,False,Not Selected
+CUST00463,Hassan Rahman,Male,1993-03-05,Sri Lanka,United Arab Emirates,+971597034430,hassan.rahman463@example.com,Divorced,Premium,2025-07-10,Branch,Active,False,Not Selected
+CUST00464,Ali Rafi,Male,1982-12-28,Jordan,United Arab Emirates,+971592910238,ali.rafi464@example.com,Married,Student,2024-08-14,Agent,Active,False,Not Selected
+CUST00465,Ali Khan,Male,1993-12-30,Philippines,United Arab Emirates,+971523726915,ali.khan465@example.com,Married,Student,2024-02-15,Web,Active,False,Not Selected
+CUST00466,Omar Ali,Male,1976-10-04,Jordan,United Arab Emirates,+971539150491,omar.ali466@example.com,Married,SME,2024-01-31,Branch,Active,False,Not Selected
+CUST00467,Priya Nair,Female,2001-04-06,Nepal,United Arab Emirates,+971520767361,priya.nair467@example.com,Single,Retail,2024-03-05,Branch,Active,False,Not Selected
+CUST00468,Khalid Rafi,Male,1978-08-15,Egypt,United Arab Emirates,+971511693222,khalid.rafi468@example.com,Single,Salary,2025-05-27,Agent,Active,False,Not Selected
+CUST00469,Mariam Khan,Female,1978-12-08,Pakistan,United Arab Emirates,+971579946108,mariam.khan469@example.com,Divorced,Salary,2026-08-01,Agent,Active,False,Not Selected
+CUST00470,Priya Rafi,Female,1998-03-23,United Arab Emirates,United Arab Emirates,+971579917538,priya.rafi470@example.com,Single,Student,2024-03-27,Agent,Active,False,Not Selected
+CUST00471,Bilal Khan,Male,1999-11-28,Pakistan,United Arab Emirates,+971541670798,bilal.khan471@example.com,Divorced,SME,2025-03-22,Branch,Active,False,Not Selected
+CUST00472,Sara Hussain,Female,2005-05-26,India,United Arab Emirates,+971515636254,sara.hussain472@example.com,Divorced,SME,2025-05-12,Web,Active,False,Not Selected
+CUST00473,Omar Rafi,Male,1992-06-04,United Kingdom,United Arab Emirates,+971555422244,omar.rafi473@example.com,Divorced,Retail,2024-07-06,Mobile App,Active,False,Not Selected
+CUST00474,Ahmed Rafi,Male,1991-11-19,Nepal,United Arab Emirates,+971584940527,ahmed.rafi474@example.com,Divorced,Student,2025-04-21,Agent,Active,False,Not Selected
+CUST00475,Hassan Fernandez,Male,2002-06-30,Sri Lanka,United Arab Emirates,+971515300062,hassan.fernandez475@example.com,Married,SME,2024-10-02,Branch,Active,False,Not Selected
+CUST00476,Mariam Rafi,Female,1994-05-21,Nepal,United Arab Emirates,+971572866875,mariam.rafi476@example.com,Married,Premium,2025-12-13,Web,Active,False,Not Selected
+CUST00477,Khalid Thomas,Male,1981-10-24,Jordan,United Arab Emirates,+971510096613,khalid.thomas477@example.com,Divorced,Premium,2026-01-21,Agent,Active,False,Not Selected
+CUST00478,Bilal Rahman,Male,1984-05-21,United Arab Emirates,United Arab Emirates,+971562008140,bilal.rahman478@example.com,Single,Premium,2024-05-09,Agent,Active,False,Not Selected
+CUST00479,Rafi Fernandez,Male,1988-05-20,Pakistan,United Arab Emirates,+971522919301,rafi.fernandez479@example.com,Divorced,Retail,2025-10-21,Mobile App,Inactive,False,Not Selected
+CUST00480,Ali Khan,Male,1979-01-24,Jordan,United Arab Emirates,+971535718350,ali.khan480@example.com,Single,Retail,2024-08-07,Agent,Active,False,Not Selected
+CUST00481,Aisha Fernandez,Female,1979-11-26,India,United Arab Emirates,+971538016352,aisha.fernandez481@example.com,Divorced,SME,2024-05-25,Mobile App,Active,False,Not Selected
+CUST00482,Bilal Ahmed,Male,2003-05-09,Nepal,United Arab Emirates,+971517824896,bilal.ahmed482@example.com,Divorced,Student,2026-05-01,Mobile App,Active,False,Not Selected
+CUST00483,Sara Rahman,Female,1993-04-21,Pakistan,United Arab Emirates,+971541006711,sara.rahman483@example.com,Divorced,SME,2024-07-17,Web,Active,False,Not Selected
+CUST00484,Ali Ahmed,Male,2003-08-10,Pakistan,United Arab Emirates,+971595714702,ali.ahmed484@example.com,Divorced,Student,2026-04-30,Agent,Active,False,Not Selected
+CUST00485,Sara Rafi,Female,2005-07-19,United Arab Emirates,United Arab Emirates,+971563896091,sara.rafi485@example.com,Divorced,Student,2025-01-04,Web,Active,False,Not Selected
+CUST00486,Priya Fernandez,Female,1994-09-04,Nepal,United Arab Emirates,+971565343779,priya.fernandez486@example.com,Divorced,SME,2025-10-26,Branch,Active,False,Not Selected
+CUST00487,Hassan Ahmed,Male,2003-05-27,Nepal,United Arab Emirates,+971570720566,hassan.ahmed487@example.com,Married,SME,2025-06-04,Mobile App,Active,False,Not Selected
+CUST00488,Aisha Ahmed,Female,1976-01-23,India,United Arab Emirates,+971550310141,aisha.ahmed488@example.com,Single,Salary,2025-09-10,Branch,Active,False,Not Selected
+CUST00489,Fatima Ali,Female,1971-09-11,Nepal,United Arab Emirates,+971530952341,fatima.ali489@example.com,Single,Student,2026-07-31,Branch,Inactive,False,Not Selected
+CUST00490,Omar Thomas,Male,1983-06-22,United Kingdom,United Arab Emirates,+971563660012,omar.thomas490@example.com,Divorced,Salary,2024-07-07,Mobile App,Active,False,Not Selected
+CUST00491,Fatima Nair,Female,2000-12-07,United Kingdom,United Arab Emirates,+971596201956,fatima.nair491@example.com,Married,Retail,2024-07-14,Agent,Active,False,Not Selected
+CUST00492,Bilal Fernandez,Male,1989-06-25,Pakistan,United Arab Emirates,+971540429530,bilal.fernandez492@example.com,Divorced,Premium,2026-05-03,Mobile App,Active,False,Not Selected
+CUST00493,Aisha Thomas,Female,1993-07-10,Nepal,United Arab Emirates,+971582468141,aisha.thomas493@example.com,Divorced,Salary,2024-03-25,Branch,Active,False,Not Selected
+CUST00494,Ali Khan,Male,2000-03-20,Jordan,United Arab Emirates,+971589877290,ali.khan494@example.com,Divorced,Premium,2026-03-15,Mobile App,Active,False,Not Selected
+CUST00495,Anjali Rafi,Female,1975-12-06,Pakistan,United Arab Emirates,+971573868130,anjali.rafi495@example.com,Divorced,Retail,2025-11-19,Agent,Active,False,Not Selected
+CUST00496,Anjali Rafi,Female,2004-03-08,Jordan,United Arab Emirates,+971585067462,anjali.rafi496@example.com,Single,SME,2024-10-03,Agent,Active,False,Not Selected
+CUST00497,Omar Rahman,Male,1973-03-19,Egypt,United Arab Emirates,+971553407575,omar.rahman497@example.com,Divorced,Premium,2025-06-29,Mobile App,Active,False,Not Selected
+CUST00498,Anjali Fernandez,Female,1985-08-16,Nepal,United Arab Emirates,+971556241350,anjali.fernandez498@example.com,Divorced,Retail,2025-01-25,Branch,Active,False,Not Selected
+CUST00499,Grace Rafi,Female,1989-10-04,Bangladesh,United Arab Emirates,+971536801295,grace.rafi499@example.com,Divorced,Student,2024-04-01,Web,Active,False,Not Selected
+CUST00500,Ahmed Khan,Male,1980-11-26,Sri Lanka,United Arab Emirates,+971511843251,ahmed.khan500@example.com,Married,Retail,2024-10-29,Branch,Active,False,Not Selected
+CUST00501,Bilal Rahman,Male,2003-03-13,Bangladesh,United Arab Emirates,+971583339816,bilal.rahman501@example.com,Divorced,Student,2025-03-09,Agent,Active,False,Not Selected
+CUST00502,Mohamed Hussain,Male,1996-02-25,India,United Arab Emirates,+971544286770,mohamed.hussain502@example.com,Single,Retail,2026-12-14,Branch,Active,False,Not Selected
+CUST00503,Aisha Nair,Female,1999-05-16,Pakistan,United Arab Emirates,+971562163068,aisha.nair503@example.com,Divorced,Student,2024-01-18,Branch,Inactive,False,Not Selected
+CUST00504,Rafi Hussain,Male,1980-05-15,United Arab Emirates,United Arab Emirates,+971523368583,rafi.hussain504@example.com,Married,SME,2026-02-18,Mobile App,Active,False,Not Selected
+CUST00505,Aisha Khan,Female,1981-02-05,Sri Lanka,United Arab Emirates,+971554770958,aisha.khan505@example.com,Married,SME,2026-12-20,Web,Active,False,Not Selected
+CUST00506,Priya Thomas,Female,1980-08-05,Sri Lanka,United Arab Emirates,+971518322800,priya.thomas506@example.com,Divorced,Student,2026-10-23,Agent,Inactive,False,Not Selected
+CUST00507,Rafi Rahman,Male,1976-10-21,Egypt,United Arab Emirates,+971598171888,rafi.rahman507@example.com,Single,Retail,2025-11-30,Agent,Active,False,Not Selected
+CUST00508,Hassan Rahman,Male,1995-09-13,Egypt,United Arab Emirates,+971551927304,hassan.rahman508@example.com,Divorced,Student,2024-11-08,Agent,Active,False,Not Selected
+CUST00509,Ali Ahmed,Male,2000-09-07,Philippines,United Arab Emirates,+971551473062,ali.ahmed509@example.com,Divorced,Premium,2025-02-18,Web,Active,False,Not Selected
+CUST00510,Ali Fernandez,Male,1973-01-16,Pakistan,United Arab Emirates,+971534714210,ali.fernandez510@example.com,Married,Salary,2026-12-27,Mobile App,Active,False,Not Selected
+CUST00511,Anjali Thomas,Female,1989-11-15,Philippines,United Arab Emirates,+971535224021,anjali.thomas511@example.com,Single,Salary,2025-07-14,Web,Active,False,Not Selected
+CUST00512,Mariam Rahman,Female,1980-05-11,Nepal,United Arab Emirates,+971520667011,mariam.rahman512@example.com,Divorced,SME,2024-02-23,Web,Active,False,Not Selected
+CUST00513,Priya Rafi,Female,1987-05-20,Jordan,United Arab Emirates,+971528456645,priya.rafi513@example.com,Single,Salary,2026-10-03,Web,Active,False,Not Selected
+CUST00514,Rafi Hussain,Male,1979-12-26,Bangladesh,United Arab Emirates,+971518876667,rafi.hussain514@example.com,Single,SME,2025-02-19,Agent,Active,False,Not Selected
+CUST00515,Mariam Hussain,Female,1988-02-29,United Kingdom,United Arab Emirates,+971561052956,mariam.hussain515@example.com,Divorced,Student,2024-03-26,Agent,Active,False,Not Selected
+CUST00516,Ahmed Nair,Male,1990-06-30,Bangladesh,United Arab Emirates,+971579619091,ahmed.nair516@example.com,Divorced,SME,2024-03-27,Mobile App,Active,False,Not Selected
+CUST00517,Omar Thomas,Male,1989-09-19,Sri Lanka,United Arab Emirates,+971548374806,omar.thomas517@example.com,Married,Salary,2026-03-26,Agent,Active,False,Not Selected
+CUST00518,Ali Nair,Male,1998-12-25,Pakistan,United Arab Emirates,+971577197151,ali.nair518@example.com,Single,Salary,2026-07-14,Web,Active,False,Not Selected
+CUST00519,Grace Khan,Female,1978-01-09,United Kingdom,United Arab Emirates,+971537102854,grace.khan519@example.com,Married,Retail,2026-07-18,Branch,Active,False,Not Selected
+CUST00520,Ahmed Ali,Male,1975-02-14,Nepal,United Arab Emirates,+971521449650,ahmed.ali520@example.com,Divorced,SME,2026-07-09,Web,Active,False,Not Selected
+CUST00521,Aisha Rafi,Female,1985-01-13,Philippines,United Arab Emirates,+971529408873,aisha.rafi521@example.com,Single,Retail,2024-11-03,Agent,Active,False,Not Selected
+CUST00522,Noura Rafi,Female,1975-04-11,Bangladesh,United Arab Emirates,+971510474177,noura.rafi522@example.com,Divorced,Student,2024-09-26,Mobile App,Active,False,Not Selected
+CUST00523,Aisha Nair,Female,1980-09-02,United Kingdom,United Arab Emirates,+971598512648,aisha.nair523@example.com,Married,SME,2025-03-20,Agent,Active,False,Not Selected
+CUST00524,Omar Ahmed,Male,1982-06-23,India,United Arab Emirates,+971534808803,omar.ahmed524@example.com,Single,Retail,2025-03-01,Branch,Active,False,Not Selected
+CUST00525,Rafi Fernandez,Male,1973-12-07,Pakistan,United Arab Emirates,+971565963010,rafi.fernandez525@example.com,Single,Salary,2024-04-10,Branch,Active,False,Not Selected
+CUST00526,Khalid Fernandez,Male,1971-08-11,Sri Lanka,United Arab Emirates,+971553328415,khalid.fernandez526@example.com,Married,SME,2024-07-09,Mobile App,Active,False,Not Selected
+CUST00527,Rafi Nair,Male,1976-01-14,Sri Lanka,United Arab Emirates,+971554185620,rafi.nair527@example.com,Divorced,SME,2024-09-06,Web,Active,False,Not Selected
+CUST00528,Ahmed Ahmed,Male,1973-12-07,United Kingdom,United Arab Emirates,+971548545627,ahmed.ahmed528@example.com,Married,Premium,2026-09-17,Branch,Active,False,Not Selected
+CUST00529,Fatima Nair,Female,1993-04-24,Jordan,United Arab Emirates,+971534146739,fatima.nair529@example.com,Divorced,Salary,2026-10-16,Branch,Closed,False,Not Selected
+CUST00530,Ahmed Khan,Male,1990-11-08,Bangladesh,United Arab Emirates,+971592585240,ahmed.khan530@example.com,Married,SME,2024-08-29,Mobile App,Active,False,Not Selected
+CUST00531,Mohamed Rahman,Male,2000-12-14,Sri Lanka,United Arab Emirates,+971519104802,mohamed.rahman531@example.com,Married,Student,2025-07-30,Branch,Active,False,Not Selected
+CUST00532,Bilal Fernandez,Male,1987-10-07,Philippines,United Arab Emirates,+971536040330,bilal.fernandez532@example.com,Married,Student,2024-02-29,Agent,Inactive,False,Not Selected
+CUST00533,Ali Nair,Male,1976-12-20,United Arab Emirates,United Arab Emirates,+971554977656,ali.nair533@example.com,Married,SME,2026-08-01,Mobile App,Inactive,False,Not Selected
+CUST00534,Priya Ahmed,Female,1994-01-14,Bangladesh,United Arab Emirates,+971587496999,priya.ahmed534@example.com,Divorced,Student,2024-02-08,Branch,Active,False,Not Selected
+CUST00535,Rafi Khan,Male,1985-03-19,United Arab Emirates,United Arab Emirates,+971532276047,rafi.khan535@example.com,Divorced,Premium,2026-02-07,Agent,Active,False,Not Selected
+CUST00536,Rafi Fernandez,Male,2001-11-04,Sri Lanka,United Arab Emirates,+971565548633,rafi.fernandez536@example.com,Single,SME,2024-03-05,Web,Active,False,Not Selected
+CUST00537,Mariam Ahmed,Female,1983-07-25,Pakistan,United Arab Emirates,+971560226379,mariam.ahmed537@example.com,Single,Salary,2024-12-24,Mobile App,Active,False,Not Selected
+CUST00538,Khalid Ahmed,Male,1976-11-29,Nepal,United Arab Emirates,+971574890505,khalid.ahmed538@example.com,Divorced,Premium,2025-01-24,Branch,Active,False,Not Selected
+CUST00539,Ahmed Ahmed,Male,2000-05-10,Bangladesh,United Arab Emirates,+971514905998,ahmed.ahmed539@example.com,Married,SME,2024-09-28,Mobile App,Active,False,Not Selected
+CUST00540,Ahmed Fernandez,Male,1990-12-11,Pakistan,United Arab Emirates,+971579870757,ahmed.fernandez540@example.com,Divorced,Student,2024-04-04,Mobile App,Active,False,Not Selected
+CUST00541,Mariam Fernandez,Female,1978-12-30,Sri Lanka,United Arab Emirates,+971547131272,mariam.fernandez541@example.com,Divorced,Student,2025-01-29,Agent,Active,False,Not Selected
+CUST00542,Fatima Rafi,Female,1982-04-11,India,United Arab Emirates,+971593610257,fatima.rafi542@example.com,Divorced,Premium,2024-08-22,Mobile App,Active,False,Not Selected
+CUST00543,Priya Thomas,Female,1976-05-08,United Kingdom,United Arab Emirates,+971542859865,priya.thomas543@example.com,Single,Retail,2025-08-03,Branch,Active,False,Not Selected
+CUST00544,Grace Khan,Female,1975-11-02,Jordan,United Arab Emirates,+971516772091,grace.khan544@example.com,Single,SME,2024-02-29,Mobile App,Active,False,Not Selected
+CUST00545,Fatima Nair,Female,1997-08-24,Sri Lanka,United Arab Emirates,+971554604858,fatima.nair545@example.com,Single,Premium,2025-12-29,Mobile App,Closed,False,Not Selected
+CUST00546,Fatima Ali,Female,2005-12-28,Pakistan,United Arab Emirates,+971571147472,fatima.ali546@example.com,Married,SME,2026-08-17,Agent,Active,False,Not Selected
+CUST00547,Ali Thomas,Male,1986-04-21,Philippines,United Arab Emirates,+971599279031,ali.thomas547@example.com,Married,Student,2026-03-13,Agent,Active,False,Not Selected
+CUST00548,Khalid Ali,Male,1985-10-07,Jordan,United Arab Emirates,+971532924595,khalid.ali548@example.com,Married,Student,2026-09-07,Web,Active,False,Not Selected
+CUST00549,Sara Fernandez,Female,1994-12-12,Sri Lanka,United Arab Emirates,+971581503899,sara.fernandez549@example.com,Married,SME,2024-05-25,Agent,Active,False,Not Selected
+CUST00550,Ali Nair,Male,1987-03-21,Nepal,United Arab Emirates,+971537949250,ali.nair550@example.com,Divorced,Premium,2024-05-15,Agent,Active,False,Not Selected
+CUST00551,Priya Ahmed,Female,2001-02-19,Philippines,United Arab Emirates,+971598934311,priya.ahmed551@example.com,Divorced,Retail,2025-04-28,Agent,Active,False,Not Selected
+CUST00552,Priya Ahmed,Female,1974-05-19,Philippines,United Arab Emirates,+971551343854,priya.ahmed552@example.com,Married,Retail,2026-06-30,Mobile App,Active,False,Not Selected
+CUST00553,Priya Nair,Female,1998-12-07,Pakistan,United Arab Emirates,+971539207357,priya.nair553@example.com,Single,Premium,2024-05-05,Mobile App,Active,False,Not Selected
+CUST00554,Khalid Ahmed,Male,1983-01-28,United Kingdom,United Arab Emirates,+971587568641,khalid.ahmed554@example.com,Married,Salary,2026-03-09,Web,Active,False,Not Selected
+CUST00555,Noura Thomas,Female,1989-07-02,Pakistan,United Arab Emirates,+971588212291,noura.thomas555@example.com,Single,Premium,2025-12-06,Agent,Inactive,False,Not Selected
+CUST00556,Aisha Fernandez,Female,1994-08-15,India,United Arab Emirates,+971585165988,aisha.fernandez556@example.com,Married,Retail,2024-04-18,Branch,Inactive,False,Not Selected
+CUST00557,Hassan Hussain,Male,1998-01-17,Egypt,United Arab Emirates,+971564496780,hassan.hussain557@example.com,Married,SME,2025-10-13,Web,Active,False,Not Selected
+CUST00558,Fatima Rahman,Female,1994-12-01,Nepal,United Arab Emirates,+971566000400,fatima.rahman558@example.com,Single,Student,2026-02-26,Web,Active,False,Not Selected
+CUST00559,Mohamed Rafi,Male,2002-05-11,Egypt,United Arab Emirates,+971528223512,mohamed.rafi559@example.com,Single,Salary,2026-09-23,Agent,Inactive,False,Not Selected
+CUST00560,Fatima Nair,Female,1992-11-07,United Arab Emirates,United Arab Emirates,+971570404120,fatima.nair560@example.com,Married,Student,2026-05-18,Web,Active,False,Not Selected
+CUST00561,Khalid Rahman,Male,2001-12-11,Sri Lanka,United Arab Emirates,+971565141717,khalid.rahman561@example.com,Divorced,Premium,2026-10-24,Branch,Active,False,Not Selected
+CUST00562,Khalid Fernandez,Male,1975-01-29,Pakistan,United Arab Emirates,+971529070658,khalid.fernandez562@example.com,Divorced,Premium,2026-09-13,Branch,Active,False,Not Selected
+CUST00563,Ahmed Rahman,Male,1991-03-12,United Arab Emirates,United Arab Emirates,+971587796412,ahmed.rahman563@example.com,Married,Premium,2024-06-08,Mobile App,Inactive,False,Not Selected
+CUST00564,Khalid Nair,Male,1992-12-30,United Kingdom,United Arab Emirates,+971554495054,khalid.nair564@example.com,Married,Student,2026-08-18,Branch,Active,False,Not Selected
+CUST00565,Rafi Thomas,Male,1972-10-03,United Kingdom,United Arab Emirates,+971532693431,rafi.thomas565@example.com,Divorced,Retail,2026-08-27,Branch,Active,False,Not Selected
+CUST00566,Rafi Nair,Male,1973-09-13,United Arab Emirates,United Arab Emirates,+971520316277,rafi.nair566@example.com,Married,Student,2024-09-16,Web,Active,False,Not Selected
+CUST00567,Noura Khan,Female,2003-04-05,United Kingdom,United Arab Emirates,+971533436273,noura.khan567@example.com,Divorced,Salary,2024-08-16,Agent,Active,False,Not Selected
+CUST00568,Rafi Rahman,Male,1991-10-02,United Arab Emirates,United Arab Emirates,+971514441335,rafi.rahman568@example.com,Married,Retail,2025-01-05,Web,Active,False,Not Selected
+CUST00569,Khalid Hussain,Male,2004-07-22,Bangladesh,United Arab Emirates,+971598673262,khalid.hussain569@example.com,Married,Salary,2026-02-23,Web,Active,False,Not Selected
+CUST00570,Aisha Thomas,Female,2003-11-21,India,United Arab Emirates,+971532494944,aisha.thomas570@example.com,Married,SME,2024-08-25,Agent,Active,False,Not Selected
+CUST00571,Hassan Hussain,Male,1991-04-16,Philippines,United Arab Emirates,+971581194737,hassan.hussain571@example.com,Married,Retail,2025-06-21,Branch,Suspended,False,Not Selected
+CUST00572,Anjali Fernandez,Female,1993-10-14,Pakistan,United Arab Emirates,+971581308986,anjali.fernandez572@example.com,Divorced,Student,2024-03-25,Agent,Active,False,Not Selected
+CUST00573,Priya Thomas,Female,1981-12-24,Sri Lanka,United Arab Emirates,+971597824468,priya.thomas573@example.com,Divorced,SME,2024-07-20,Agent,Active,False,Not Selected
+CUST00574,Omar Ahmed,Male,1985-02-19,Nepal,United Arab Emirates,+971583499313,omar.ahmed574@example.com,Single,Retail,2025-01-03,Mobile App,Active,False,Not Selected
+CUST00575,Ahmed Nair,Male,1985-10-08,Sri Lanka,United Arab Emirates,+971543808923,ahmed.nair575@example.com,Single,Retail,2025-03-25,Mobile App,Active,False,Not Selected
+CUST00576,Omar Ali,Male,2001-10-06,Pakistan,United Arab Emirates,+971591159552,omar.ali576@example.com,Single,SME,2024-09-02,Web,Inactive,False,Not Selected
+CUST00577,Rafi Thomas,Male,1990-12-12,Jordan,United Arab Emirates,+971547095573,rafi.thomas577@example.com,Married,Student,2024-06-04,Branch,Active,False,Not Selected
+CUST00578,Rafi Khan,Male,1987-03-04,Nepal,United Arab Emirates,+971518060935,rafi.khan578@example.com,Married,Student,2026-03-06,Web,Active,False,Not Selected
+CUST00579,Mariam Hussain,Female,1978-01-02,Pakistan,United Arab Emirates,+971529310253,mariam.hussain579@example.com,Divorced,SME,2026-10-04,Web,Active,False,Not Selected
+CUST00580,Khalid Thomas,Male,1974-08-20,Pakistan,United Arab Emirates,+971519450582,khalid.thomas580@example.com,Divorced,Student,2024-03-12,Agent,Active,False,Not Selected
+CUST00581,Fatima Khan,Female,1971-09-12,Sri Lanka,United Arab Emirates,+971530348410,fatima.khan581@example.com,Divorced,Student,2026-03-10,Agent,Active,False,Not Selected
+CUST00582,Grace Hussain,Female,1988-02-13,United Arab Emirates,United Arab Emirates,+971540312650,grace.hussain582@example.com,Single,SME,2024-05-23,Agent,Active,False,Not Selected
+CUST00583,Priya Thomas,Female,1987-12-21,Pakistan,United Arab Emirates,+971559037166,priya.thomas583@example.com,Divorced,Student,2024-04-23,Mobile App,Inactive,False,Not Selected
+CUST00584,Mariam Rafi,Female,1994-11-15,Egypt,United Arab Emirates,+971598682228,mariam.rafi584@example.com,Single,Student,2024-03-21,Agent,Inactive,False,Not Selected
+CUST00585,Grace Ali,Female,1998-05-21,Bangladesh,United Arab Emirates,+971528782825,grace.ali585@example.com,Single,Salary,2026-06-15,Mobile App,Active,False,Not Selected
+CUST00586,Khalid Hussain,Male,1972-10-29,Jordan,United Arab Emirates,+971581664219,khalid.hussain586@example.com,Married,Retail,2025-09-22,Mobile App,Active,False,Not Selected
+CUST00587,Aisha Hussain,Female,1975-04-21,United Arab Emirates,United Arab Emirates,+971571521428,aisha.hussain587@example.com,Divorced,Premium,2025-03-09,Web,Active,False,Not Selected
+CUST00588,Ahmed Khan,Male,2002-12-28,Jordan,United Arab Emirates,+971597755782,ahmed.khan588@example.com,Single,SME,2024-10-16,Mobile App,Active,False,Not Selected
+CUST00589,Mohamed Rafi,Male,1998-05-19,Sri Lanka,United Arab Emirates,+971523058343,mohamed.rafi589@example.com,Married,Premium,2024-04-12,Web,Inactive,False,Not Selected
+CUST00590,Ahmed Ali,Male,1992-04-20,Pakistan,United Arab Emirates,+971537198033,ahmed.ali590@example.com,Married,Student,2025-03-27,Agent,Active,False,Not Selected
+CUST00591,Bilal Rahman,Male,2004-04-13,United Kingdom,United Arab Emirates,+971533279749,bilal.rahman591@example.com,Married,Retail,2024-04-03,Mobile App,Active,False,Not Selected
+CUST00592,Fatima Fernandez,Female,1994-10-29,Jordan,United Arab Emirates,+971542701425,fatima.fernandez592@example.com,Divorced,Retail,2024-12-03,Web,Active,False,Not Selected
+CUST00593,Fatima Khan,Female,1991-11-05,India,United Arab Emirates,+971510969588,fatima.khan593@example.com,Single,Retail,2024-06-14,Branch,Active,False,Not Selected
+CUST00594,Fatima Rahman,Female,1976-06-02,United Arab Emirates,United Arab Emirates,+971570454232,fatima.rahman594@example.com,Married,Salary,2025-07-08,Web,Active,False,Not Selected
+CUST00595,Ali Nair,Male,1997-06-15,Sri Lanka,United Arab Emirates,+971556688115,ali.nair595@example.com,Married,Retail,2024-06-29,Web,Active,False,Not Selected
+CUST00596,Bilal Ahmed,Male,1992-10-07,Jordan,United Arab Emirates,+971594082607,bilal.ahmed596@example.com,Divorced,Salary,2025-03-25,Branch,Active,False,Not Selected
+CUST00597,Ali Nair,Male,1992-04-26,Philippines,United Arab Emirates,+971599945021,ali.nair597@example.com,Single,Retail,2024-12-27,Branch,Active,False,Not Selected
+CUST00598,Noura Fernandez,Female,1997-09-01,India,United Arab Emirates,+971524015162,noura.fernandez598@example.com,Divorced,Retail,2026-07-17,Web,Active,False,Not Selected
+CUST00599,Khalid Ahmed,Male,1975-03-17,Bangladesh,United Arab Emirates,+971569702849,khalid.ahmed599@example.com,Divorced,Premium,2024-05-25,Branch,Active,False,Not Selected
+CUST00600,Mariam Ali,Female,1984-08-18,Pakistan,United Arab Emirates,+971541825487,mariam.ali600@example.com,Divorced,SME,2025-04-11,Web,Active,False,Not Selected
+CUST00601,Ahmed Nair,Male,1996-03-31,India,United Arab Emirates,+971568500818,ahmed.nair601@example.com,Single,Salary,2026-09-19,Agent,Active,False,Not Selected
+CUST00602,Fatima Nair,Female,2002-04-16,Nepal,United Arab Emirates,+971546197787,fatima.nair602@example.com,Single,Student,2025-02-01,Web,Active,False,Not Selected
+CUST00603,Rafi Rafi,Male,1974-12-26,Jordan,United Arab Emirates,+971566133052,rafi.rafi603@example.com,Single,Student,2026-08-11,Web,Inactive,False,Not Selected
+CUST00604,Ali Ahmed,Male,1980-04-21,Egypt,United Arab Emirates,+971580030620,ali.ahmed604@example.com,Married,Salary,2024-06-26,Agent,Inactive,False,Not Selected
+CUST00605,Aisha Hussain,Female,2003-01-09,Bangladesh,United Arab Emirates,+971553928918,aisha.hussain605@example.com,Married,Premium,2025-05-20,Web,Inactive,False,Not Selected
+CUST00606,Mohamed Hussain,Male,1971-12-26,Jordan,United Arab Emirates,+971577674770,mohamed.hussain606@example.com,Single,SME,2024-03-23,Agent,Active,False,Not Selected
+CUST00607,Khalid Nair,Male,1980-10-15,United Arab Emirates,United Arab Emirates,+971511667385,khalid.nair607@example.com,Divorced,SME,2024-06-19,Web,Active,False,Not Selected
+CUST00608,Mariam Ali,Female,1970-09-18,Sri Lanka,United Arab Emirates,+971531716808,mariam.ali608@example.com,Divorced,SME,2026-09-09,Mobile App,Closed,False,Not Selected
+CUST00609,Fatima Hussain,Female,1978-04-19,Jordan,United Arab Emirates,+971595013818,fatima.hussain609@example.com,Single,Retail,2026-01-28,Agent,Inactive,False,Not Selected
+CUST00610,Aisha Thomas,Female,1989-02-07,United Kingdom,United Arab Emirates,+971582804407,aisha.thomas610@example.com,Divorced,Salary,2025-07-06,Mobile App,Active,False,Not Selected
+CUST00611,Aisha Ahmed,Female,2000-04-06,India,United Arab Emirates,+971524893677,aisha.ahmed611@example.com,Married,Student,2026-01-15,Agent,Active,False,Not Selected
+CUST00612,Priya Rafi,Female,1999-01-28,United Arab Emirates,United Arab Emirates,+971537476059,priya.rafi612@example.com,Single,Student,2024-05-17,Web,Active,False,Not Selected
+CUST00613,Mariam Rahman,Female,1984-05-17,Sri Lanka,United Arab Emirates,+971577587480,mariam.rahman613@example.com,Divorced,SME,2025-12-23,Branch,Active,False,Not Selected
+CUST00614,Priya Nair,Female,1991-10-24,United Arab Emirates,United Arab Emirates,+971526469781,priya.nair614@example.com,Married,Premium,2026-10-23,Branch,Active,False,Not Selected
+CUST00615,Sara Rahman,Female,1990-07-16,Pakistan,United Arab Emirates,+971562436517,sara.rahman615@example.com,Single,Student,2024-06-27,Mobile App,Active,False,Not Selected
+CUST00616,Sara Rafi,Female,1992-04-06,Bangladesh,United Arab Emirates,+971579885511,sara.rafi616@example.com,Divorced,Retail,2024-11-04,Branch,Active,False,Not Selected
+CUST00617,Khalid Fernandez,Male,1988-11-05,India,United Arab Emirates,+971549126722,khalid.fernandez617@example.com,Single,Retail,2026-06-28,Mobile App,Inactive,False,Not Selected
+CUST00618,Bilal Hussain,Male,1995-12-17,Nepal,United Arab Emirates,+971575249732,bilal.hussain618@example.com,Divorced,Premium,2025-12-03,Agent,Active,False,Not Selected
+CUST00619,Rafi Rafi,Male,2005-05-28,Bangladesh,United Arab Emirates,+971574994010,rafi.rafi619@example.com,Married,Student,2025-06-16,Mobile App,Active,False,Not Selected
+CUST00620,Grace Rafi,Female,1997-10-01,United Arab Emirates,United Arab Emirates,+971548285148,grace.rafi620@example.com,Single,Salary,2024-11-25,Web,Active,False,Not Selected
+CUST00621,Mohamed Fernandez,Male,1995-10-10,Jordan,United Arab Emirates,+971544951262,mohamed.fernandez621@example.com,Married,Salary,2024-09-16,Web,Active,False,Not Selected
+CUST00622,Bilal Fernandez,Male,1976-08-20,Jordan,United Arab Emirates,+971582459667,bilal.fernandez622@example.com,Single,Premium,2026-02-02,Branch,Active,False,Not Selected
+CUST00623,Hassan Nair,Male,2004-06-22,Jordan,United Arab Emirates,+971552978923,hassan.nair623@example.com,Single,Retail,2024-10-24,Branch,Active,False,Not Selected
+CUST00624,Grace Thomas,Female,2003-10-31,United Kingdom,United Arab Emirates,+971569338400,grace.thomas624@example.com,Married,Retail,2024-10-28,Agent,Inactive,False,Not Selected
+CUST00625,Ahmed Thomas,Male,1971-02-11,United Kingdom,United Arab Emirates,+971539576862,ahmed.thomas625@example.com,Married,Student,2026-04-02,Mobile App,Active,False,Not Selected
+CUST00626,Omar Thomas,Male,1978-10-12,Pakistan,United Arab Emirates,+971582264474,omar.thomas626@example.com,Married,Retail,2024-02-16,Agent,Active,False,Not Selected
+CUST00627,Aisha Fernandez,Female,1987-11-01,Egypt,United Arab Emirates,+971559610894,aisha.fernandez627@example.com,Married,Student,2024-10-29,Mobile App,Active,False,Not Selected
+CUST00628,Noura Nair,Female,1995-03-02,Bangladesh,United Arab Emirates,+971569622247,noura.nair628@example.com,Divorced,SME,2024-06-28,Agent,Active,False,Not Selected
+CUST00629,Anjali Rafi,Female,1996-05-04,Philippines,United Arab Emirates,+971537888268,anjali.rafi629@example.com,Married,SME,2024-06-25,Branch,Active,False,Not Selected
+CUST00630,Sara Khan,Female,1988-05-14,Egypt,United Arab Emirates,+971533473742,sara.khan630@example.com,Divorced,SME,2025-07-13,Web,Active,False,Not Selected
+CUST00631,Noura Ahmed,Female,1992-01-03,Sri Lanka,United Arab Emirates,+971588545322,noura.ahmed631@example.com,Married,SME,2024-03-27,Agent,Active,False,Not Selected
+CUST00632,Ali Thomas,Male,1983-06-19,Pakistan,United Arab Emirates,+971597753291,ali.thomas632@example.com,Divorced,Student,2026-08-25,Agent,Active,False,Not Selected
+CUST00633,Mohamed Ali,Male,2004-04-21,Jordan,United Arab Emirates,+971518955654,mohamed.ali633@example.com,Divorced,Student,2025-07-21,Agent,Active,False,Not Selected
+CUST00634,Grace Ali,Female,1986-09-28,United Kingdom,United Arab Emirates,+971512354860,grace.ali634@example.com,Married,Salary,2026-11-15,Mobile App,Active,False,Not Selected
+CUST00635,Fatima Fernandez,Female,1977-04-29,Sri Lanka,United Arab Emirates,+971558474537,fatima.fernandez635@example.com,Married,Student,2024-04-18,Mobile App,Active,False,Not Selected
+CUST00636,Omar Rafi,Male,2004-04-20,United Kingdom,United Arab Emirates,+971532432603,omar.rafi636@example.com,Divorced,Student,2024-07-12,Branch,Inactive,False,Not Selected
+CUST00637,Noura Fernandez,Female,1974-04-20,United Kingdom,United Arab Emirates,+971557194894,noura.fernandez637@example.com,Single,Retail,2026-12-30,Web,Active,False,Not Selected
+CUST00638,Grace Hussain,Female,1985-04-07,Pakistan,United Arab Emirates,+971539242850,grace.hussain638@example.com,Single,Premium,2024-11-29,Web,Inactive,False,Not Selected
+CUST00639,Hassan Nair,Male,1973-06-05,Philippines,United Arab Emirates,+971512332623,hassan.nair639@example.com,Married,Student,2024-08-26,Branch,Active,False,Not Selected
+CUST00640,Khalid Ahmed,Male,2004-04-02,Philippines,United Arab Emirates,+971550894029,khalid.ahmed640@example.com,Single,Retail,2025-12-01,Web,Active,False,Not Selected
+CUST00641,Omar Thomas,Male,1975-08-16,Philippines,United Arab Emirates,+971520550179,omar.thomas641@example.com,Married,Retail,2025-03-05,Mobile App,Active,False,Not Selected
+CUST00642,Anjali Khan,Female,1978-10-23,India,United Arab Emirates,+971598555359,anjali.khan642@example.com,Divorced,Premium,2024-08-08,Mobile App,Active,False,Not Selected
+CUST00643,Aisha Ali,Female,1983-07-14,Pakistan,United Arab Emirates,+971526615289,aisha.ali643@example.com,Divorced,Salary,2024-01-22,Web,Active,False,Not Selected
+CUST00644,Aisha Ali,Female,1976-07-12,United Kingdom,United Arab Emirates,+971556685830,aisha.ali644@example.com,Married,Salary,2025-07-22,Web,Active,False,Not Selected
+CUST00645,Ahmed Khan,Male,1993-09-21,Bangladesh,United Arab Emirates,+971547830178,ahmed.khan645@example.com,Single,Premium,2025-03-20,Mobile App,Closed,False,Not Selected
+CUST00646,Omar Ahmed,Male,2001-09-30,Nepal,United Arab Emirates,+971589105321,omar.ahmed646@example.com,Single,SME,2026-08-30,Mobile App,Active,False,Not Selected
+CUST00647,Anjali Hussain,Female,1979-08-12,Bangladesh,United Arab Emirates,+971564704189,anjali.hussain647@example.com,Single,Student,2026-11-19,Mobile App,Active,False,Not Selected
+CUST00648,Khalid Fernandez,Male,2001-08-12,United Arab Emirates,United Arab Emirates,+971515450389,khalid.fernandez648@example.com,Single,Student,2025-08-13,Agent,Active,False,Not Selected
+CUST00649,Grace Thomas,Female,2000-10-26,Bangladesh,United Arab Emirates,+971584345332,grace.thomas649@example.com,Married,Student,2026-06-28,Agent,Active,False,Not Selected
+CUST00650,Khalid Fernandez,Male,1978-01-16,Jordan,United Arab Emirates,+971524115931,khalid.fernandez650@example.com,Married,SME,2024-01-27,Mobile App,Active,False,Not Selected
+CUST00651,Anjali Ali,Female,2003-04-05,Pakistan,United Arab Emirates,+971558816328,anjali.ali651@example.com,Single,Student,2024-12-11,Web,Active,False,Not Selected
+CUST00652,Sara Rahman,Female,1989-01-19,Sri Lanka,United Arab Emirates,+971588103795,sara.rahman652@example.com,Divorced,Student,2026-10-19,Agent,Active,False,Not Selected
+CUST00653,Grace Ahmed,Female,1982-07-06,Jordan,United Arab Emirates,+971524500436,grace.ahmed653@example.com,Single,Student,2024-10-28,Agent,Active,False,Not Selected
+CUST00654,Mohamed Ali,Male,2003-02-05,Pakistan,United Arab Emirates,+971576858535,mohamed.ali654@example.com,Divorced,Retail,2024-04-18,Web,Active,False,Not Selected
+CUST00655,Fatima Thomas,Female,1997-11-25,Pakistan,United Arab Emirates,+971598728736,fatima.thomas655@example.com,Divorced,SME,2024-07-16,Agent,Active,False,Not Selected
+CUST00656,Grace Ahmed,Female,1981-09-27,United Arab Emirates,United Arab Emirates,+971583366099,grace.ahmed656@example.com,Single,Retail,2025-12-04,Agent,Inactive,False,Not Selected
+CUST00657,Hassan Nair,Male,1984-02-10,Jordan,United Arab Emirates,+971571694016,hassan.nair657@example.com,Single,Retail,2026-02-09,Web,Active,False,Not Selected
+CUST00658,Fatima Nair,Female,1989-04-27,Sri Lanka,United Arab Emirates,+971562221499,fatima.nair658@example.com,Married,Retail,2024-10-02,Agent,Active,False,Not Selected
+CUST00659,Grace Ahmed,Female,1977-01-04,India,United Arab Emirates,+971562530781,grace.ahmed659@example.com,Married,SME,2026-11-03,Agent,Active,False,Not Selected
+CUST00660,Noura Fernandez,Female,1972-10-03,United Kingdom,United Arab Emirates,+971516055696,noura.fernandez660@example.com,Single,Student,2024-02-27,Branch,Active,False,Not Selected
+CUST00661,Bilal Hussain,Male,1974-05-14,Nepal,United Arab Emirates,+971557964863,bilal.hussain661@example.com,Married,Student,2026-05-26,Mobile App,Active,False,Not Selected
+CUST00662,Omar Thomas,Male,1996-07-31,Pakistan,United Arab Emirates,+971550924657,omar.thomas662@example.com,Single,Student,2024-06-22,Web,Active,False,Not Selected
+CUST00663,Aisha Nair,Female,1999-07-04,United Kingdom,United Arab Emirates,+971579089893,aisha.nair663@example.com,Married,Student,2026-05-15,Mobile App,Active,False,Not Selected
+CUST00664,Bilal Hussain,Male,1995-08-02,Nepal,United Arab Emirates,+971586844836,bilal.hussain664@example.com,Single,SME,2026-03-10,Mobile App,Active,False,Not Selected
+CUST00665,Bilal Nair,Male,1992-07-21,Philippines,United Arab Emirates,+971592520800,bilal.nair665@example.com,Married,Student,2025-11-26,Agent,Active,False,Not Selected
+CUST00666,Omar Thomas,Male,1981-11-23,Sri Lanka,United Arab Emirates,+971586976644,omar.thomas666@example.com,Married,Salary,2024-04-07,Mobile App,Active,False,Not Selected
+CUST00667,Bilal Thomas,Male,1973-01-07,Jordan,United Arab Emirates,+971567325182,bilal.thomas667@example.com,Single,Student,2026-12-23,Mobile App,Active,False,Not Selected
+CUST00668,Noura Hussain,Female,1999-10-06,Bangladesh,United Arab Emirates,+971565608317,noura.hussain668@example.com,Married,Student,2025-10-03,Agent,Active,False,Not Selected
+CUST00669,Mohamed Ahmed,Male,1978-05-15,Bangladesh,United Arab Emirates,+971598691908,mohamed.ahmed669@example.com,Divorced,SME,2026-10-19,Branch,Suspended,False,Not Selected
+CUST00670,Aisha Ahmed,Female,1979-01-01,Jordan,United Arab Emirates,+971529829822,aisha.ahmed670@example.com,Single,Salary,2026-01-16,Branch,Inactive,False,Not Selected
+CUST00671,Priya Ali,Female,1998-06-09,Egypt,United Arab Emirates,+971545827376,priya.ali671@example.com,Married,Salary,2025-02-20,Branch,Active,False,Not Selected
+CUST00672,Hassan Rahman,Male,1975-02-04,Bangladesh,United Arab Emirates,+971513718391,hassan.rahman672@example.com,Single,Student,2024-11-03,Agent,Active,False,Not Selected
+CUST00673,Anjali Khan,Female,1979-01-23,Sri Lanka,United Arab Emirates,+971528311409,anjali.khan673@example.com,Single,Student,2024-11-22,Branch,Active,False,Not Selected
+CUST00674,Mohamed Nair,Male,2005-02-02,India,United Arab Emirates,+971521264832,mohamed.nair674@example.com,Married,Premium,2024-02-10,Branch,Inactive,False,Not Selected
+CUST00675,Priya Ali,Female,1987-10-21,Bangladesh,United Arab Emirates,+971525023307,priya.ali675@example.com,Divorced,Premium,2024-10-14,Mobile App,Active,False,Not Selected
+CUST00676,Grace Ali,Female,1980-09-05,Nepal,United Arab Emirates,+971554196006,grace.ali676@example.com,Divorced,SME,2024-09-07,Web,Suspended,False,Not Selected
+CUST00677,Ali Ali,Male,1977-11-09,Sri Lanka,United Arab Emirates,+971568985391,ali.ali677@example.com,Married,Student,2025-03-14,Mobile App,Active,False,Not Selected
+CUST00678,Sara Fernandez,Female,1994-06-25,Jordan,United Arab Emirates,+971543064092,sara.fernandez678@example.com,Married,Salary,2026-05-17,Branch,Active,False,Not Selected
+CUST00679,Noura Khan,Female,1998-12-14,India,United Arab Emirates,+971542168745,noura.khan679@example.com,Married,Premium,2024-03-12,Agent,Active,False,Not Selected
+CUST00680,Sara Ahmed,Female,1980-08-08,Egypt,United Arab Emirates,+971511055770,sara.ahmed680@example.com,Married,Student,2026-06-25,Branch,Active,False,Not Selected
+CUST00681,Rafi Rahman,Male,1977-03-10,Nepal,United Arab Emirates,+971596493863,rafi.rahman681@example.com,Married,Retail,2026-06-17,Branch,Inactive,False,Not Selected
+CUST00682,Grace Hussain,Female,1984-12-04,Pakistan,United Arab Emirates,+971531520919,grace.hussain682@example.com,Divorced,Student,2026-05-15,Mobile App,Active,False,Not Selected
+CUST00683,Grace Khan,Female,2004-03-07,Philippines,United Arab Emirates,+971594578152,grace.khan683@example.com,Married,Salary,2024-04-16,Mobile App,Active,False,Not Selected
+CUST00684,Priya Ali,Female,1974-12-21,Bangladesh,United Arab Emirates,+971579305456,priya.ali684@example.com,Divorced,Salary,2024-11-19,Agent,Active,False,Not Selected
+CUST00685,Grace Nair,Female,2002-12-24,Sri Lanka,United Arab Emirates,+971533283960,grace.nair685@example.com,Divorced,Premium,2024-09-30,Branch,Active,False,Not Selected
+CUST00686,Ahmed Hussain,Male,1986-06-28,Egypt,United Arab Emirates,+971560643036,ahmed.hussain686@example.com,Divorced,Salary,2025-01-07,Mobile App,Suspended,False,Not Selected
+CUST00687,Ahmed Nair,Male,1978-11-23,Philippines,United Arab Emirates,+971516681756,ahmed.nair687@example.com,Married,Premium,2025-06-20,Agent,Active,False,Not Selected
+CUST00688,Ahmed Fernandez,Male,1977-08-19,India,United Arab Emirates,+971580576741,ahmed.fernandez688@example.com,Married,SME,2024-08-28,Agent,Active,False,Not Selected
+CUST00689,Omar Thomas,Male,1982-12-01,Egypt,United Arab Emirates,+971527475058,omar.thomas689@example.com,Married,Salary,2026-10-09,Web,Closed,False,Not Selected
+CUST00690,Mariam Hussain,Female,1978-02-03,Philippines,United Arab Emirates,+971513861862,mariam.hussain690@example.com,Married,Student,2026-04-16,Web,Active,False,Not Selected
+CUST00691,Bilal Nair,Male,1973-11-05,Jordan,United Arab Emirates,+971527878463,bilal.nair691@example.com,Married,SME,2024-01-22,Web,Active,False,Not Selected
+CUST00692,Noura Ali,Female,1974-04-11,India,United Arab Emirates,+971554676053,noura.ali692@example.com,Single,SME,2024-04-30,Branch,Closed,False,Not Selected
+CUST00693,Mohamed Thomas,Male,1992-08-19,Sri Lanka,United Arab Emirates,+971562975309,mohamed.thomas693@example.com,Divorced,Student,2026-02-19,Web,Suspended,False,Not Selected
+CUST00694,Ali Thomas,Male,1977-08-15,Jordan,United Arab Emirates,+971555523530,ali.thomas694@example.com,Married,Salary,2026-10-28,Mobile App,Active,False,Not Selected
+CUST00695,Fatima Thomas,Female,1975-03-30,India,United Arab Emirates,+971527162621,fatima.thomas695@example.com,Married,Student,2025-10-03,Branch,Suspended,False,Not Selected
+CUST00696,Noura Thomas,Female,1993-03-11,Egypt,United Arab Emirates,+971532143753,noura.thomas696@example.com,Married,SME,2025-10-03,Web,Active,False,Not Selected
+CUST00697,Aisha Rahman,Female,1976-09-01,Bangladesh,United Arab Emirates,+971534580812,aisha.rahman697@example.com,Single,SME,2024-04-21,Branch,Active,False,Not Selected
+CUST00698,Anjali Ali,Female,1992-03-14,Jordan,United Arab Emirates,+971557851319,anjali.ali698@example.com,Divorced,Premium,2024-03-24,Agent,Active,False,Not Selected
+CUST00699,Ali Ali,Male,1985-09-06,Bangladesh,United Arab Emirates,+971548133464,ali.ali699@example.com,Single,Salary,2024-07-10,Branch,Active,False,Not Selected
+CUST00700,Mohamed Ahmed,Male,2004-05-26,Egypt,United Arab Emirates,+971520312681,mohamed.ahmed700@example.com,Single,SME,2025-01-04,Mobile App,Inactive,False,Not Selected
+CUST00701,Rafi Ali,Male,1987-09-07,United Kingdom,United Arab Emirates,+971524236463,rafi.ali701@example.com,Married,Salary,2026-02-04,Mobile App,Active,False,Not Selected
+CUST00702,Grace Thomas,Female,1996-08-27,Nepal,United Arab Emirates,+971515885044,grace.thomas702@example.com,Divorced,Premium,2024-01-12,Agent,Active,False,Not Selected
+CUST00703,Omar Khan,Male,2005-12-15,Nepal,United Arab Emirates,+971517453784,omar.khan703@example.com,Divorced,Retail,2025-08-02,Agent,Active,False,Not Selected
+CUST00704,Fatima Rahman,Female,2004-07-31,Pakistan,United Arab Emirates,+971512753078,fatima.rahman704@example.com,Single,Salary,2026-03-27,Agent,Active,False,Not Selected
+CUST00705,Fatima Ali,Female,1983-05-24,Egypt,United Arab Emirates,+971551621092,fatima.ali705@example.com,Divorced,Premium,2026-10-02,Web,Active,False,Not Selected
+CUST00706,Bilal Ahmed,Male,1978-12-19,Jordan,United Arab Emirates,+971562088494,bilal.ahmed706@example.com,Married,Student,2026-09-29,Agent,Active,False,Not Selected
+CUST00707,Priya Rafi,Female,1989-06-22,Pakistan,United Arab Emirates,+971515427508,priya.rafi707@example.com,Divorced,Student,2026-05-22,Agent,Active,False,Not Selected
+CUST00708,Khalid Ahmed,Male,1998-03-29,Pakistan,United Arab Emirates,+971549017499,khalid.ahmed708@example.com,Married,SME,2026-12-10,Mobile App,Inactive,False,Not Selected
+CUST00709,Noura Rafi,Female,1975-09-25,Bangladesh,United Arab Emirates,+971580208227,noura.rafi709@example.com,Married,Student,2025-09-07,Mobile App,Active,False,Not Selected
+CUST00710,Ahmed Ahmed,Male,1989-01-22,Pakistan,United Arab Emirates,+971572365138,ahmed.ahmed710@example.com,Divorced,Premium,2026-04-25,Branch,Active,False,Not Selected
+CUST00711,Mohamed Ali,Male,2003-03-21,Philippines,United Arab Emirates,+971534455561,mohamed.ali711@example.com,Married,Retail,2026-08-05,Mobile App,Active,False,Not Selected
+CUST00712,Priya Nair,Female,2003-12-22,United Kingdom,United Arab Emirates,+971545577682,priya.nair712@example.com,Married,Salary,2026-07-10,Web,Active,False,Not Selected
+CUST00713,Sara Hussain,Female,1993-12-21,India,United Arab Emirates,+971563007123,sara.hussain713@example.com,Single,Retail,2024-02-06,Web,Active,False,Not Selected
+CUST00714,Anjali Nair,Female,1983-08-02,Egypt,United Arab Emirates,+971550621889,anjali.nair714@example.com,Single,Salary,2026-01-08,Web,Active,False,Not Selected
+CUST00715,Mohamed Rahman,Male,1971-03-16,Jordan,United Arab Emirates,+971597056735,mohamed.rahman715@example.com,Single,Salary,2025-03-04,Agent,Inactive,False,Not Selected
+CUST00716,Ahmed Thomas,Male,2004-07-12,Philippines,United Arab Emirates,+971573617738,ahmed.thomas716@example.com,Married,Retail,2026-08-07,Mobile App,Active,False,Not Selected
+CUST00717,Khalid Nair,Male,1991-02-24,Jordan,United Arab Emirates,+971588547740,khalid.nair717@example.com,Single,Salary,2024-02-10,Branch,Active,False,Not Selected
+CUST00718,Aisha Fernandez,Female,1970-05-10,Egypt,United Arab Emirates,+971565792417,aisha.fernandez718@example.com,Married,Premium,2024-07-29,Branch,Active,False,Not Selected
+CUST00719,Grace Ahmed,Female,1996-07-06,Bangladesh,United Arab Emirates,+971518147644,grace.ahmed719@example.com,Divorced,Retail,2026-09-26,Agent,Active,False,Not Selected
+CUST00720,Rafi Hussain,Male,1991-03-27,Jordan,United Arab Emirates,+971593576934,rafi.hussain720@example.com,Divorced,Student,2024-08-27,Agent,Active,False,Not Selected
+CUST00721,Ali Thomas,Male,2002-07-30,Jordan,United Arab Emirates,+971556150415,ali.thomas721@example.com,Married,Salary,2025-01-28,Web,Active,False,Not Selected
+CUST00722,Grace Rafi,Female,1983-02-28,Egypt,United Arab Emirates,+971597577092,grace.rafi722@example.com,Divorced,Student,2026-03-10,Agent,Active,False,Not Selected
+CUST00723,Omar Thomas,Male,2000-12-25,Jordan,United Arab Emirates,+971527327046,omar.thomas723@example.com,Single,Salary,2024-06-25,Web,Active,False,Not Selected
+CUST00724,Hassan Nair,Male,1983-08-16,Bangladesh,United Arab Emirates,+971584736526,hassan.nair724@example.com,Single,Retail,2025-04-25,Branch,Inactive,False,Not Selected
+CUST00725,Fatima Rafi,Female,1992-08-01,Pakistan,United Arab Emirates,+971555329991,fatima.rafi725@example.com,Married,Retail,2024-03-06,Web,Active,False,Not Selected
+CUST00726,Khalid Thomas,Male,1985-04-07,India,United Arab Emirates,+971584762274,khalid.thomas726@example.com,Married,Salary,2025-12-28,Mobile App,Active,False,Not Selected
+CUST00727,Grace Ali,Female,1974-10-01,United Arab Emirates,United Arab Emirates,+971515633042,grace.ali727@example.com,Divorced,Retail,2024-07-27,Web,Active,False,Not Selected
+CUST00728,Bilal Rafi,Male,2002-09-03,Jordan,United Arab Emirates,+971577900294,bilal.rafi728@example.com,Married,Retail,2025-08-21,Web,Active,False,Not Selected
+CUST00729,Fatima Ali,Female,1979-01-21,Egypt,United Arab Emirates,+971510884169,fatima.ali729@example.com,Single,SME,2026-06-18,Branch,Active,False,Not Selected
+CUST00730,Ahmed Thomas,Male,1986-09-15,Nepal,United Arab Emirates,+971594482060,ahmed.thomas730@example.com,Divorced,Salary,2026-04-29,Web,Active,False,Not Selected
+CUST00731,Mariam Rafi,Female,2005-12-19,Egypt,United Arab Emirates,+971564936566,mariam.rafi731@example.com,Married,Premium,2026-05-28,Branch,Suspended,False,Not Selected
+CUST00732,Fatima Khan,Female,2002-03-11,Pakistan,United Arab Emirates,+971521378739,fatima.khan732@example.com,Married,Student,2026-11-25,Agent,Closed,False,Not Selected
+CUST00733,Hassan Khan,Male,1987-08-23,Philippines,United Arab Emirates,+971587115770,hassan.khan733@example.com,Single,Premium,2024-03-16,Branch,Active,False,Not Selected
+CUST00734,Priya Fernandez,Female,1970-05-10,United Arab Emirates,United Arab Emirates,+971591926643,priya.fernandez734@example.com,Single,SME,2025-07-26,Agent,Active,False,Not Selected
+CUST00735,Priya Hussain,Female,2004-10-13,Sri Lanka,United Arab Emirates,+971521311994,priya.hussain735@example.com,Single,Premium,2025-02-08,Branch,Active,False,Not Selected
+CUST00736,Rafi Rahman,Male,1974-03-01,United Arab Emirates,United Arab Emirates,+971551909809,rafi.rahman736@example.com,Divorced,Student,2026-11-13,Web,Active,False,Not Selected
+CUST00737,Mariam Thomas,Female,2002-08-04,United Arab Emirates,United Arab Emirates,+971524823261,mariam.thomas737@example.com,Divorced,Retail,2026-05-15,Branch,Active,False,Not Selected
+CUST00738,Sara Khan,Female,2003-12-09,Jordan,United Arab Emirates,+971549991663,sara.khan738@example.com,Divorced,Retail,2024-09-12,Agent,Active,False,Not Selected
+CUST00739,Omar Fernandez,Male,1983-06-04,United Kingdom,United Arab Emirates,+971528786655,omar.fernandez739@example.com,Divorced,SME,2025-08-05,Web,Active,False,Not Selected
+CUST00740,Bilal Nair,Male,1974-05-25,Egypt,United Arab Emirates,+971565304811,bilal.nair740@example.com,Single,Retail,2024-10-27,Mobile App,Active,False,Not Selected
+CUST00741,Khalid Rahman,Male,1990-01-05,Nepal,United Arab Emirates,+971580632831,khalid.rahman741@example.com,Married,Premium,2024-06-08,Agent,Inactive,False,Not Selected
+CUST00742,Anjali Nair,Female,2000-11-27,Egypt,United Arab Emirates,+971531856387,anjali.nair742@example.com,Single,Premium,2026-09-29,Web,Active,False,Not Selected
+CUST00743,Fatima Ahmed,Female,1993-09-26,Bangladesh,United Arab Emirates,+971571127098,fatima.ahmed743@example.com,Married,Retail,2024-08-29,Web,Suspended,False,Not Selected
+CUST00744,Sara Hussain,Female,1974-12-13,Nepal,United Arab Emirates,+971586740966,sara.hussain744@example.com,Married,Retail,2024-09-04,Web,Active,False,Not Selected
+CUST00745,Priya Thomas,Female,1983-03-10,India,United Arab Emirates,+971529175605,priya.thomas745@example.com,Single,Premium,2026-09-22,Agent,Active,False,Not Selected
+CUST00746,Noura Rahman,Female,1978-03-19,India,United Arab Emirates,+971526418573,noura.rahman746@example.com,Divorced,Student,2026-09-28,Mobile App,Inactive,False,Not Selected
+CUST00747,Grace Thomas,Female,1995-05-19,Nepal,United Arab Emirates,+971560641104,grace.thomas747@example.com,Married,Premium,2026-07-15,Web,Active,False,Not Selected
+CUST00748,Grace Nair,Female,1976-09-06,Pakistan,United Arab Emirates,+971593855267,grace.nair748@example.com,Divorced,Premium,2025-10-28,Agent,Active,False,Not Selected
+CUST00749,Priya Ahmed,Female,1972-01-21,Sri Lanka,United Arab Emirates,+971596693449,priya.ahmed749@example.com,Single,Salary,2026-06-26,Mobile App,Active,False,Not Selected
+CUST00750,Sara Ahmed,Female,1973-10-27,United Kingdom,United Arab Emirates,+971582723772,sara.ahmed750@example.com,Divorced,Retail,2025-01-29,Web,Active,False,Not Selected
+CUST00751,Ahmed Ahmed,Male,1978-01-23,Sri Lanka,United Arab Emirates,+971537622679,ahmed.ahmed751@example.com,Single,Premium,2024-02-08,Agent,Active,False,Not Selected
+CUST00752,Anjali Khan,Female,1992-01-18,Nepal,United Arab Emirates,+971568655485,anjali.khan752@example.com,Single,SME,2024-02-17,Mobile App,Inactive,False,Not Selected
+CUST00753,Anjali Thomas,Female,1974-01-31,Pakistan,United Arab Emirates,+971582716383,anjali.thomas753@example.com,Single,Student,2024-08-22,Web,Active,False,Not Selected
+CUST00754,Ali Thomas,Male,1988-04-08,India,United Arab Emirates,+971592473495,ali.thomas754@example.com,Married,Salary,2024-12-12,Mobile App,Active,False,Not Selected
+CUST00755,Anjali Ali,Female,1984-05-10,Egypt,United Arab Emirates,+971553515775,anjali.ali755@example.com,Married,SME,2024-10-18,Mobile App,Active,False,Not Selected
+CUST00756,Omar Nair,Male,1992-10-25,Egypt,United Arab Emirates,+971525445960,omar.nair756@example.com,Married,Retail,2026-10-30,Branch,Active,False,Not Selected
+CUST00757,Sara Nair,Female,1971-04-19,Bangladesh,United Arab Emirates,+971512499514,sara.nair757@example.com,Married,Premium,2026-04-14,Mobile App,Active,False,Not Selected
+CUST00758,Rafi Hussain,Male,1990-01-02,United Arab Emirates,United Arab Emirates,+971537307523,rafi.hussain758@example.com,Single,Student,2024-06-20,Web,Active,False,Not Selected
+CUST00759,Grace Khan,Female,1970-01-17,United Kingdom,United Arab Emirates,+971548822404,grace.khan759@example.com,Divorced,Salary,2026-08-09,Mobile App,Active,False,Not Selected
+CUST00760,Noura Thomas,Female,2000-07-03,Nepal,United Arab Emirates,+971594853379,noura.thomas760@example.com,Single,Premium,2026-02-17,Branch,Active,False,Not Selected
+CUST00761,Rafi Ali,Male,1987-09-25,Philippines,United Arab Emirates,+971584689357,rafi.ali761@example.com,Married,SME,2024-09-08,Web,Active,False,Not Selected
+CUST00762,Priya Thomas,Female,2003-10-07,Sri Lanka,United Arab Emirates,+971543007935,priya.thomas762@example.com,Divorced,Student,2026-07-16,Branch,Active,False,Not Selected
+CUST00763,Aisha Rafi,Female,1998-12-31,United Kingdom,United Arab Emirates,+971573958633,aisha.rafi763@example.com,Single,Retail,2024-01-05,Web,Active,False,Not Selected
+CUST00764,Anjali Ahmed,Female,1973-08-22,United Arab Emirates,United Arab Emirates,+971514153705,anjali.ahmed764@example.com,Divorced,SME,2024-06-07,Mobile App,Active,False,Not Selected
+CUST00765,Priya Hussain,Female,1977-12-13,Pakistan,United Arab Emirates,+971572101540,priya.hussain765@example.com,Married,Salary,2024-01-18,Agent,Active,False,Not Selected
+CUST00766,Rafi Fernandez,Male,1978-08-04,United Kingdom,United Arab Emirates,+971593917830,rafi.fernandez766@example.com,Married,Salary,2024-07-03,Web,Closed,False,Not Selected
+CUST00767,Aisha Thomas,Female,1992-02-09,India,United Arab Emirates,+971536318323,aisha.thomas767@example.com,Divorced,SME,2025-03-04,Mobile App,Inactive,False,Not Selected
+CUST00768,Fatima Ahmed,Female,1978-09-10,Pakistan,United Arab Emirates,+971588942114,fatima.ahmed768@example.com,Single,Retail,2024-12-25,Web,Active,False,Not Selected
+CUST00769,Rafi Rahman,Male,2000-05-31,United Arab Emirates,United Arab Emirates,+971592470962,rafi.rahman769@example.com,Married,Premium,2024-02-17,Agent,Active,False,Not Selected
+CUST00770,Aisha Fernandez,Female,1989-05-27,Sri Lanka,United Arab Emirates,+971526336672,aisha.fernandez770@example.com,Divorced,Premium,2026-04-13,Agent,Active,False,Not Selected
+CUST00771,Omar Khan,Male,1982-06-20,United Arab Emirates,United Arab Emirates,+971570245170,omar.khan771@example.com,Married,Retail,2026-05-10,Agent,Active,False,Not Selected
+CUST00772,Mohamed Rahman,Male,2000-12-06,Pakistan,United Arab Emirates,+971543552306,mohamed.rahman772@example.com,Single,Salary,2026-05-17,Branch,Active,False,Not Selected
+CUST00773,Mohamed Nair,Male,1989-05-18,United Kingdom,United Arab Emirates,+971594060174,mohamed.nair773@example.com,Married,Student,2024-02-19,Web,Active,False,Not Selected
+CUST00774,Bilal Khan,Male,1984-12-18,Bangladesh,United Arab Emirates,+971519785926,bilal.khan774@example.com,Divorced,Premium,2026-11-30,Agent,Active,False,Not Selected
+CUST00775,Sara Ali,Female,1972-09-21,Egypt,United Arab Emirates,+971552047653,sara.ali775@example.com,Divorced,Retail,2024-03-09,Web,Active,False,Not Selected
+CUST00776,Aisha Thomas,Female,1997-05-25,Pakistan,United Arab Emirates,+971523667066,aisha.thomas776@example.com,Divorced,Retail,2026-06-03,Mobile App,Active,False,Not Selected
+CUST00777,Anjali Ali,Female,1997-09-09,Bangladesh,United Arab Emirates,+971590473708,anjali.ali777@example.com,Divorced,Premium,2026-04-21,Mobile App,Active,False,Not Selected
+CUST00778,Anjali Ali,Female,1985-03-27,Jordan,United Arab Emirates,+971579419139,anjali.ali778@example.com,Married,Premium,2024-02-23,Web,Active,False,Not Selected
+CUST00779,Ahmed Rahman,Male,1995-09-18,United Arab Emirates,United Arab Emirates,+971544398138,ahmed.rahman779@example.com,Married,SME,2024-09-15,Agent,Active,False,Not Selected
+CUST00780,Fatima Rahman,Female,1976-03-05,India,United Arab Emirates,+971527137020,fatima.rahman780@example.com,Married,Premium,2024-03-31,Agent,Active,False,Not Selected
+CUST00781,Noura Ahmed,Female,2004-10-14,Philippines,United Arab Emirates,+971573018412,noura.ahmed781@example.com,Married,Premium,2024-10-25,Branch,Active,False,Not Selected
+CUST00782,Ali Khan,Male,1980-08-25,United Arab Emirates,United Arab Emirates,+971517329266,ali.khan782@example.com,Married,Student,2026-11-04,Web,Closed,False,Not Selected
+CUST00783,Ahmed Fernandez,Male,1978-06-30,Jordan,United Arab Emirates,+971590498733,ahmed.fernandez783@example.com,Divorced,Student,2026-09-01,Branch,Active,False,Not Selected
+CUST00784,Priya Rafi,Female,1974-09-14,India,United Arab Emirates,+971576562688,priya.rafi784@example.com,Single,Retail,2026-07-19,Web,Active,False,Not Selected
+CUST00785,Mariam Rahman,Female,1991-07-26,Egypt,United Arab Emirates,+971537557095,mariam.rahman785@example.com,Married,Salary,2025-11-09,Mobile App,Active,False,Not Selected
+CUST00786,Bilal Khan,Male,1994-11-19,Philippines,United Arab Emirates,+971549000479,bilal.khan786@example.com,Married,Salary,2024-08-23,Branch,Active,False,Not Selected
+CUST00787,Omar Rahman,Male,1982-09-29,Bangladesh,United Arab Emirates,+971545164890,omar.rahman787@example.com,Divorced,Salary,2024-12-22,Branch,Inactive,False,Not Selected
+CUST00788,Ali Rahman,Male,1970-12-19,Sri Lanka,United Arab Emirates,+971523581521,ali.rahman788@example.com,Single,Salary,2024-12-26,Agent,Active,False,Not Selected
+CUST00789,Bilal Rahman,Male,1983-09-08,Bangladesh,United Arab Emirates,+971559612328,bilal.rahman789@example.com,Married,Salary,2026-07-23,Agent,Inactive,False,Not Selected
+CUST00790,Ahmed Rafi,Male,1975-11-13,Bangladesh,United Arab Emirates,+971581478283,ahmed.rafi790@example.com,Married,Student,2025-01-23,Branch,Active,False,Not Selected
+CUST00791,Mohamed Rahman,Male,1994-01-08,Philippines,United Arab Emirates,+971553980546,mohamed.rahman791@example.com,Single,Retail,2025-08-25,Branch,Inactive,False,Not Selected
+CUST00792,Mariam Ali,Female,2005-03-13,United Kingdom,United Arab Emirates,+971518707112,mariam.ali792@example.com,Single,Premium,2026-08-21,Agent,Active,False,Not Selected
+CUST00793,Grace Ahmed,Female,1990-10-29,Nepal,United Arab Emirates,+971560181152,grace.ahmed793@example.com,Divorced,SME,2025-01-01,Agent,Active,False,Not Selected
+CUST00794,Aisha Rahman,Female,1979-11-06,Jordan,United Arab Emirates,+971541458567,aisha.rahman794@example.com,Married,Salary,2025-02-19,Branch,Active,False,Not Selected
+CUST00795,Fatima Fernandez,Female,1981-06-02,Philippines,United Arab Emirates,+971521278067,fatima.fernandez795@example.com,Married,SME,2024-06-22,Branch,Active,False,Not Selected
+CUST00796,Khalid Ahmed,Male,1997-11-11,Egypt,United Arab Emirates,+971570552489,khalid.ahmed796@example.com,Married,SME,2025-11-19,Agent,Active,False,Not Selected
+CUST00797,Priya Thomas,Female,1987-02-25,Philippines,United Arab Emirates,+971569282426,priya.thomas797@example.com,Single,Student,2024-02-20,Mobile App,Active,False,Not Selected
+CUST00798,Rafi Ahmed,Male,1993-01-01,Sri Lanka,United Arab Emirates,+971540566959,rafi.ahmed798@example.com,Single,Retail,2024-06-09,Mobile App,Active,False,Not Selected
+CUST00799,Bilal Rahman,Male,2000-04-13,Sri Lanka,United Arab Emirates,+971550629797,bilal.rahman799@example.com,Divorced,Student,2025-11-05,Web,Active,False,Not Selected
+CUST00800,Rafi Khan,Male,2004-07-17,Sri Lanka,United Arab Emirates,+971556524207,rafi.khan800@example.com,Married,SME,2025-09-05,Mobile App,Active,False,Not Selected
+CUST00801,Hassan Rahman,Male,1980-03-06,Jordan,United Arab Emirates,+971541369795,hassan.rahman801@example.com,Divorced,Premium,2025-03-05,Agent,Active,False,Not Selected
+CUST00802,Priya Ali,Female,1984-01-17,Egypt,United Arab Emirates,+971566061116,priya.ali802@example.com,Single,SME,2025-01-19,Agent,Inactive,False,Not Selected
+CUST00803,Bilal Rafi,Male,1995-11-27,Sri Lanka,United Arab Emirates,+971511299382,bilal.rafi803@example.com,Married,Student,2024-09-19,Branch,Active,False,Not Selected
+CUST00804,Anjali Ahmed,Female,1983-06-11,United Kingdom,United Arab Emirates,+971513119198,anjali.ahmed804@example.com,Divorced,Retail,2025-10-29,Web,Active,False,Not Selected
+CUST00805,Anjali Hussain,Female,1979-02-28,Pakistan,United Arab Emirates,+971581738111,anjali.hussain805@example.com,Married,Salary,2026-03-11,Agent,Active,False,Not Selected
+CUST00806,Noura Ali,Female,1977-09-09,United Arab Emirates,United Arab Emirates,+971533841913,noura.ali806@example.com,Single,Premium,2024-08-01,Agent,Active,False,Not Selected
+CUST00807,Ahmed Hussain,Male,1982-09-25,Bangladesh,United Arab Emirates,+971549071522,ahmed.hussain807@example.com,Divorced,Premium,2025-02-25,Mobile App,Active,False,Not Selected
+CUST00808,Aisha Rafi,Female,1984-08-28,Egypt,United Arab Emirates,+971531076941,aisha.rafi808@example.com,Single,Salary,2026-04-21,Agent,Active,False,Not Selected
+CUST00809,Hassan Rahman,Male,1975-10-30,Sri Lanka,United Arab Emirates,+971568008992,hassan.rahman809@example.com,Divorced,SME,2025-02-25,Web,Active,False,Not Selected
+CUST00810,Mariam Ahmed,Female,2002-02-25,Sri Lanka,United Arab Emirates,+971537072082,mariam.ahmed810@example.com,Single,Salary,2026-07-28,Agent,Active,False,Not Selected
+CUST00811,Mariam Ahmed,Female,1984-10-02,Jordan,United Arab Emirates,+971572101932,mariam.ahmed811@example.com,Divorced,Retail,2026-10-02,Mobile App,Active,False,Not Selected
+CUST00812,Priya Thomas,Female,1987-07-18,Egypt,United Arab Emirates,+971543438309,priya.thomas812@example.com,Single,Premium,2024-12-24,Agent,Active,False,Not Selected
+CUST00813,Ahmed Hussain,Male,2001-05-04,Bangladesh,United Arab Emirates,+971531197304,ahmed.hussain813@example.com,Married,Premium,2024-03-30,Branch,Active,False,Not Selected
+CUST00814,Omar Nair,Male,1988-06-13,Nepal,United Arab Emirates,+971520272170,omar.nair814@example.com,Single,Premium,2024-09-05,Branch,Active,False,Not Selected
+CUST00815,Rafi Rahman,Male,1992-09-13,Jordan,United Arab Emirates,+971513586013,rafi.rahman815@example.com,Single,SME,2024-04-01,Agent,Active,False,Not Selected
+CUST00816,Mariam Hussain,Female,1971-09-11,Sri Lanka,United Arab Emirates,+971525392453,mariam.hussain816@example.com,Divorced,Salary,2024-01-22,Branch,Active,False,Not Selected
+CUST00817,Grace Nair,Female,1973-01-22,United Arab Emirates,United Arab Emirates,+971598184081,grace.nair817@example.com,Single,SME,2024-06-18,Web,Active,False,Not Selected
+CUST00818,Fatima Rafi,Female,1970-10-23,Philippines,United Arab Emirates,+971549479427,fatima.rafi818@example.com,Single,Premium,2024-07-24,Agent,Active,False,Not Selected
+CUST00819,Rafi Rafi,Male,1989-10-07,Philippines,United Arab Emirates,+971539081281,rafi.rafi819@example.com,Divorced,Retail,2026-01-03,Web,Active,False,Not Selected
+CUST00820,Ahmed Hussain,Male,2000-12-19,Jordan,United Arab Emirates,+971517035056,ahmed.hussain820@example.com,Divorced,Retail,2025-09-23,Mobile App,Active,False,Not Selected
+CUST00821,Omar Fernandez,Male,1980-09-13,Pakistan,United Arab Emirates,+971512152643,omar.fernandez821@example.com,Married,Retail,2025-02-13,Mobile App,Active,False,Not Selected
+CUST00822,Ahmed Rahman,Male,1974-05-02,Philippines,United Arab Emirates,+971515907259,ahmed.rahman822@example.com,Married,Premium,2024-12-09,Mobile App,Active,False,Not Selected
+CUST00823,Mariam Rahman,Female,1994-04-20,Egypt,United Arab Emirates,+971526214033,mariam.rahman823@example.com,Single,Salary,2026-03-20,Mobile App,Active,False,Not Selected
+CUST00824,Mohamed Hussain,Male,1999-05-04,India,United Arab Emirates,+971562235749,mohamed.hussain824@example.com,Single,SME,2025-10-09,Web,Active,False,Not Selected
+CUST00825,Priya Khan,Female,1973-01-08,Egypt,United Arab Emirates,+971550471241,priya.khan825@example.com,Divorced,SME,2025-03-23,Mobile App,Active,False,Not Selected
+CUST00826,Rafi Ali,Male,1996-11-28,Egypt,United Arab Emirates,+971527841755,rafi.ali826@example.com,Married,Salary,2025-10-26,Branch,Closed,False,Not Selected
+CUST00827,Sara Fernandez,Female,1970-10-17,Egypt,United Arab Emirates,+971578588767,sara.fernandez827@example.com,Divorced,Salary,2026-07-08,Mobile App,Active,False,Not Selected
+CUST00828,Rafi Rahman,Male,2003-02-06,Bangladesh,United Arab Emirates,+971593183615,rafi.rahman828@example.com,Single,Retail,2026-05-27,Web,Active,False,Not Selected
+CUST00829,Mariam Rafi,Female,1986-11-09,India,United Arab Emirates,+971541952404,mariam.rafi829@example.com,Divorced,Premium,2025-02-22,Agent,Active,False,Not Selected
+CUST00830,Fatima Thomas,Female,1984-03-30,United Arab Emirates,United Arab Emirates,+971565686049,fatima.thomas830@example.com,Divorced,Student,2024-03-22,Mobile App,Active,False,Not Selected
+CUST00831,Priya Rahman,Female,1979-03-27,Bangladesh,United Arab Emirates,+971539855935,priya.rahman831@example.com,Divorced,SME,2024-04-20,Branch,Active,False,Not Selected
+CUST00832,Ahmed Nair,Male,1973-02-20,India,United Arab Emirates,+971595143291,ahmed.nair832@example.com,Single,Salary,2025-01-29,Web,Active,False,Not Selected
+CUST00833,Omar Ahmed,Male,1973-07-04,Jordan,United Arab Emirates,+971551803852,omar.ahmed833@example.com,Single,Salary,2026-05-22,Web,Active,False,Not Selected
+CUST00834,Rafi Thomas,Male,1995-11-10,Bangladesh,United Arab Emirates,+971546488536,rafi.thomas834@example.com,Married,Retail,2026-07-07,Branch,Active,False,Not Selected
+CUST00835,Khalid Nair,Male,1988-12-17,United Kingdom,United Arab Emirates,+971568174055,khalid.nair835@example.com,Single,SME,2026-10-31,Mobile App,Active,False,Not Selected
+CUST00836,Sara Thomas,Female,1996-09-12,United Arab Emirates,United Arab Emirates,+971533581963,sara.thomas836@example.com,Married,SME,2024-11-08,Agent,Active,False,Not Selected
+CUST00837,Anjali Ahmed,Female,1997-03-09,Pakistan,United Arab Emirates,+971554725929,anjali.ahmed837@example.com,Single,SME,2026-09-11,Web,Active,False,Not Selected
+CUST00838,Mohamed Khan,Male,1992-06-17,Jordan,United Arab Emirates,+971564298487,mohamed.khan838@example.com,Married,SME,2026-02-05,Branch,Active,False,Not Selected
+CUST00839,Sara Hussain,Female,1971-09-29,Egypt,United Arab Emirates,+971585914700,sara.hussain839@example.com,Single,Salary,2024-09-11,Agent,Suspended,False,Not Selected
+CUST00840,Grace Fernandez,Female,2001-03-29,Egypt,United Arab Emirates,+971566913730,grace.fernandez840@example.com,Divorced,Salary,2024-04-28,Web,Active,False,Not Selected
+CUST00841,Aisha Rafi,Female,1981-09-21,Philippines,United Arab Emirates,+971544129962,aisha.rafi841@example.com,Single,Premium,2026-07-21,Web,Active,False,Not Selected
+CUST00842,Hassan Hussain,Male,2001-09-03,United Arab Emirates,United Arab Emirates,+971535343427,hassan.hussain842@example.com,Married,Salary,2024-06-13,Agent,Active,False,Not Selected
+CUST00843,Anjali Thomas,Female,2002-12-03,Pakistan,United Arab Emirates,+971524666517,anjali.thomas843@example.com,Divorced,Premium,2026-04-22,Branch,Active,False,Not Selected
+CUST00844,Mariam Hussain,Female,2001-05-10,India,United Arab Emirates,+971532602089,mariam.hussain844@example.com,Married,Retail,2025-09-22,Mobile App,Active,False,Not Selected
+CUST00845,Anjali Thomas,Female,2002-11-19,Philippines,United Arab Emirates,+971533676181,anjali.thomas845@example.com,Married,Salary,2026-06-01,Web,Active,False,Not Selected
+CUST00846,Ahmed Nair,Male,1995-06-10,Philippines,United Arab Emirates,+971536969824,ahmed.nair846@example.com,Single,Salary,2025-03-11,Web,Active,False,Not Selected
+CUST00847,Grace Ali,Female,1998-07-20,Pakistan,United Arab Emirates,+971549342650,grace.ali847@example.com,Single,SME,2024-12-06,Mobile App,Active,False,Not Selected
+CUST00848,Aisha Rahman,Female,1991-06-09,Pakistan,United Arab Emirates,+971511275951,aisha.rahman848@example.com,Single,Student,2026-09-20,Mobile App,Active,False,Not Selected
+CUST00849,Ahmed Rahman,Male,1993-06-06,Egypt,United Arab Emirates,+971590931259,ahmed.rahman849@example.com,Divorced,Student,2024-01-15,Agent,Active,False,Not Selected
+CUST00850,Anjali Fernandez,Female,1986-08-19,Nepal,United Arab Emirates,+971542158168,anjali.fernandez850@example.com,Married,SME,2025-12-03,Agent,Active,False,Not Selected
+CUST00851,Priya Ali,Female,1970-02-20,Egypt,United Arab Emirates,+971528637880,priya.ali851@example.com,Single,Premium,2026-07-24,Mobile App,Inactive,False,Not Selected
+CUST00852,Mariam Fernandez,Female,1990-04-10,United Arab Emirates,United Arab Emirates,+971565448912,mariam.fernandez852@example.com,Divorced,Salary,2026-08-31,Mobile App,Closed,False,Not Selected
+CUST00853,Aisha Fernandez,Female,1972-01-20,Jordan,United Arab Emirates,+971541347711,aisha.fernandez853@example.com,Divorced,SME,2025-10-28,Agent,Active,False,Not Selected
+CUST00854,Bilal Hussain,Male,1991-05-11,Egypt,United Arab Emirates,+971549441620,bilal.hussain854@example.com,Divorced,Salary,2024-07-24,Web,Inactive,False,Not Selected
+CUST00855,Ali Nair,Male,2005-09-29,Sri Lanka,United Arab Emirates,+971583651529,ali.nair855@example.com,Married,Salary,2024-06-27,Agent,Suspended,False,Not Selected
+CUST00856,Mariam Rahman,Female,1979-06-30,Pakistan,United Arab Emirates,+971524155900,mariam.rahman856@example.com,Married,Retail,2024-12-15,Web,Suspended,False,Not Selected
+CUST00857,Anjali Thomas,Female,1979-11-20,Jordan,United Arab Emirates,+971526521948,anjali.thomas857@example.com,Divorced,Salary,2025-06-11,Agent,Active,False,Not Selected
+CUST00858,Mariam Ali,Female,1998-11-21,Egypt,United Arab Emirates,+971561224263,mariam.ali858@example.com,Divorced,Premium,2025-12-03,Agent,Active,False,Not Selected
+CUST00859,Rafi Ali,Male,1983-01-20,Pakistan,United Arab Emirates,+971521964091,rafi.ali859@example.com,Married,Premium,2024-06-28,Web,Active,False,Not Selected
+CUST00860,Bilal Rafi,Male,1984-01-22,United Kingdom,United Arab Emirates,+971510225283,bilal.rafi860@example.com,Married,Retail,2026-02-17,Web,Inactive,False,Not Selected
+CUST00861,Priya Fernandez,Female,2005-10-10,United Arab Emirates,United Arab Emirates,+971599086047,priya.fernandez861@example.com,Divorced,Premium,2024-09-15,Web,Active,False,Not Selected
+CUST00862,Khalid Fernandez,Male,1976-06-28,Bangladesh,United Arab Emirates,+971577086404,khalid.fernandez862@example.com,Divorced,SME,2025-08-30,Web,Active,False,Not Selected
+CUST00863,Mohamed Fernandez,Male,1983-11-09,Pakistan,United Arab Emirates,+971546702178,mohamed.fernandez863@example.com,Divorced,Premium,2026-10-25,Agent,Active,False,Not Selected
+CUST00864,Khalid Thomas,Male,2001-08-02,India,United Arab Emirates,+971554713904,khalid.thomas864@example.com,Single,Salary,2026-02-10,Web,Active,False,Not Selected
+CUST00865,Ali Nair,Male,2002-08-18,Sri Lanka,United Arab Emirates,+971598483078,ali.nair865@example.com,Single,Retail,2026-03-13,Agent,Active,False,Not Selected
+CUST00866,Priya Hussain,Female,1987-07-18,United Arab Emirates,United Arab Emirates,+971547988968,priya.hussain866@example.com,Married,Salary,2024-05-27,Agent,Active,False,Not Selected
+CUST00867,Aisha Thomas,Female,1990-07-11,United Kingdom,United Arab Emirates,+971528463119,aisha.thomas867@example.com,Married,SME,2024-12-01,Branch,Inactive,False,Not Selected
+CUST00868,Omar Rahman,Male,2002-12-26,Nepal,United Arab Emirates,+971587266743,omar.rahman868@example.com,Single,Salary,2024-01-19,Agent,Suspended,False,Not Selected
+CUST00869,Fatima Khan,Female,1974-04-23,Jordan,United Arab Emirates,+971534109916,fatima.khan869@example.com,Single,Retail,2025-12-29,Branch,Active,False,Not Selected
+CUST00870,Hassan Rahman,Male,1971-07-11,Bangladesh,United Arab Emirates,+971563236763,hassan.rahman870@example.com,Married,Student,2024-08-31,Web,Active,False,Not Selected
+CUST00871,Sara Nair,Female,1999-03-04,Sri Lanka,United Arab Emirates,+971594870367,sara.nair871@example.com,Divorced,SME,2026-02-21,Branch,Active,False,Not Selected
+CUST00872,Ahmed Ali,Male,1991-12-12,Bangladesh,United Arab Emirates,+971513090599,ahmed.ali872@example.com,Divorced,Premium,2026-11-09,Agent,Active,False,Not Selected
+CUST00873,Ali Hussain,Male,1991-09-20,Sri Lanka,United Arab Emirates,+971586695110,ali.hussain873@example.com,Single,Retail,2026-06-07,Branch,Active,False,Not Selected
+CUST00874,Hassan Khan,Male,1987-08-31,Jordan,United Arab Emirates,+971518580762,hassan.khan874@example.com,Divorced,Premium,2026-12-21,Mobile App,Active,False,Not Selected
+CUST00875,Ahmed Rafi,Male,1996-11-15,India,United Arab Emirates,+971584453495,ahmed.rafi875@example.com,Married,Student,2025-01-03,Mobile App,Active,False,Not Selected
+CUST00876,Ali Ali,Male,1995-03-26,India,United Arab Emirates,+971521356205,ali.ali876@example.com,Single,Premium,2025-06-09,Branch,Active,False,Not Selected
+CUST00877,Hassan Khan,Male,1981-02-20,India,United Arab Emirates,+971579718468,hassan.khan877@example.com,Married,Premium,2025-09-07,Agent,Active,False,Not Selected
+CUST00878,Priya Ahmed,Female,1985-10-18,Bangladesh,United Arab Emirates,+971523288780,priya.ahmed878@example.com,Divorced,Retail,2026-11-11,Web,Active,False,Not Selected
+CUST00879,Rafi Rahman,Male,1976-01-08,United Kingdom,United Arab Emirates,+971558192910,rafi.rahman879@example.com,Married,Salary,2025-03-18,Agent,Active,False,Not Selected
+CUST00880,Noura Hussain,Female,1999-02-23,Egypt,United Arab Emirates,+971571212377,noura.hussain880@example.com,Single,Student,2024-11-30,Agent,Suspended,False,Not Selected
+CUST00881,Omar Ali,Male,1998-03-29,Bangladesh,United Arab Emirates,+971559948088,omar.ali881@example.com,Divorced,Premium,2025-07-05,Web,Active,False,Not Selected
+CUST00882,Bilal Hussain,Male,1986-12-31,United Kingdom,United Arab Emirates,+971543218577,bilal.hussain882@example.com,Single,Student,2024-02-23,Mobile App,Active,False,Not Selected
+CUST00883,Sara Fernandez,Female,1998-09-19,Nepal,United Arab Emirates,+971554763940,sara.fernandez883@example.com,Married,Salary,2024-07-01,Web,Active,False,Not Selected
+CUST00884,Hassan Rahman,Male,1986-12-26,Pakistan,United Arab Emirates,+971533586265,hassan.rahman884@example.com,Divorced,Student,2024-08-03,Agent,Active,False,Not Selected
+CUST00885,Noura Ahmed,Female,1982-02-27,India,United Arab Emirates,+971532917330,noura.ahmed885@example.com,Married,SME,2024-07-21,Web,Active,False,Not Selected
+CUST00886,Grace Rafi,Female,1981-08-15,United Arab Emirates,United Arab Emirates,+971530869686,grace.rafi886@example.com,Divorced,Salary,2024-01-20,Web,Active,False,Not Selected
+CUST00887,Aisha Fernandez,Female,2001-09-26,United Kingdom,United Arab Emirates,+971566135725,aisha.fernandez887@example.com,Divorced,SME,2025-05-25,Web,Active,False,Not Selected
+CUST00888,Grace Ahmed,Female,1982-11-13,Egypt,United Arab Emirates,+971579873032,grace.ahmed888@example.com,Divorced,Salary,2025-07-18,Branch,Active,False,Not Selected
+CUST00889,Rafi Hussain,Male,2004-07-26,Pakistan,United Arab Emirates,+971595184862,rafi.hussain889@example.com,Single,Retail,2025-10-02,Web,Suspended,False,Not Selected
+CUST00890,Mohamed Ali,Male,2003-05-08,United Arab Emirates,United Arab Emirates,+971576149278,mohamed.ali890@example.com,Single,SME,2025-08-08,Web,Active,False,Not Selected
+CUST00891,Hassan Khan,Male,1997-08-24,India,United Arab Emirates,+971567039703,hassan.khan891@example.com,Divorced,Premium,2025-01-24,Branch,Active,False,Not Selected
+CUST00892,Khalid Rafi,Male,2000-04-04,Bangladesh,United Arab Emirates,+971533463164,khalid.rafi892@example.com,Single,Student,2026-12-08,Web,Active,False,Not Selected
+CUST00893,Hassan Nair,Male,1987-01-03,Nepal,United Arab Emirates,+971525197944,hassan.nair893@example.com,Married,Salary,2024-12-15,Mobile App,Active,False,Not Selected
+CUST00894,Noura Thomas,Female,1979-07-23,United Kingdom,United Arab Emirates,+971562830980,noura.thomas894@example.com,Single,Student,2024-01-05,Mobile App,Suspended,False,Not Selected
+CUST00895,Aisha Fernandez,Female,1970-04-07,Nepal,United Arab Emirates,+971550043946,aisha.fernandez895@example.com,Married,Retail,2026-07-31,Mobile App,Active,False,Not Selected
+CUST00896,Hassan Fernandez,Male,1970-05-26,Egypt,United Arab Emirates,+971576041312,hassan.fernandez896@example.com,Single,Retail,2024-07-26,Web,Active,False,Not Selected
+CUST00897,Aisha Rafi,Female,2004-07-07,Bangladesh,United Arab Emirates,+971573176107,aisha.rafi897@example.com,Married,Student,2025-05-27,Branch,Active,False,Not Selected
+CUST00898,Rafi Ali,Male,1989-09-03,Philippines,United Arab Emirates,+971528773624,rafi.ali898@example.com,Married,SME,2026-06-18,Mobile App,Active,False,Not Selected
+CUST00899,Ahmed Rahman,Male,1982-10-12,Philippines,United Arab Emirates,+971562955068,ahmed.rahman899@example.com,Married,Student,2024-03-23,Mobile App,Active,False,Not Selected
+CUST00900,Khalid Thomas,Male,1975-05-01,Jordan,United Arab Emirates,+971583836349,khalid.thomas900@example.com,Married,Salary,2026-05-12,Branch,Active,False,Not Selected
+CUST00901,Anjali Rafi,Female,1974-12-03,India,United Arab Emirates,+971526928020,anjali.rafi901@example.com,Single,Student,2024-08-08,Mobile App,Active,False,Not Selected
+CUST00902,Mohamed Fernandez,Male,1989-04-10,Egypt,United Arab Emirates,+971574450415,mohamed.fernandez902@example.com,Married,Student,2024-01-17,Agent,Active,False,Not Selected
+CUST00903,Mariam Rafi,Female,2002-09-18,Philippines,United Arab Emirates,+971543482865,mariam.rafi903@example.com,Married,Retail,2026-11-13,Branch,Closed,False,Not Selected
+CUST00904,Hassan Rahman,Male,1991-04-05,United Arab Emirates,United Arab Emirates,+971592020513,hassan.rahman904@example.com,Single,Salary,2024-07-30,Web,Active,False,Not Selected
+CUST00905,Hassan Khan,Male,1982-04-14,Philippines,United Arab Emirates,+971567217417,hassan.khan905@example.com,Single,Premium,2025-01-28,Web,Active,False,Not Selected
+CUST00906,Hassan Hussain,Male,1993-07-20,Bangladesh,United Arab Emirates,+971539766168,hassan.hussain906@example.com,Married,SME,2025-09-19,Agent,Active,False,Not Selected
+CUST00907,Aisha Thomas,Female,1974-12-09,Nepal,United Arab Emirates,+971547655580,aisha.thomas907@example.com,Married,SME,2025-07-05,Web,Active,False,Not Selected
+CUST00908,Ali Khan,Male,1970-01-09,Nepal,United Arab Emirates,+971538451145,ali.khan908@example.com,Married,SME,2024-04-16,Branch,Inactive,False,Not Selected
+CUST00909,Hassan Rafi,Male,1981-04-26,Nepal,United Arab Emirates,+971554866590,hassan.rafi909@example.com,Married,Retail,2026-10-03,Mobile App,Active,False,Not Selected
+CUST00910,Bilal Fernandez,Male,2003-04-03,United Kingdom,United Arab Emirates,+971580982664,bilal.fernandez910@example.com,Divorced,Student,2026-01-10,Web,Active,False,Not Selected
+CUST00911,Hassan Ali,Male,1974-10-09,United Kingdom,United Arab Emirates,+971526153687,hassan.ali911@example.com,Single,Premium,2024-09-24,Web,Active,False,Not Selected
+CUST00912,Sara Ali,Female,1994-07-09,Sri Lanka,United Arab Emirates,+971573645847,sara.ali912@example.com,Single,Premium,2025-12-03,Web,Active,False,Not Selected
+CUST00913,Hassan Ahmed,Male,2001-12-02,United Arab Emirates,United Arab Emirates,+971556619122,hassan.ahmed913@example.com,Married,SME,2025-06-01,Mobile App,Inactive,False,Not Selected
+CUST00914,Khalid Hussain,Male,1993-06-30,India,United Arab Emirates,+971532405653,khalid.hussain914@example.com,Divorced,Student,2026-10-28,Web,Active,False,Not Selected
+CUST00915,Omar Hussain,Male,1992-03-16,United Arab Emirates,United Arab Emirates,+971520064387,omar.hussain915@example.com,Single,SME,2026-12-26,Agent,Active,False,Not Selected
+CUST00916,Anjali Thomas,Female,1979-04-14,India,United Arab Emirates,+971531475246,anjali.thomas916@example.com,Divorced,Salary,2025-01-11,Mobile App,Inactive,False,Not Selected
+CUST00917,Noura Thomas,Female,1979-11-19,Sri Lanka,United Arab Emirates,+971584108442,noura.thomas917@example.com,Single,Salary,2025-08-29,Web,Active,False,Not Selected
+CUST00918,Rafi Khan,Male,1998-09-10,Sri Lanka,United Arab Emirates,+971527847118,rafi.khan918@example.com,Married,Retail,2024-10-30,Web,Closed,False,Not Selected
+CUST00919,Ahmed Khan,Male,1999-02-05,United Kingdom,United Arab Emirates,+971559541127,ahmed.khan919@example.com,Married,Retail,2025-12-12,Branch,Active,False,Not Selected
+CUST00920,Noura Fernandez,Female,1972-07-27,Nepal,United Arab Emirates,+971539431208,noura.fernandez920@example.com,Divorced,Student,2024-01-22,Web,Active,False,Not Selected
+CUST00921,Ahmed Hussain,Male,1999-05-01,United Kingdom,United Arab Emirates,+971583937567,ahmed.hussain921@example.com,Single,SME,2025-06-11,Web,Active,False,Not Selected
+CUST00922,Hassan Rafi,Male,1990-01-04,Egypt,United Arab Emirates,+971559478024,hassan.rafi922@example.com,Single,SME,2025-04-19,Mobile App,Active,False,Not Selected
+CUST00923,Fatima Rafi,Female,1978-06-22,Philippines,United Arab Emirates,+971596914605,fatima.rafi923@example.com,Married,Retail,2026-10-01,Branch,Active,False,Not Selected
+CUST00924,Hassan Rahman,Male,1973-02-11,Pakistan,United Arab Emirates,+971567229772,hassan.rahman924@example.com,Single,SME,2024-10-20,Agent,Active,False,Not Selected
+CUST00925,Mohamed Ali,Male,1986-12-14,India,United Arab Emirates,+971524768716,mohamed.ali925@example.com,Single,Retail,2026-02-25,Web,Active,False,Not Selected
+CUST00926,Rafi Rafi,Male,1998-02-22,India,United Arab Emirates,+971524272571,rafi.rafi926@example.com,Divorced,Student,2024-01-28,Mobile App,Active,False,Not Selected
+CUST00927,Grace Rafi,Female,1983-10-16,Jordan,United Arab Emirates,+971530738427,grace.rafi927@example.com,Single,Retail,2025-11-10,Branch,Active,False,Not Selected
+CUST00928,Mohamed Khan,Male,1974-08-12,Pakistan,United Arab Emirates,+971578658060,mohamed.khan928@example.com,Married,Salary,2025-08-30,Mobile App,Inactive,False,Not Selected
+CUST00929,Omar Hussain,Male,1987-04-16,Nepal,United Arab Emirates,+971597961547,omar.hussain929@example.com,Married,Salary,2024-10-28,Agent,Active,False,Not Selected
+CUST00930,Khalid Rafi,Male,1974-12-10,Pakistan,United Arab Emirates,+971547824471,khalid.rafi930@example.com,Married,Retail,2025-04-04,Branch,Active,False,Not Selected
+CUST00931,Mohamed Rafi,Male,1977-12-27,United Arab Emirates,United Arab Emirates,+971554942009,mohamed.rafi931@example.com,Divorced,Salary,2026-05-27,Agent,Active,False,Not Selected
+CUST00932,Noura Fernandez,Female,1974-08-30,Jordan,United Arab Emirates,+971598816127,noura.fernandez932@example.com,Married,Student,2025-07-09,Mobile App,Active,False,Not Selected
+CUST00933,Ali Fernandez,Male,1976-08-18,Jordan,United Arab Emirates,+971574214057,ali.fernandez933@example.com,Single,Retail,2026-03-10,Agent,Suspended,False,Not Selected
+CUST00934,Fatima Ali,Female,1984-06-28,Philippines,United Arab Emirates,+971561676160,fatima.ali934@example.com,Married,Student,2024-09-18,Agent,Active,False,Not Selected
+CUST00935,Priya Rafi,Female,2005-12-25,Egypt,United Arab Emirates,+971566191544,priya.rafi935@example.com,Divorced,SME,2025-05-18,Agent,Active,False,Not Selected
+CUST00936,Hassan Ali,Male,1996-01-23,United Arab Emirates,United Arab Emirates,+971587561262,hassan.ali936@example.com,Divorced,Salary,2026-05-13,Mobile App,Active,False,Not Selected
+CUST00937,Omar Khan,Male,1986-04-04,Philippines,United Arab Emirates,+971524784930,omar.khan937@example.com,Single,Student,2026-08-28,Branch,Inactive,False,Not Selected
+CUST00938,Rafi Nair,Male,1976-06-19,Bangladesh,United Arab Emirates,+971538284690,rafi.nair938@example.com,Single,Retail,2026-05-12,Web,Active,False,Not Selected
+CUST00939,Hassan Khan,Male,2001-03-24,Nepal,United Arab Emirates,+971517258943,hassan.khan939@example.com,Divorced,Retail,2026-05-19,Mobile App,Active,False,Not Selected
+CUST00940,Mohamed Rafi,Male,1986-05-21,Pakistan,United Arab Emirates,+971542889491,mohamed.rafi940@example.com,Single,Retail,2024-10-16,Agent,Active,False,Not Selected
+CUST00941,Khalid Rafi,Male,2003-07-23,Sri Lanka,United Arab Emirates,+971573107095,khalid.rafi941@example.com,Married,Student,2026-12-16,Agent,Active,False,Not Selected
+CUST00942,Rafi Ali,Male,1976-12-29,India,United Arab Emirates,+971591090807,rafi.ali942@example.com,Single,Premium,2024-05-02,Web,Active,False,Not Selected
+CUST00943,Grace Ahmed,Female,2001-11-29,United Kingdom,United Arab Emirates,+971577360178,grace.ahmed943@example.com,Married,Salary,2025-06-12,Agent,Suspended,False,Not Selected
+CUST00944,Sara Ahmed,Female,1986-12-08,Bangladesh,United Arab Emirates,+971563741103,sara.ahmed944@example.com,Divorced,Retail,2024-09-13,Web,Active,False,Not Selected
+CUST00945,Khalid Nair,Male,1984-01-19,Egypt,United Arab Emirates,+971532122351,khalid.nair945@example.com,Single,Student,2026-04-09,Agent,Active,False,Not Selected
+CUST00946,Ahmed Ali,Male,1986-04-09,India,United Arab Emirates,+971542149161,ahmed.ali946@example.com,Married,Salary,2025-11-18,Mobile App,Active,False,Not Selected
+CUST00947,Rafi Rahman,Male,1994-09-30,India,United Arab Emirates,+971542257238,rafi.rahman947@example.com,Married,Retail,2025-02-17,Mobile App,Active,False,Not Selected
+CUST00948,Aisha Khan,Female,1984-02-11,Sri Lanka,United Arab Emirates,+971511137995,aisha.khan948@example.com,Married,Student,2024-07-09,Agent,Active,False,Not Selected
+CUST00949,Anjali Fernandez,Female,1975-10-24,Nepal,United Arab Emirates,+971564665076,anjali.fernandez949@example.com,Divorced,Premium,2024-07-18,Mobile App,Active,False,Not Selected
+CUST00950,Mohamed Hussain,Male,1991-05-25,Sri Lanka,United Arab Emirates,+971531638985,mohamed.hussain950@example.com,Single,SME,2024-03-17,Mobile App,Inactive,False,Not Selected
+CUST00951,Omar Rahman,Male,2000-07-27,Philippines,United Arab Emirates,+971577326285,omar.rahman951@example.com,Divorced,Premium,2024-10-15,Branch,Active,False,Not Selected
+CUST00952,Bilal Thomas,Male,1986-03-01,India,United Arab Emirates,+971562027391,bilal.thomas952@example.com,Single,Salary,2026-06-01,Mobile App,Suspended,False,Not Selected
+CUST00953,Sara Khan,Female,1976-05-25,United Arab Emirates,United Arab Emirates,+971521699448,sara.khan953@example.com,Married,Retail,2025-09-25,Agent,Active,False,Not Selected
+CUST00954,Fatima Ali,Female,1982-07-26,Nepal,United Arab Emirates,+971521976146,fatima.ali954@example.com,Single,Salary,2026-01-14,Agent,Active,False,Not Selected
+CUST00955,Noura Nair,Female,1999-03-04,Pakistan,United Arab Emirates,+971586334111,noura.nair955@example.com,Married,Retail,2024-10-14,Branch,Inactive,False,Not Selected
+CUST00956,Anjali Rafi,Female,1989-10-10,United Arab Emirates,United Arab Emirates,+971593836675,anjali.rafi956@example.com,Married,Student,2026-01-21,Mobile App,Active,False,Not Selected
+CUST00957,Noura Khan,Female,1997-11-03,Bangladesh,United Arab Emirates,+971585269356,noura.khan957@example.com,Single,Salary,2024-04-26,Mobile App,Active,False,Not Selected
+CUST00958,Hassan Ali,Male,1980-01-03,Jordan,United Arab Emirates,+971599811868,hassan.ali958@example.com,Single,Student,2026-03-06,Agent,Active,False,Not Selected
+CUST00959,Sara Ali,Female,1978-02-01,Egypt,United Arab Emirates,+971568131630,sara.ali959@example.com,Single,SME,2024-08-09,Branch,Active,False,Not Selected
+CUST00960,Grace Rahman,Female,2001-07-03,Pakistan,United Arab Emirates,+971547362868,grace.rahman960@example.com,Married,Retail,2026-09-02,Web,Suspended,False,Not Selected
+CUST00961,Omar Fernandez,Male,1995-06-28,United Kingdom,United Arab Emirates,+971561040965,omar.fernandez961@example.com,Single,Student,2024-03-05,Agent,Closed,False,Not Selected
+CUST00962,Mohamed Rahman,Male,1971-01-11,Sri Lanka,United Arab Emirates,+971543832435,mohamed.rahman962@example.com,Divorced,Salary,2026-05-16,Mobile App,Active,False,Not Selected
+CUST00963,Anjali Ali,Female,1983-05-20,Egypt,United Arab Emirates,+971580434503,anjali.ali963@example.com,Single,Student,2026-07-13,Web,Inactive,False,Not Selected
+CUST00964,Hassan Fernandez,Male,2003-10-15,Philippines,United Arab Emirates,+971536656353,hassan.fernandez964@example.com,Married,SME,2025-08-31,Agent,Active,False,Not Selected
+CUST00965,Hassan Fernandez,Male,2001-01-30,India,United Arab Emirates,+971585283856,hassan.fernandez965@example.com,Divorced,Salary,2026-03-07,Mobile App,Active,False,Not Selected
+CUST00966,Bilal Fernandez,Male,1970-08-21,Jordan,United Arab Emirates,+971529795314,bilal.fernandez966@example.com,Married,Student,2024-11-04,Mobile App,Active,False,Not Selected
+CUST00967,Noura Ahmed,Female,2002-05-26,Jordan,United Arab Emirates,+971526873477,noura.ahmed967@example.com,Divorced,SME,2024-01-08,Mobile App,Active,False,Not Selected
+CUST00968,Hassan Ahmed,Male,2004-09-26,United Kingdom,United Arab Emirates,+971560674785,hassan.ahmed968@example.com,Single,Student,2024-12-06,Web,Suspended,False,Not Selected
+CUST00969,Bilal Fernandez,Male,1970-09-23,Sri Lanka,United Arab Emirates,+971577388734,bilal.fernandez969@example.com,Single,SME,2025-09-10,Agent,Active,False,Not Selected
+CUST00970,Priya Ahmed,Female,1989-02-07,Nepal,United Arab Emirates,+971525217605,priya.ahmed970@example.com,Single,SME,2026-12-07,Agent,Active,False,Not Selected
+CUST00971,Hassan Hussain,Male,1982-10-14,Sri Lanka,United Arab Emirates,+971593265522,hassan.hussain971@example.com,Single,Retail,2026-06-14,Mobile App,Active,False,Not Selected
+CUST00972,Hassan Ali,Male,1992-04-08,Jordan,United Arab Emirates,+971577560039,hassan.ali972@example.com,Divorced,Retail,2024-07-23,Branch,Inactive,False,Not Selected
+CUST00973,Omar Nair,Male,1994-09-29,Pakistan,United Arab Emirates,+971536247650,omar.nair973@example.com,Married,Retail,2026-02-19,Branch,Suspended,False,Not Selected
+CUST00974,Anjali Hussain,Female,1970-05-05,Bangladesh,United Arab Emirates,+971578123659,anjali.hussain974@example.com,Married,Student,2026-02-06,Branch,Active,False,Not Selected
+CUST00975,Mariam Khan,Female,1988-08-06,India,United Arab Emirates,+971513522788,mariam.khan975@example.com,Single,Student,2024-03-07,Branch,Active,False,Not Selected
+CUST00976,Mariam Ahmed,Female,1987-07-23,United Kingdom,United Arab Emirates,+971596494515,mariam.ahmed976@example.com,Married,Retail,2025-01-29,Agent,Active,False,Not Selected
+CUST00977,Fatima Hussain,Female,1984-04-09,Philippines,United Arab Emirates,+971568707047,fatima.hussain977@example.com,Single,Retail,2026-11-25,Web,Active,False,Not Selected
+CUST00978,Noura Ahmed,Female,1977-02-18,Bangladesh,United Arab Emirates,+971522516397,noura.ahmed978@example.com,Single,Retail,2025-10-22,Agent,Active,False,Not Selected
+CUST00979,Mohamed Ahmed,Male,1973-07-14,India,United Arab Emirates,+971527521857,mohamed.ahmed979@example.com,Married,Student,2026-02-22,Web,Active,False,Not Selected
+CUST00980,Rafi Rahman,Male,1994-01-07,Egypt,United Arab Emirates,+971544960996,rafi.rahman980@example.com,Divorced,Retail,2025-05-17,Branch,Active,False,Not Selected
+CUST00981,Mohamed Ali,Male,1974-12-23,United Kingdom,United Arab Emirates,+971526466411,mohamed.ali981@example.com,Single,Salary,2026-07-29,Branch,Active,False,Not Selected
+CUST00982,Ahmed Ali,Male,1992-03-03,Bangladesh,United Arab Emirates,+971562452316,ahmed.ali982@example.com,Single,SME,2026-01-10,Mobile App,Active,False,Not Selected
+CUST00983,Sara Rahman,Female,2000-10-31,Egypt,United Arab Emirates,+971552088657,sara.rahman983@example.com,Divorced,SME,2026-05-09,Web,Active,False,Not Selected
+CUST00984,Ali Khan,Male,1975-04-05,Nepal,United Arab Emirates,+971574949433,ali.khan984@example.com,Divorced,Premium,2025-12-03,Mobile App,Active,False,Not Selected
+CUST00985,Sara Rahman,Female,1997-03-10,United Arab Emirates,United Arab Emirates,+971513092131,sara.rahman985@example.com,Divorced,Premium,2024-03-01,Web,Active,False,Not Selected
+CUST00986,Sara Rahman,Female,1971-04-29,Philippines,United Arab Emirates,+971539495837,sara.rahman986@example.com,Single,Salary,2025-11-01,Branch,Active,False,Not Selected
+CUST00987,Ahmed Fernandez,Male,2001-10-06,Jordan,United Arab Emirates,+971576545378,ahmed.fernandez987@example.com,Married,Premium,2025-08-25,Agent,Suspended,False,Not Selected
+CUST00988,Fatima Rahman,Female,2000-10-26,Egypt,United Arab Emirates,+971523810279,fatima.rahman988@example.com,Divorced,Premium,2025-07-29,Branch,Active,False,Not Selected
+CUST00989,Khalid Hussain,Male,1990-01-05,United Kingdom,United Arab Emirates,+971546463456,khalid.hussain989@example.com,Married,Premium,2026-05-17,Mobile App,Active,False,Not Selected
+CUST00990,Mariam Fernandez,Female,1986-10-10,Jordan,United Arab Emirates,+971532447787,mariam.fernandez990@example.com,Single,Premium,2024-05-11,Branch,Active,False,Not Selected
+CUST00991,Priya Hussain,Female,1971-05-06,Philippines,United Arab Emirates,+971553309532,priya.hussain991@example.com,Married,Salary,2024-08-22,Branch,Active,False,Not Selected
+CUST00992,Bilal Fernandez,Male,1976-07-04,Pakistan,United Arab Emirates,+971511292919,bilal.fernandez992@example.com,Married,Retail,2025-10-05,Branch,Active,False,Not Selected
+CUST00993,Mariam Ahmed,Female,1972-12-21,Sri Lanka,United Arab Emirates,+971590772485,mariam.ahmed993@example.com,Single,Premium,2026-02-28,Web,Active,False,Not Selected
+CUST00994,Sara Hussain,Female,2000-08-07,Nepal,United Arab Emirates,+971552965968,sara.hussain994@example.com,Single,Salary,2026-06-10,Mobile App,Active,False,Not Selected
+CUST00995,Aisha Thomas,Female,1988-11-23,Pakistan,United Arab Emirates,+971570771788,aisha.thomas995@example.com,Single,Premium,2024-09-01,Branch,Active,False,Not Selected
+CUST00996,Mohamed Thomas,Male,1970-10-20,Jordan,United Arab Emirates,+971548166934,mohamed.thomas996@example.com,Single,SME,2024-01-10,Mobile App,Inactive,False,Not Selected
+CUST00997,Bilal Khan,Male,1973-02-11,Pakistan,United Arab Emirates,+971565710942,bilal.khan997@example.com,Divorced,Student,2026-08-20,Branch,Active,False,Not Selected
+CUST00998,Anjali Ali,Female,1994-12-17,Jordan,United Arab Emirates,+971592184286,anjali.ali998@example.com,Single,SME,2025-10-03,Branch,Active,False,Not Selected
+CUST00999,Grace Ali,Female,1986-10-10,India,United Arab Emirates,+971540066698,grace.ali999@example.com,Single,Retail,2024-07-29,Web,Active,False,Not Selected
+CUST01000,Anjali Rahman,Female,1977-08-20,Bangladesh,United Arab Emirates,+971559510172,anjali.rahman1000@example.com,Divorced,Retail,2024-06-29,Mobile App,Active,False,Not Selected
